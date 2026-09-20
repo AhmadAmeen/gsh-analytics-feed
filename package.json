@@ -1,0 +1,12 @@
+{
+  "name": "gsh-analytics-feed",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Daily GA4 page-engagement and channel report feed for Grand Strategy Hub. Outputs numbers only (no credentials) to a public repo so the site's analytics are machine-readable.",
+  "scripts": {
+    "start": "node ga4-report.js"
+  },
+  "dependencies": {
+    "@google-analytics/data": "^4.0.0"
+  }
+}

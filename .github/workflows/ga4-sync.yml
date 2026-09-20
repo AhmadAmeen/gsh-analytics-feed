@@ -1,0 +1,44 @@
+name: GA4 Report Sync
+
+on:
+  schedule:
+    # Daily 18:00 UTC. Evening run so GA4's intraday processing for "today"
+    # is settled by the time the report is generated.
+    - cron: '0 18 * * *'
+  workflow_dispatch: # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-ga4-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - run: npm install
+
+      # The key file is written to the OS temp dir inside the script (never the
+      # workspace), so it cannot be committed. GitHub also masks secret values in
+      # logs as a second layer of protection.
+      - name: Run report script
+        run: node ga4-report.js
+        env:
+          GA4_SERVICE_ACCOUNT_KEY: ${{ secrets.GA4_SERVICE_ACCOUNT_KEY }}
+          GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}
+
+      - name: Commit and push updated reports
+        run: |
+          git config user.name "GA4 Report Bot"
+          git config user.email "actions@github.com"
+          git add ga4-page-report.json ga4-channel-report.json
+          if git diff --quiet --cached; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update GA4 report $(date -u +%Y-%m-%d)"
+            git push
+          fi

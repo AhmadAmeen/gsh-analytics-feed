@@ -1,0 +1,6 @@
+# Never commit the service account key.
+ga4-service-account.json
+
+node_modules/
+*.log
+.DS_Store
