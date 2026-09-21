@@ -1,10 +1,10 @@
 [
   {
     "channel": "Organic Search",
-    "sessions": "158",
+    "sessions": "159",
     "engagedSessions": "101",
-    "engagementRate": "0.63924050632911389",
-    "avgSessionDurationSec": "195.91409699367088"
+    "engagementRate": "0.63522012578616349",
+    "avgSessionDurationSec": "194.68193286163523"
   },
   {
     "channel": "Direct",
@@ -15,17 +15,17 @@
   },
   {
     "channel": "Organic Social",
-    "sessions": "31",
+    "sessions": "32",
     "engagedSessions": "18",
-    "engagementRate": "0.58064516129032262",
-    "avgSessionDurationSec": "20.23450187096774"
+    "engagementRate": "0.5625",
+    "avgSessionDurationSec": "19.6021736875"
   },
   {
     "channel": "Unassigned",
-    "sessions": "17",
+    "sessions": "18",
     "engagedSessions": "0",
     "engagementRate": "0",
-    "avgSessionDurationSec": "0"
+    "avgSessionDurationSec": "4.9486434444444445"
   },
   {
     "channel": "AI Assistant",

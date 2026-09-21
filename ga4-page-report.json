@@ -6,7 +6,7 @@
     "avgSessionDurationSec": "149.736585859375",
     "userEngagementDurationSec": "2955",
     "engagedSessions": "41",
-    "pageViews": "66"
+    "pageViews": "67"
   },
   {
     "page": "/",
@@ -54,6 +54,15 @@
     "pageViews": "7"
   },
   {
+    "page": "/blog/ck3-best-starting-character/",
+    "sessions": "21",
+    "activeUsers": "18",
+    "avgSessionDurationSec": "99.74509",
+    "userEngagementDurationSec": "373",
+    "engagedSessions": "7",
+    "pageViews": "21"
+  },
+  {
     "page": "/blog/ck3-intrigue-guide/",
     "sessions": "9",
     "activeUsers": "9",
@@ -61,15 +70,6 @@
     "userEngagementDurationSec": "341",
     "engagedSessions": "4",
     "pageViews": "12"
-  },
-  {
-    "page": "/blog/ck3-best-starting-character/",
-    "sessions": "20",
-    "activeUsers": "17",
-    "avgSessionDurationSec": "100.27856539999999",
-    "userEngagementDurationSec": "285",
-    "engagedSessions": "7",
-    "pageViews": "19"
   },
   {
     "page": "/tools/eu4-trade-map/",
@@ -325,12 +325,12 @@
   },
   {
     "page": "/blog/eu5-parliament-explained/",
-    "sessions": "5",
-    "activeUsers": "5",
-    "avgSessionDurationSec": "39.8128686",
+    "sessions": "6",
+    "activeUsers": "6",
+    "avgSessionDurationSec": "33.1773905",
     "userEngagementDurationSec": "24",
     "engagedSessions": "1",
-    "pageViews": "5"
+    "pageViews": "6"
   },
   {
     "page": "/tools/",
