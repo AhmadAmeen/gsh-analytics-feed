@@ -1,0 +1,51 @@
+[
+  {
+    "channel": "Organic Search",
+    "sessions": "158",
+    "engagedSessions": "101",
+    "engagementRate": "0.63924050632911389",
+    "avgSessionDurationSec": "195.91409699367088"
+  },
+  {
+    "channel": "Direct",
+    "sessions": "122",
+    "engagedSessions": "22",
+    "engagementRate": "0.18032786885245902",
+    "avgSessionDurationSec": "145.93025901639345"
+  },
+  {
+    "channel": "Organic Social",
+    "sessions": "31",
+    "engagedSessions": "18",
+    "engagementRate": "0.58064516129032262",
+    "avgSessionDurationSec": "20.23450187096774"
+  },
+  {
+    "channel": "Unassigned",
+    "sessions": "17",
+    "engagedSessions": "0",
+    "engagementRate": "0",
+    "avgSessionDurationSec": "0"
+  },
+  {
+    "channel": "AI Assistant",
+    "sessions": "15",
+    "engagedSessions": "3",
+    "engagementRate": "0.2",
+    "avgSessionDurationSec": "16.231925399999998"
+  },
+  {
+    "channel": "Cross-network",
+    "sessions": "10",
+    "engagedSessions": "0",
+    "engagementRate": "0",
+    "avgSessionDurationSec": "15.9068059"
+  },
+  {
+    "channel": "Referral",
+    "sessions": "1",
+    "engagedSessions": "1",
+    "engagementRate": "1",
+    "avgSessionDurationSec": "127.309013"
+  }
+]

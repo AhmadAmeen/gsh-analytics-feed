@@ -2,46 +2,26 @@
 // Pulls page-engagement and channel reports from GA4 and writes them as JSON.
 //
 // Auth (two ways):
-//   1. CI / GitHub Actions: pass GA4_SERVICE_ACCOUNT_KEY (the entire service-account
-//      JSON, as a secret) and GA4_PROPERTY_ID (numeric property id, as a secret) via
-//      environment variables. The key is written to the OS temp dir, NEVER the
-//      workspace, so it cannot end up in a commit. The Google client picks it up
-//      via Application Default Credentials (GOOGLE_APPLICATION_CREDENTIALS path).
-//   2. Local: drop ga4-service-account.json next to this script (gitignored) and
-//      optionally set GA4_PROPERTY_ID. The script falls back to a hardcoded id for
-//      one-off local runs.
+//   1. CI / GitHub Actions: GA4_SERVICE_ACCOUNT_KEY (the full service-account JSON)
+//      and GA4_PROPERTY_ID arrive as environment variables from repo secrets. The key
+//      is parsed in memory and NEVER written to disk.
+//   2. Local: ga4-service-account.json sits next to this script (gitignored). The
+//      property id comes from GA4_PROPERTY_ID or falls back to the value below.
 
 const { BetaAnalyticsDataClient } = require('@google-analytics/data');
 const fs = require('fs');
-const os = require('os');
-const path = require('path');
 
-// --- auth ---------------------------------------------------------------
-const clientOptions = {};
-if (process.env.GA4_SERVICE_ACCOUNT_KEY) {
-  // CI path: write the key out of the workspace so it can never be committed.
-  const tmpKeyPath = path.join(os.tmpdir(), 'ga4-sa.json');
-  fs.writeFileSync(tmpKeyPath, process.env.GA4_SERVICE_ACCOUNT_KEY);
-  process.env.GOOGLE_APPLICATION_CREDENTIALS = tmpKeyPath;
-  clientOptions.keyFilename = tmpKeyPath;
-} else if (fs.existsSync('./ga4-service-account.json')) {
-  // Local path: key file next to the script (gitignored).
-  clientOptions.keyFilename = './ga4-service-account.json';
-} else {
-  console.error(
-    'No GA4 service account key found.\n' +
-    '  CI:           set the GA4_SERVICE_ACCOUNT_KEY secret.\n' +
-    '  Local:        place ga4-service-account.json in the repo root.'
-  );
-  process.exit(1);
-}
+const credentials = process.env.GA4_SERVICE_ACCOUNT_KEY
+  ? JSON.parse(process.env.GA4_SERVICE_ACCOUNT_KEY)
+  : undefined;
 
-const analyticsDataClient = new BetaAnalyticsDataClient(clientOptions);
+const analyticsDataClient = new BetaAnalyticsDataClient(
+  credentials ? { credentials } : { keyFilename: './ga4-service-account.json' }
+);
 
 // Numeric GA4 property id (NOT the G-XXXXXX measurement id).
-const PROPERTY_ID = process.env.GA4_PROPERTY_ID || 'REPLACE_WITH_YOUR_PROPERTY_ID';
+const PROPERTY_ID = process.env.GA4_PROPERTY_ID || '553014412';
 
-// --- reports ------------------------------------------------------------
 async function getPageEngagementReport() {
   const [response] = await analyticsDataClient.runReport({
     property: `properties/${PROPERTY_ID}`,
@@ -106,11 +86,10 @@ async function main() {
 
   console.log('\n--- top 10 pages by engagement time ---');
   pageRows.slice(0, 10).forEach((r) =>
-    console.log(`  ${r.page}: ${r.userEngagementDurationSec}s engagement`)
+    console.log(`  ${r.page}: ${r.userEngagementDurationSec}s engagement, ${r.sessions} sessions`)
   );
-  console.log('--- channels (sessions) ---');
-  channelRows.forEach((r) => console.log(`  ${r.channel}: ${r.sessions}`));
-  console.log('\nOutput: ga4-page-report.json + ga4-channel-report.json');
+  console.log('--- channels ---');
+  channelRows.forEach((r) => console.log(`  ${r.channel}: ${r.sessions} sessions`));
 }
 
 main().catch((err) => {
