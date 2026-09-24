@@ -2,8 +2,9 @@ name: GA4 Report Sync
 
 on:
   schedule:
-    # Daily 18:00 UTC. Evening run so GA4's intraday processing for "today"
-    # is settled by the time the report is generated.
+    # Two daily windows (06:00 and 18:00 UTC) so a single missed trigger never
+    # lets the feed go stale. Evening run lets GA4's intraday processing settle.
+    - cron: '0 6 * * *'
     - cron: '0 18 * * *'
   workflow_dispatch: # lets you trigger it manually from the Actions tab
 
@@ -35,7 +36,7 @@ jobs:
         run: |
           git config user.name "GA4 Report Bot"
           git config user.email "actions@github.com"
-          git add ga4-page-report.json ga4-channel-report.json
+          git add ga4-page-report.json ga4-channel-report.json ga4-direct-landing-report.json ga4-direct-browser-report.json
           if git diff --quiet --cached; then
             echo "No changes to commit"
           else

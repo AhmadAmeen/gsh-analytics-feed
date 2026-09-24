@@ -6,15 +6,23 @@ Costs **$0**: Google's Analytics Data API free tier (25,000 requests/day, 60,000
 
 ## Outputs
 
+Each report JSON is an object: `{ "generatedAt": "<ISO timestamp>", "rows": [ ... ] }`. The
+`generatedAt` field is the refactor's freshness check: if it does not advance daily, the cron
+stopped firing regardless of what the numbers look like.
+
 | File | Contents |
 |---|---|
 | `ga4-page-report.json` | Top 50 pages by engagement time: sessions, active users, avg session duration, engagement duration, engaged sessions, page views |
 | `ga4-channel-report.json` | Channel breakdown: sessions, engaged sessions, engagement rate, avg session duration |
+| `ga4-direct-landing-report.json` | Direct-channel landings: pages reached with no referrer, sessions, duration, engagement rate, views |
+| `ga4-direct-browser-report.json` | Direct-channel browsers: sessions, users, duration, engaged sessions, engagement rate |
 
 Fetchable at (public, no auth):
 ```
 https://raw.githubusercontent.com/AhmadAmeen/gsh-analytics-feed/main/ga4-page-report.json
 https://raw.githubusercontent.com/AhmadAmeen/gsh-analytics-feed/main/ga4-channel-report.json
+https://raw.githubusercontent.com/AhmadAmeen/gsh-analytics-feed/main/ga4-direct-landing-report.json
+https://raw.githubusercontent.com/AhmadAmeen/gsh-analytics-feed/main/ga4-direct-browser-report.json
 ```
 
 ## Security model
@@ -56,7 +64,7 @@ node ga4-report.js
 
 ## First run (to confirm everything works)
 
-Actions tab → **GA4 Report Sync** → **Run workflow** (this uses the `workflow_dispatch` trigger). Confirm `ga4-page-report.json` and `ga4-channel-report.json` appear in the repo root afterward. The workflow also runs automatically daily at 18:00 UTC.
+Actions tab → **GA4 Report Sync** → **Run workflow** (this uses the `workflow_dispatch` trigger). Confirm `ga4-page-report.json` and `ga4-channel-report.json` appear in the repo root afterward. The workflow also runs automatically twice daily (06:00 and 18:00 UTC).
 
 ## Troubleshooting
 
