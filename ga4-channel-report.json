@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T20:55:46.808Z",
+  "generatedAt": "2026-09-24T20:56:59.480Z",
   "rows": [
     {
       "channel": "Organic Search",
@@ -10,10 +10,10 @@
     },
     {
       "channel": "Direct",
-      "sessions": "154",
+      "sessions": "155",
       "engagedSessions": "33",
-      "engagementRate": "0.21428571428571427",
-      "avgSessionDurationSec": "183.05315318831168"
+      "engagementRate": "0.2129032258064516",
+      "avgSessionDurationSec": "181.87216510322583"
     },
     {
       "channel": "Organic Social",
