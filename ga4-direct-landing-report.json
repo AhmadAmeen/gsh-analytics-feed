@@ -1,0 +1,245 @@
+{
+  "generatedAt": "2026-09-24T20:55:47.532Z",
+  "rows": [
+    {
+      "landingPage": "/",
+      "sessions": "73",
+      "activeUsers": "57",
+      "avgSessionDurationSec": "174.30159069863015",
+      "engagementRate": "0.21917808219178081",
+      "pageViews": "107"
+    },
+    {
+      "landingPage": "/tools/eu5-army-simulator",
+      "sessions": "7",
+      "activeUsers": "1",
+      "avgSessionDurationSec": "1136.8316715714286",
+      "engagementRate": "0.8571428571428571",
+      "pageViews": "32"
+    },
+    {
+      "landingPage": "/blog/ck3-best-starting-character",
+      "sessions": "5",
+      "activeUsers": "5",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "5"
+    },
+    {
+      "landingPage": "/blog/ck3-renown-prestige-guide",
+      "sessions": "5",
+      "activeUsers": "5",
+      "avgSessionDurationSec": "3.251312",
+      "engagementRate": "0",
+      "pageViews": "5"
+    },
+    {
+      "landingPage": "/blog/eu5-new-players-path",
+      "sessions": "5",
+      "activeUsers": "2",
+      "avgSessionDurationSec": "498.6136944",
+      "engagementRate": "0.6",
+      "pageViews": "13"
+    },
+    {
+      "landingPage": "/blog/eu5-army-composition",
+      "sessions": "4",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "4"
+    },
+    {
+      "landingPage": "(not set)",
+      "sessions": "3",
+      "activeUsers": "1",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "0"
+    },
+    {
+      "landingPage": "/blog/ck3-culture-faith-mechanics",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "3"
+    },
+    {
+      "landingPage": "/blog/ck3-succession-laws",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "2.415674",
+      "engagementRate": "0",
+      "pageViews": "3"
+    },
+    {
+      "landingPage": "/blog/eu4-trade-power-merchants-steering",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "3"
+    },
+    {
+      "landingPage": "/quiz",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "4.1264026666666664",
+      "engagementRate": "0.33333333333333331",
+      "pageViews": "4"
+    },
+    {
+      "landingPage": "/tools",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "0.18246966666666667",
+      "engagementRate": "0",
+      "pageViews": "3"
+    },
+    {
+      "landingPage": "/blog",
+      "sessions": "2",
+      "activeUsers": "2",
+      "avgSessionDurationSec": "0.6391255",
+      "engagementRate": "0",
+      "pageViews": "2"
+    },
+    {
+      "landingPage": "/blog/best-eu5-starting-nation",
+      "sessions": "2",
+      "activeUsers": "2",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "2"
+    },
+    {
+      "landingPage": "/blog/ck3-best-religion",
+      "sessions": "2",
+      "activeUsers": "2",
+      "avgSessionDurationSec": "10.3383755",
+      "engagementRate": "0.5",
+      "pageViews": "2"
+    },
+    {
+      "landingPage": "/blog/eu4-trade-companies-explained",
+      "sessions": "2",
+      "activeUsers": "2",
+      "avgSessionDurationSec": "2.9542915",
+      "engagementRate": "0",
+      "pageViews": "2"
+    },
+    {
+      "landingPage": "/blog/eu4-trade-node-map",
+      "sessions": "2",
+      "activeUsers": "2",
+      "avgSessionDurationSec": "164.333744",
+      "engagementRate": "0.5",
+      "pageViews": "3"
+    },
+    {
+      "landingPage": "/blog/paradox-dlc-release-schedule-2026",
+      "sessions": "2",
+      "activeUsers": "2",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "2"
+    },
+    {
+      "landingPage": "/category/ck3",
+      "sessions": "2",
+      "activeUsers": "2",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "2"
+    },
+    {
+      "landingPage": "/category/eu5",
+      "sessions": "2",
+      "activeUsers": "2",
+      "avgSessionDurationSec": "0.4764345",
+      "engagementRate": "0",
+      "pageViews": "2"
+    },
+    {
+      "landingPage": "//blog/eu5-expeditions-explained",
+      "sessions": "1",
+      "activeUsers": "1",
+      "avgSessionDurationSec": "1319.940737",
+      "engagementRate": "1",
+      "pageViews": "2"
+    },
+    {
+      "landingPage": "/about",
+      "sessions": "1",
+      "activeUsers": "1",
+      "avgSessionDurationSec": "0.616989",
+      "engagementRate": "0",
+      "pageViews": "1"
+    },
+    {
+      "landingPage": "/blog/best-eu4-mods-2026",
+      "sessions": "1",
+      "activeUsers": "1",
+      "avgSessionDurationSec": "8.025041",
+      "engagementRate": "0",
+      "pageViews": "1"
+    },
+    {
+      "landingPage": "/blog/best-paradox-grand-strategy-game-for-beginners",
+      "sessions": "1",
+      "activeUsers": "1",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "1"
+    },
+    {
+      "landingPage": "/blog/ck3-by-god-alone",
+      "sessions": "1",
+      "activeUsers": "1",
+      "avgSessionDurationSec": "3.194404",
+      "engagementRate": "0",
+      "pageViews": "1"
+    },
+    {
+      "landingPage": "/blog/ck3-dlc-guide",
+      "sessions": "1",
+      "activeUsers": "1",
+      "avgSessionDurationSec": "35.189776",
+      "engagementRate": "1",
+      "pageViews": "1"
+    },
+    {
+      "landingPage": "/blog/ck3-small-county-survival-guide",
+      "sessions": "1",
+      "activeUsers": "1",
+      "avgSessionDurationSec": "20.694276",
+      "engagementRate": "1",
+      "pageViews": "1"
+    },
+    {
+      "landingPage": "/blog/eu4-achievement-guide",
+      "sessions": "1",
+      "activeUsers": "1",
+      "avgSessionDurationSec": "12.140226",
+      "engagementRate": "1",
+      "pageViews": "1"
+    },
+    {
+      "landingPage": "/blog/eu4-custom-nation-guide",
+      "sessions": "1",
+      "activeUsers": "1",
+      "avgSessionDurationSec": "8.20117",
+      "engagementRate": "0",
+      "pageViews": "1"
+    },
+    {
+      "landingPage": "/blog/eu4-estates-crownland-privileges",
+      "sessions": "1",
+      "activeUsers": "1",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "1"
+    }
+  ]
+}

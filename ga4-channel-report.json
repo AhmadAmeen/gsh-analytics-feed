@@ -1,51 +1,54 @@
-[
-  {
-    "channel": "Organic Search",
-    "sessions": "180",
-    "engagedSessions": "121",
-    "engagementRate": "0.67222222222222228",
-    "avgSessionDurationSec": "189.67315762777778"
-  },
-  {
-    "channel": "Direct",
-    "sessions": "144",
-    "engagedSessions": "27",
-    "engagementRate": "0.1875",
-    "avgSessionDurationSec": "169.70869931250002"
-  },
-  {
-    "channel": "Organic Social",
-    "sessions": "48",
-    "engagedSessions": "28",
-    "engagementRate": "0.58333333333333337",
-    "avgSessionDurationSec": "18.305280624999998"
-  },
-  {
-    "channel": "AI Assistant",
-    "sessions": "20",
-    "engagedSessions": "3",
-    "engagementRate": "0.15",
-    "avgSessionDurationSec": "12.17394405"
-  },
-  {
-    "channel": "Unassigned",
-    "sessions": "9",
-    "engagedSessions": "0",
-    "engagementRate": "0",
-    "avgSessionDurationSec": "334.51265444444448"
-  },
-  {
-    "channel": "Cross-network",
-    "sessions": "8",
-    "engagedSessions": "0",
-    "engagementRate": "0",
-    "avgSessionDurationSec": "3.908885375"
-  },
-  {
-    "channel": "Referral",
-    "sessions": "1",
-    "engagedSessions": "1",
-    "engagementRate": "1",
-    "avgSessionDurationSec": "127.309013"
-  }
-]
+{
+  "generatedAt": "2026-09-24T20:55:46.808Z",
+  "rows": [
+    {
+      "channel": "Organic Search",
+      "sessions": "192",
+      "engagedSessions": "129",
+      "engagementRate": "0.671875",
+      "avgSessionDurationSec": "187.90702733854167"
+    },
+    {
+      "channel": "Direct",
+      "sessions": "154",
+      "engagedSessions": "33",
+      "engagementRate": "0.21428571428571427",
+      "avgSessionDurationSec": "183.05315318831168"
+    },
+    {
+      "channel": "Organic Social",
+      "sessions": "63",
+      "engagedSessions": "33",
+      "engagementRate": "0.52380952380952384",
+      "avgSessionDurationSec": "16.441356428571428"
+    },
+    {
+      "channel": "AI Assistant",
+      "sessions": "20",
+      "engagedSessions": "3",
+      "engagementRate": "0.15",
+      "avgSessionDurationSec": "12.17394405"
+    },
+    {
+      "channel": "Cross-network",
+      "sessions": "7",
+      "engagedSessions": "0",
+      "engagementRate": "0",
+      "avgSessionDurationSec": "8.8667097142857152"
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": "5",
+      "engagedSessions": "0",
+      "engagementRate": "0",
+      "avgSessionDurationSec": "9.1919902"
+    },
+    {
+      "channel": "Referral",
+      "sessions": "1",
+      "engagedSessions": "1",
+      "engagementRate": "1",
+      "avgSessionDurationSec": "127.309013"
+    }
+  ]
+}

@@ -21,12 +21,10 @@ const PROPERTY_ID = process.env.GA4_PROPERTY_ID || '553014412';
 const DATE_RANGES = [{ startDate: '28daysAgo', endDate: 'today' }];
 
 // Direct-channel filter used by the two diagnostic reports.
-const DIRECT_FILTER = {
-  dimensionFilter: {
-    filter: {
-      fieldName: 'sessionDefaultChannelGroup',
-      inListFilter: { values: ['Direct'] },
-    },
+const DIRECT_FILTER_EXPRESSION = {
+  filter: {
+    fieldName: 'sessionDefaultChannelGroup',
+    inListFilter: { values: ['Direct'] },
   },
 };
 
@@ -104,7 +102,7 @@ async function getDirectLandingReport() {
       { name: 'engagementRate' },
       { name: 'screenPageViews' },
     ],
-    dimensionFilter: DIRECT_FILTER,
+    dimensionFilter: DIRECT_FILTER_EXPRESSION,
     orderBys: [{ metric: { metricName: 'sessions' }, desc: true }],
     limit: 30,
   });
@@ -134,7 +132,7 @@ async function getDirectBrowserReport() {
       { name: 'engagedSessions' },
       { name: 'engagementRate' },
     ],
-    dimensionFilter: DIRECT_FILTER,
+    dimensionFilter: DIRECT_FILTER_EXPRESSION,
     orderBys: [{ metric: { metricName: 'sessions' }, desc: true }],
     limit: 30,
   });
