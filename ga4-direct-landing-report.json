@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T20:56:59.585Z",
+  "generatedAt": "2026-09-24T20:57:16.501Z",
   "rows": [
     {
       "landingPage": "/",
@@ -210,6 +210,14 @@
       "pageViews": "1"
     },
     {
+      "landingPage": "/blog/ck3-elder-traits-explained",
+      "sessions": "1",
+      "activeUsers": "1",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "1"
+    },
+    {
       "landingPage": "/blog/ck3-small-county-survival-guide",
       "sessions": "1",
       "activeUsers": "1",
@@ -230,14 +238,6 @@
       "sessions": "1",
       "activeUsers": "1",
       "avgSessionDurationSec": "8.20117",
-      "engagementRate": "0",
-      "pageViews": "1"
-    },
-    {
-      "landingPage": "/blog/eu4-estates-crownland-privileges",
-      "sessions": "1",
-      "activeUsers": "1",
-      "avgSessionDurationSec": "0",
       "engagementRate": "0",
       "pageViews": "1"
     }
