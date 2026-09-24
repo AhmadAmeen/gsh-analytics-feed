@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T20:57:15.959Z",
+  "generatedAt": "2026-09-24T21:12:32.415Z",
   "rows": [
     {
       "channel": "Organic Search",
@@ -10,10 +10,10 @@
     },
     {
       "channel": "Direct",
-      "sessions": "155",
+      "sessions": "156",
       "engagedSessions": "33",
-      "engagementRate": "0.2129032258064516",
-      "avgSessionDurationSec": "181.87216510322583"
+      "engagementRate": "0.21153846153846154",
+      "avgSessionDurationSec": "180.70631789102566"
     },
     {
       "channel": "Organic Social",
@@ -38,10 +38,10 @@
     },
     {
       "channel": "Unassigned",
-      "sessions": "5",
+      "sessions": "6",
       "engagedSessions": "0",
       "engagementRate": "0",
-      "avgSessionDurationSec": "9.1919902"
+      "avgSessionDurationSec": "7.6599918333333328"
     },
     {
       "channel": "Referral",
