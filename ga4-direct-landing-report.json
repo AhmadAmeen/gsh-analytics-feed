@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-24T21:12:32.847Z",
+  "generatedAt": "2026-09-25T10:54:32.945Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "73",
-      "activeUsers": "57",
-      "avgSessionDurationSec": "174.30159069863015",
-      "engagementRate": "0.21917808219178081",
-      "pageViews": "107"
+      "sessions": "75",
+      "activeUsers": "58",
+      "avgSessionDurationSec": "169.65354828",
+      "engagementRate": "0.21333333333333335",
+      "pageViews": "109"
     },
     {
       "landingPage": "/tools/eu5-army-simulator",
@@ -50,6 +50,14 @@
       "pageViews": "4"
     },
     {
+      "landingPage": "/quiz",
+      "sessions": "4",
+      "activeUsers": "4",
+      "avgSessionDurationSec": "3.094802",
+      "engagementRate": "0.25",
+      "pageViews": "5"
+    },
+    {
       "landingPage": "(not set)",
       "sessions": "3",
       "activeUsers": "1",
@@ -80,14 +88,6 @@
       "avgSessionDurationSec": "0",
       "engagementRate": "0",
       "pageViews": "3"
-    },
-    {
-      "landingPage": "/quiz",
-      "sessions": "3",
-      "activeUsers": "3",
-      "avgSessionDurationSec": "4.1264026666666664",
-      "engagementRate": "0.33333333333333331",
-      "pageViews": "4"
     },
     {
       "landingPage": "/tools",
@@ -162,6 +162,14 @@
       "pageViews": "2"
     },
     {
+      "landingPage": "/tools/ck3-start-selector",
+      "sessions": "2",
+      "activeUsers": "2",
+      "avgSessionDurationSec": "0.46232049999999997",
+      "engagementRate": "0",
+      "pageViews": "2"
+    },
+    {
       "landingPage": "//blog/eu5-expeditions-explained",
       "sessions": "1",
       "activeUsers": "1",
@@ -218,27 +226,19 @@
       "pageViews": "1"
     },
     {
+      "landingPage": "/blog/ck3-silk-and-silver-merchants",
+      "sessions": "1",
+      "activeUsers": "1",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "1"
+    },
+    {
       "landingPage": "/blog/ck3-small-county-survival-guide",
       "sessions": "1",
       "activeUsers": "1",
       "avgSessionDurationSec": "20.694276",
       "engagementRate": "1",
-      "pageViews": "1"
-    },
-    {
-      "landingPage": "/blog/eu4-achievement-guide",
-      "sessions": "1",
-      "activeUsers": "1",
-      "avgSessionDurationSec": "12.140226",
-      "engagementRate": "1",
-      "pageViews": "1"
-    },
-    {
-      "landingPage": "/blog/eu4-custom-nation-guide",
-      "sessions": "1",
-      "activeUsers": "1",
-      "avgSessionDurationSec": "8.20117",
-      "engagementRate": "0",
       "pageViews": "1"
     }
   ]
