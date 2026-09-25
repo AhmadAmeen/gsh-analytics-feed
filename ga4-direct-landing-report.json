@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-25T10:54:32.945Z",
+  "generatedAt": "2026-09-25T21:10:36.658Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "75",
-      "activeUsers": "58",
-      "avgSessionDurationSec": "169.65354828",
-      "engagementRate": "0.21333333333333335",
-      "pageViews": "109"
+      "sessions": "76",
+      "activeUsers": "59",
+      "avgSessionDurationSec": "167.92724817105264",
+      "engagementRate": "0.22368421052631579",
+      "pageViews": "111"
     },
     {
       "landingPage": "/tools/eu5-army-simulator",
@@ -39,7 +39,7 @@
       "activeUsers": "2",
       "avgSessionDurationSec": "498.6136944",
       "engagementRate": "0.6",
-      "pageViews": "13"
+      "pageViews": "11"
     },
     {
       "landingPage": "/blog/eu5-army-composition",
@@ -165,7 +165,7 @@
       "landingPage": "/tools/ck3-start-selector",
       "sessions": "2",
       "activeUsers": "2",
-      "avgSessionDurationSec": "0.46232049999999997",
+      "avgSessionDurationSec": "0.4623205",
       "engagementRate": "0",
       "pageViews": "2"
     },
