@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T21:10:36.658Z",
+  "generatedAt": "2026-09-26T10:34:58.365Z",
   "rows": [
     {
       "landingPage": "/",
@@ -90,6 +90,14 @@
       "pageViews": "3"
     },
     {
+      "landingPage": "/category/ck3",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "3"
+    },
+    {
       "landingPage": "/tools",
       "sessions": "3",
       "activeUsers": "3",
@@ -138,15 +146,15 @@
       "pageViews": "3"
     },
     {
-      "landingPage": "/blog/paradox-dlc-release-schedule-2026",
+      "landingPage": "/blog/eu5-political-influence",
       "sessions": "2",
       "activeUsers": "2",
-      "avgSessionDurationSec": "0",
+      "avgSessionDurationSec": "2.2502175",
       "engagementRate": "0",
       "pageViews": "2"
     },
     {
-      "landingPage": "/category/ck3",
+      "landingPage": "/blog/paradox-dlc-release-schedule-2026",
       "sessions": "2",
       "activeUsers": "2",
       "avgSessionDurationSec": "0",
@@ -231,14 +239,6 @@
       "activeUsers": "1",
       "avgSessionDurationSec": "0",
       "engagementRate": "0",
-      "pageViews": "1"
-    },
-    {
-      "landingPage": "/blog/ck3-small-county-survival-guide",
-      "sessions": "1",
-      "activeUsers": "1",
-      "avgSessionDurationSec": "20.694276",
-      "engagementRate": "1",
       "pageViews": "1"
     }
   ]
