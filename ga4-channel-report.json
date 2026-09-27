@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-27T11:07:28.873Z",
+  "generatedAt": "2026-09-27T20:58:18.338Z",
   "rows": [
     {
       "channel": "Organic Search",
-      "sessions": "219",
-      "engagedSessions": "143",
-      "engagementRate": "0.65296803652968038",
-      "avgSessionDurationSec": "180.99293143835615"
+      "sessions": "232",
+      "engagedSessions": "154",
+      "engagementRate": "0.66379310344827591",
+      "avgSessionDurationSec": "182.78633041810343"
     },
     {
       "channel": "Direct",
-      "sessions": "174",
+      "sessions": "181",
       "engagedSessions": "34",
-      "engagementRate": "0.19540229885057472",
-      "avgSessionDurationSec": "162.25288197126437"
+      "engagementRate": "0.18784530386740331",
+      "avgSessionDurationSec": "156.00636023756906"
     },
     {
       "channel": "Organic Social",
@@ -24,24 +24,24 @@
     },
     {
       "channel": "AI Assistant",
-      "sessions": "20",
-      "engagedSessions": "3",
-      "engagementRate": "0.15",
-      "avgSessionDurationSec": "12.17394405"
+      "sessions": "21",
+      "engagedSessions": "4",
+      "engagementRate": "0.19047619047619047",
+      "avgSessionDurationSec": "13.163390333333334"
     },
     {
       "channel": "Unassigned",
-      "sessions": "17",
+      "sessions": "8",
       "engagedSessions": "0",
       "engagementRate": "0",
-      "avgSessionDurationSec": "13.577362"
+      "avgSessionDurationSec": "11.226089"
     },
     {
       "channel": "Cross-network",
-      "sessions": "13",
+      "sessions": "7",
       "engagedSessions": "0",
       "engagementRate": "0",
-      "avgSessionDurationSec": "241.340597"
+      "avgSessionDurationSec": "207.75911257142857"
     },
     {
       "channel": "Referral",

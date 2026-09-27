@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-27T11:07:29.353Z",
+  "generatedAt": "2026-09-27T20:58:18.759Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "78",
-      "activeUsers": "60",
-      "avgSessionDurationSec": "163.62142129487179",
-      "engagementRate": "0.21794871794871795",
-      "pageViews": "113"
+      "sessions": "80",
+      "activeUsers": "62",
+      "avgSessionDurationSec": "159.54953291249998",
+      "engagementRate": "0.2125",
+      "pageViews": "115"
     },
     {
       "landingPage": "/tools/eu5-army-simulator",
@@ -53,15 +53,15 @@
       "landingPage": "/quiz",
       "sessions": "5",
       "activeUsers": "5",
-      "avgSessionDurationSec": "2.7074024000000003",
+      "avgSessionDurationSec": "2.8284888",
       "engagementRate": "0.2",
-      "pageViews": "5"
+      "pageViews": "6"
     },
     {
       "landingPage": "/category/ck3",
       "sessions": "4",
       "activeUsers": "4",
-      "avgSessionDurationSec": "0",
+      "avgSessionDurationSec": "0.763134",
       "engagementRate": "0",
       "pageViews": "4"
     },
@@ -102,6 +102,14 @@
       "sessions": "3",
       "activeUsers": "3",
       "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "3"
+    },
+    {
+      "landingPage": "/category/eu5",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "0.317623",
       "engagementRate": "0",
       "pageViews": "3"
     },
@@ -158,14 +166,6 @@
       "sessions": "2",
       "activeUsers": "2",
       "avgSessionDurationSec": "0",
-      "engagementRate": "0",
-      "pageViews": "2"
-    },
-    {
-      "landingPage": "/category/eu5",
-      "sessions": "2",
-      "activeUsers": "2",
-      "avgSessionDurationSec": "0.4764345",
       "engagementRate": "0",
       "pageViews": "2"
     },
