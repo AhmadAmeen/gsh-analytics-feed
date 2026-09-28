@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T12:31:16.366Z",
+  "generatedAt": "2026-09-28T22:58:53.432Z",
   "rows": [
     {
       "landingPage": "/",
@@ -50,6 +50,14 @@
       "pageViews": "11"
     },
     {
+      "landingPage": "/category/ck3",
+      "sessions": "5",
+      "activeUsers": "5",
+      "avgSessionDurationSec": "8.5823828",
+      "engagementRate": "0.2",
+      "pageViews": "5"
+    },
+    {
       "landingPage": "/quiz",
       "sessions": "5",
       "activeUsers": "5",
@@ -58,10 +66,10 @@
       "pageViews": "6"
     },
     {
-      "landingPage": "/category/ck3",
+      "landingPage": "/category/eu5",
       "sessions": "4",
       "activeUsers": "4",
-      "avgSessionDurationSec": "0.763134",
+      "avgSessionDurationSec": "0.23821725",
       "engagementRate": "0",
       "pageViews": "4"
     },
@@ -110,14 +118,6 @@
       "sessions": "3",
       "activeUsers": "3",
       "avgSessionDurationSec": "0",
-      "engagementRate": "0",
-      "pageViews": "3"
-    },
-    {
-      "landingPage": "/category/eu5",
-      "sessions": "3",
-      "activeUsers": "3",
-      "avgSessionDurationSec": "0.317623",
       "engagementRate": "0",
       "pageViews": "3"
     },
