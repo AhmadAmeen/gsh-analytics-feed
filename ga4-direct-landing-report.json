@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T20:58:18.759Z",
+  "generatedAt": "2026-09-28T12:31:16.366Z",
   "rows": [
     {
       "landingPage": "/",
@@ -11,11 +11,11 @@
     },
     {
       "landingPage": "/tools/eu5-army-simulator",
-      "sessions": "7",
-      "activeUsers": "1",
-      "avgSessionDurationSec": "1136.8316715714286",
-      "engagementRate": "0.8571428571428571",
-      "pageViews": "32"
+      "sessions": "8",
+      "activeUsers": "2",
+      "avgSessionDurationSec": "994.727712625",
+      "engagementRate": "0.75",
+      "pageViews": "33"
     },
     {
       "landingPage": "/blog/ck3-best-starting-character",
@@ -98,6 +98,14 @@
       "pageViews": "3"
     },
     {
+      "landingPage": "/blog/eu4-trade-node-map",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "109.55582933333334",
+      "engagementRate": "0.33333333333333331",
+      "pageViews": "4"
+    },
+    {
       "landingPage": "/blog/eu4-trade-power-merchants-steering",
       "sessions": "3",
       "activeUsers": "3",
@@ -110,6 +118,14 @@
       "sessions": "3",
       "activeUsers": "3",
       "avgSessionDurationSec": "0.317623",
+      "engagementRate": "0",
+      "pageViews": "3"
+    },
+    {
+      "landingPage": "/tools/ck3-start-selector",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "0.624881",
       "engagementRate": "0",
       "pageViews": "3"
     },
@@ -146,14 +162,6 @@
       "pageViews": "2"
     },
     {
-      "landingPage": "/blog/eu4-trade-node-map",
-      "sessions": "2",
-      "activeUsers": "2",
-      "avgSessionDurationSec": "164.333744",
-      "engagementRate": "0.5",
-      "pageViews": "3"
-    },
-    {
       "landingPage": "/blog/eu5-political-influence",
       "sessions": "2",
       "activeUsers": "2",
@@ -166,14 +174,6 @@
       "sessions": "2",
       "activeUsers": "2",
       "avgSessionDurationSec": "0",
-      "engagementRate": "0",
-      "pageViews": "2"
-    },
-    {
-      "landingPage": "/tools/ck3-start-selector",
-      "sessions": "2",
-      "activeUsers": "2",
-      "avgSessionDurationSec": "0.4623205",
       "engagementRate": "0",
       "pageViews": "2"
     },

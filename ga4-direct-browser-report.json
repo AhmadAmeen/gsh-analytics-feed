@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-27T20:58:19.346Z",
+  "generatedAt": "2026-09-28T12:31:17.556Z",
   "rows": [
     {
       "browser": "Chrome",
-      "sessions": "110",
-      "activeUsers": "109",
-      "avgSessionDurationSec": "2.7757380636363638",
+      "sessions": "117",
+      "activeUsers": "116",
+      "avgSessionDurationSec": "2.6260841880341879",
       "engagedSessions": "9",
-      "engagementRate": "0.081818181818181818"
+      "engagementRate": "0.076923076923076927"
     },
     {
       "browser": "Edge",
