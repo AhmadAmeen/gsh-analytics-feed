@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-29T11:53:42.670Z",
+  "generatedAt": "2026-09-29T21:57:16.325Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "81",
-      "activeUsers": "63",
-      "avgSessionDurationSec": "157.57978559259257",
-      "engagementRate": "0.20987654320987653",
-      "pageViews": "116"
+      "sessions": "82",
+      "activeUsers": "64",
+      "avgSessionDurationSec": "155.65808089024389",
+      "engagementRate": "0.2073170731707317",
+      "pageViews": "117"
     },
     {
       "landingPage": "/tools/eu5-army-simulator",
@@ -69,8 +69,8 @@
       "landingPage": "/blog/eu4-government-reforms",
       "sessions": "4",
       "activeUsers": "4",
-      "avgSessionDurationSec": "0",
-      "engagementRate": "0",
+      "avgSessionDurationSec": "3.6380785",
+      "engagementRate": "0.25",
       "pageViews": "4"
     },
     {
