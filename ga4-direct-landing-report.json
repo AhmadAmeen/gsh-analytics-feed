@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-28T22:58:53.432Z",
+  "generatedAt": "2026-09-29T11:53:42.670Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "80",
-      "activeUsers": "62",
-      "avgSessionDurationSec": "159.54953291249998",
-      "engagementRate": "0.2125",
-      "pageViews": "115"
+      "sessions": "81",
+      "activeUsers": "63",
+      "avgSessionDurationSec": "157.57978559259257",
+      "engagementRate": "0.20987654320987653",
+      "pageViews": "116"
     },
     {
       "landingPage": "/tools/eu5-army-simulator",
@@ -64,6 +64,14 @@
       "avgSessionDurationSec": "2.8284888",
       "engagementRate": "0.2",
       "pageViews": "6"
+    },
+    {
+      "landingPage": "/blog/eu4-government-reforms",
+      "sessions": "4",
+      "activeUsers": "4",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "4"
     },
     {
       "landingPage": "/category/eu5",
@@ -231,14 +239,6 @@
       "activeUsers": "1",
       "avgSessionDurationSec": "35.189776",
       "engagementRate": "1",
-      "pageViews": "1"
-    },
-    {
-      "landingPage": "/blog/ck3-elder-traits-explained",
-      "sessions": "1",
-      "activeUsers": "1",
-      "avgSessionDurationSec": "0",
-      "engagementRate": "0",
       "pageViews": "1"
     }
   ]
