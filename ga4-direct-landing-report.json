@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T21:57:16.325Z",
+  "generatedAt": "2026-09-30T11:40:59.428Z",
   "rows": [
     {
       "landingPage": "/",
@@ -162,6 +162,14 @@
       "pageViews": "2"
     },
     {
+      "landingPage": "/blog/ck3-by-god-alone",
+      "sessions": "2",
+      "activeUsers": "2",
+      "avgSessionDurationSec": "1.597202",
+      "engagementRate": "0",
+      "pageViews": "2"
+    },
+    {
       "landingPage": "/blog/eu4-trade-companies-explained",
       "sessions": "2",
       "activeUsers": "2",
@@ -222,14 +230,6 @@
       "sessions": "1",
       "activeUsers": "1",
       "avgSessionDurationSec": "0",
-      "engagementRate": "0",
-      "pageViews": "1"
-    },
-    {
-      "landingPage": "/blog/ck3-by-god-alone",
-      "sessions": "1",
-      "activeUsers": "1",
-      "avgSessionDurationSec": "3.194404",
       "engagementRate": "0",
       "pageViews": "1"
     },

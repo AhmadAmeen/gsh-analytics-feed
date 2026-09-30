@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-29T21:57:15.442Z",
+  "generatedAt": "2026-09-30T11:40:58.597Z",
   "rows": [
     {
       "page": "/blog/eu5-army-composition/",
-      "sessions": "102",
-      "activeUsers": "91",
-      "avgSessionDurationSec": "139.73788974509804",
-      "userEngagementDurationSec": "4498",
+      "sessions": "104",
+      "activeUsers": "93",
+      "avgSessionDurationSec": "137.05062263461539",
+      "userEngagementDurationSec": "4533",
       "engagedSessions": "70",
-      "pageViews": "105"
+      "pageViews": "107"
     },
     {
       "page": "/blog/best-eu5-starting-nation/",
-      "sessions": "35",
-      "activeUsers": "32",
-      "avgSessionDurationSec": "104.75644777142857",
+      "sessions": "36",
+      "activeUsers": "33",
+      "avgSessionDurationSec": "101.84654644444444",
       "userEngagementDurationSec": "1355",
       "engagedSessions": "25",
-      "pageViews": "38"
+      "pageViews": "39"
     },
     {
       "page": "/",
@@ -48,19 +48,19 @@
     },
     {
       "page": "/blog/ck3-best-starting-character/",
-      "sessions": "32",
-      "activeUsers": "29",
-      "avgSessionDurationSec": "119.44816168749999",
-      "userEngagementDurationSec": "884",
+      "sessions": "37",
+      "activeUsers": "34",
+      "avgSessionDurationSec": "103.75215978378378",
+      "userEngagementDurationSec": "935",
       "engagedSessions": "15",
-      "pageViews": "32"
+      "pageViews": "36"
     },
     {
       "page": "/blog/eu5-new-players-path/",
-      "sessions": "11",
-      "activeUsers": "4",
-      "avgSessionDurationSec": "291.82958790909089",
-      "userEngagementDurationSec": "820",
+      "sessions": "12",
+      "activeUsers": "5",
+      "avgSessionDurationSec": "267.51045558333334",
+      "userEngagementDurationSec": "822",
       "engagedSessions": "7",
       "pageViews": "16"
     },
@@ -335,13 +335,22 @@
       "pageViews": "16"
     },
     {
-      "page": "/blog/ck3-by-god-alone/",
-      "sessions": "4",
+      "page": "/blog/eu5-1-4-cardinals-crusades-religious-orders/",
+      "sessions": "6",
       "activeUsers": "4",
-      "avgSessionDurationSec": "14.18005625",
+      "avgSessionDurationSec": "99.203242666666668",
+      "userEngagementDurationSec": "70",
+      "engagedSessions": "1",
+      "pageViews": "5"
+    },
+    {
+      "page": "/blog/ck3-by-god-alone/",
+      "sessions": "5",
+      "activeUsers": "5",
+      "avgSessionDurationSec": "11.344045",
       "userEngagementDurationSec": "55",
       "engagedSessions": "3",
-      "pageViews": "5"
+      "pageViews": "6"
     },
     {
       "page": "/category/eu4/",
@@ -426,21 +435,12 @@
     },
     {
       "page": "/blog/eu5-diplomacy-guide/",
-      "sessions": "4",
-      "activeUsers": "4",
+      "sessions": "5",
+      "activeUsers": "5",
       "avgSessionDurationSec": "0",
       "userEngagementDurationSec": "17",
       "engagedSessions": "0",
-      "pageViews": "3"
-    },
-    {
-      "page": "/blog/eu5-1-4-cardinals-crusades-religious-orders/",
-      "sessions": "4",
-      "activeUsers": "2",
-      "avgSessionDurationSec": "144.080827",
-      "userEngagementDurationSec": "12",
-      "engagedSessions": "1",
-      "pageViews": "3"
+      "pageViews": "5"
     },
     {
       "page": "/blog/eu5-naval-warfare/",
