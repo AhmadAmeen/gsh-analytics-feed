@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T11:40:59.428Z",
+  "generatedAt": "2026-09-30T21:55:44.160Z",
   "rows": [
     {
       "landingPage": "/",
@@ -18,6 +18,22 @@
       "pageViews": "33"
     },
     {
+      "landingPage": "/blog/eu5-army-composition",
+      "sessions": "6",
+      "activeUsers": "5",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "6"
+    },
+    {
+      "landingPage": "/blog/eu5-new-players-path",
+      "sessions": "6",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "415.511412",
+      "engagementRate": "0.5",
+      "pageViews": "12"
+    },
+    {
       "landingPage": "/blog/ck3-best-starting-character",
       "sessions": "5",
       "activeUsers": "5",
@@ -32,22 +48,6 @@
       "avgSessionDurationSec": "3.251312",
       "engagementRate": "0",
       "pageViews": "5"
-    },
-    {
-      "landingPage": "/blog/eu5-army-composition",
-      "sessions": "5",
-      "activeUsers": "4",
-      "avgSessionDurationSec": "0",
-      "engagementRate": "0",
-      "pageViews": "5"
-    },
-    {
-      "landingPage": "/blog/eu5-new-players-path",
-      "sessions": "5",
-      "activeUsers": "2",
-      "avgSessionDurationSec": "498.6136944",
-      "engagementRate": "0.6",
-      "pageViews": "11"
     },
     {
       "landingPage": "/category/ck3",
@@ -202,6 +202,14 @@
       "pageViews": "2"
     },
     {
+      "landingPage": "",
+      "sessions": "1",
+      "activeUsers": "1",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "0"
+    },
+    {
       "landingPage": "//blog/eu5-expeditions-explained",
       "sessions": "1",
       "activeUsers": "1",
@@ -231,14 +239,6 @@
       "activeUsers": "1",
       "avgSessionDurationSec": "0",
       "engagementRate": "0",
-      "pageViews": "1"
-    },
-    {
-      "landingPage": "/blog/ck3-dlc-guide",
-      "sessions": "1",
-      "activeUsers": "1",
-      "avgSessionDurationSec": "35.189776",
-      "engagementRate": "1",
       "pageViews": "1"
     }
   ]

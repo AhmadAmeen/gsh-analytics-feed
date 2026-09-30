@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-09-30T11:40:59.046Z",
+  "generatedAt": "2026-09-30T21:55:43.713Z",
   "rows": [
     {
       "channel": "Organic Search",
-      "sessions": "261",
-      "engagedSessions": "172",
-      "engagementRate": "0.65900383141762453",
-      "avgSessionDurationSec": "178.23188664750961"
+      "sessions": "273",
+      "engagedSessions": "182",
+      "engagementRate": "0.66666666666666663",
+      "avgSessionDurationSec": "182.64394524175822"
     },
     {
       "channel": "Direct",
-      "sessions": "198",
+      "sessions": "201",
       "engagedSessions": "36",
-      "engagementRate": "0.18181818181818182",
-      "avgSessionDurationSec": "142.91419034848485"
+      "engagementRate": "0.17910447761194029",
+      "avgSessionDurationSec": "140.78114273134329"
     },
     {
       "channel": "Organic Social",
-      "sessions": "82",
-      "engagedSessions": "42",
-      "engagementRate": "0.51219512195121952",
-      "avgSessionDurationSec": "16.08133662195122"
+      "sessions": "87",
+      "engagedSessions": "45",
+      "engagementRate": "0.51724137931034486",
+      "avgSessionDurationSec": "16.238068896551724"
     },
     {
       "channel": "AI Assistant",
-      "sessions": "23",
+      "sessions": "24",
       "engagedSessions": "5",
-      "engagementRate": "0.21739130434782608",
-      "avgSessionDurationSec": "30.388314869565217"
+      "engagementRate": "0.20833333333333334",
+      "avgSessionDurationSec": "29.122135083333333"
     },
     {
       "channel": "Cross-network",
-      "sessions": "13",
+      "sessions": "6",
       "engagedSessions": "0",
       "engagementRate": "0",
-      "avgSessionDurationSec": "27.315647153846154"
+      "avgSessionDurationSec": "0.95599433333333339"
     },
     {
       "channel": "Unassigned",
-      "sessions": "9",
+      "sessions": "5",
       "engagedSessions": "0",
       "engagementRate": "0",
-      "avgSessionDurationSec": "0.98525699999999994"
+      "avgSessionDurationSec": "410.7440178"
     },
     {
       "channel": "Referral",
