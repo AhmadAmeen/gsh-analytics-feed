@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-01T12:09:53.669Z",
+  "generatedAt": "2026-10-01T22:24:04.054Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "83",
-      "activeUsers": "65",
-      "avgSessionDurationSec": "154.79061713253012",
-      "engagementRate": "0.20481927710843373",
-      "pageViews": "118"
+      "sessions": "87",
+      "activeUsers": "69",
+      "avgSessionDurationSec": "147.69369072413792",
+      "engagementRate": "0.19540229885057472",
+      "pageViews": "122"
     },
     {
       "landingPage": "/tools/eu5-army-simulator",
@@ -18,20 +18,20 @@
       "pageViews": "33"
     },
     {
+      "landingPage": "/blog/eu5-new-players-path",
+      "sessions": "7",
+      "activeUsers": "4",
+      "avgSessionDurationSec": "356.66732128571431",
+      "engagementRate": "0.42857142857142855",
+      "pageViews": "13"
+    },
+    {
       "landingPage": "/blog/eu5-army-composition",
       "sessions": "6",
       "activeUsers": "5",
       "avgSessionDurationSec": "0.22274850000000002",
       "engagementRate": "0",
       "pageViews": "6"
-    },
-    {
-      "landingPage": "/blog/eu5-new-players-path",
-      "sessions": "6",
-      "activeUsers": "3",
-      "avgSessionDurationSec": "415.511412",
-      "engagementRate": "0.5",
-      "pageViews": "12"
     },
     {
       "landingPage": "/blog/ck3-best-starting-character",
@@ -72,6 +72,14 @@
       "avgSessionDurationSec": "0.2419104",
       "engagementRate": "0",
       "pageViews": "5"
+    },
+    {
+      "landingPage": "/blog",
+      "sessions": "4",
+      "activeUsers": "4",
+      "avgSessionDurationSec": "0.87189475",
+      "engagementRate": "0",
+      "pageViews": "4"
     },
     {
       "landingPage": "/blog/eu4-government-reforms",
@@ -130,20 +138,36 @@
       "pageViews": "3"
     },
     {
+      "landingPage": "/blog/eu5-1-4-cardinals-crusades-religious-orders",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "1.3223876666666667",
+      "engagementRate": "0",
+      "pageViews": "3"
+    },
+    {
+      "landingPage": "/blog/eu5-political-influence",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "2.4279580000000003",
+      "engagementRate": "0",
+      "pageViews": "3"
+    },
+    {
+      "landingPage": "/category/comparisons",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "0.24184866666666668",
+      "engagementRate": "0",
+      "pageViews": "3"
+    },
+    {
       "landingPage": "/tools/ck3-start-selector",
       "sessions": "3",
       "activeUsers": "3",
       "avgSessionDurationSec": "0.624881",
       "engagementRate": "0",
       "pageViews": "3"
-    },
-    {
-      "landingPage": "/blog",
-      "sessions": "2",
-      "activeUsers": "2",
-      "avgSessionDurationSec": "0.6391255",
-      "engagementRate": "0",
-      "pageViews": "2"
     },
     {
       "landingPage": "/blog/best-eu5-starting-nation",
@@ -170,6 +194,14 @@
       "pageViews": "2"
     },
     {
+      "landingPage": "/blog/ck3-elder-traits-explained",
+      "sessions": "2",
+      "activeUsers": "2",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "2"
+    },
+    {
       "landingPage": "/blog/eu4-trade-companies-explained",
       "sessions": "2",
       "activeUsers": "2",
@@ -178,15 +210,7 @@
       "pageViews": "2"
     },
     {
-      "landingPage": "/blog/eu5-political-influence",
-      "sessions": "2",
-      "activeUsers": "2",
-      "avgSessionDurationSec": "2.2502175",
-      "engagementRate": "0",
-      "pageViews": "2"
-    },
-    {
-      "landingPage": "/blog/paradox-dlc-release-schedule-2026",
+      "landingPage": "/blog/eu5-1-4-combat-siege-changes",
       "sessions": "2",
       "activeUsers": "2",
       "avgSessionDurationSec": "0",
@@ -194,52 +218,28 @@
       "pageViews": "2"
     },
     {
-      "landingPage": "/tools/eu5-siege-simulator",
+      "landingPage": "/blog/eu5-1-4-open-beta-date-roadmap",
       "sessions": "2",
       "activeUsers": "2",
-      "avgSessionDurationSec": "0.6871775",
+      "avgSessionDurationSec": "0.7918595",
       "engagementRate": "0",
       "pageViews": "2"
     },
     {
-      "landingPage": "",
-      "sessions": "1",
-      "activeUsers": "1",
+      "landingPage": "/blog/eu5-cabinet-courtiers-explained",
+      "sessions": "2",
+      "activeUsers": "2",
       "avgSessionDurationSec": "0",
       "engagementRate": "0",
-      "pageViews": "0"
-    },
-    {
-      "landingPage": "//blog/eu5-expeditions-explained",
-      "sessions": "1",
-      "activeUsers": "1",
-      "avgSessionDurationSec": "1319.940737",
-      "engagementRate": "1",
       "pageViews": "2"
     },
     {
-      "landingPage": "/about",
-      "sessions": "1",
-      "activeUsers": "1",
-      "avgSessionDurationSec": "0.616989",
+      "landingPage": "/blog/eu5-expeditions-explained",
+      "sessions": "2",
+      "activeUsers": "2",
+      "avgSessionDurationSec": "0.5766415",
       "engagementRate": "0",
-      "pageViews": "1"
-    },
-    {
-      "landingPage": "/blog/best-eu4-mods-2026",
-      "sessions": "1",
-      "activeUsers": "1",
-      "avgSessionDurationSec": "8.025041",
-      "engagementRate": "0",
-      "pageViews": "1"
-    },
-    {
-      "landingPage": "/blog/best-paradox-grand-strategy-game-for-beginners",
-      "sessions": "1",
-      "activeUsers": "1",
-      "avgSessionDurationSec": "0",
-      "engagementRate": "0",
-      "pageViews": "1"
+      "pageViews": "2"
     }
   ]
 }
