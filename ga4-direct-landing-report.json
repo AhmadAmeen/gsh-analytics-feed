@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-02T11:40:10.959Z",
+  "generatedAt": "2026-10-02T21:52:57.761Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "92",
-      "activeUsers": "73",
-      "avgSessionDurationSec": "141.22368446739128",
-      "engagementRate": "0.18478260869565216",
-      "pageViews": "127"
+      "sessions": "99",
+      "activeUsers": "79",
+      "avgSessionDurationSec": "131.37510697979798",
+      "engagementRate": "0.19191919191919191",
+      "pageViews": "135"
     },
     {
       "landingPage": "/tools/eu5-army-simulator",
@@ -35,11 +35,11 @@
     },
     {
       "landingPage": "/blog",
-      "sessions": "5",
-      "activeUsers": "5",
-      "avgSessionDurationSec": "0.6975158",
+      "sessions": "6",
+      "activeUsers": "6",
+      "avgSessionDurationSec": "0.98438433333333331",
       "engagementRate": "0",
-      "pageViews": "5"
+      "pageViews": "6"
     },
     {
       "landingPage": "/blog/ck3-best-starting-character",
@@ -62,6 +62,14 @@
       "sessions": "5",
       "activeUsers": "5",
       "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "5"
+    },
+    {
+      "landingPage": "/blog/eu5-political-influence",
+      "sessions": "5",
+      "activeUsers": "5",
+      "avgSessionDurationSec": "1.4567748",
       "engagementRate": "0",
       "pageViews": "5"
     },
@@ -90,19 +98,19 @@
       "pageViews": "5"
     },
     {
+      "landingPage": "/blog/ck3-elder-traits-explained",
+      "sessions": "4",
+      "activeUsers": "4",
+      "avgSessionDurationSec": "6.6750919999999994",
+      "engagementRate": "0",
+      "pageViews": "4"
+    },
+    {
       "landingPage": "/blog/eu4-government-reforms",
       "sessions": "4",
       "activeUsers": "4",
       "avgSessionDurationSec": "3.6380785",
       "engagementRate": "0.25",
-      "pageViews": "4"
-    },
-    {
-      "landingPage": "/blog/eu5-political-influence",
-      "sessions": "4",
-      "activeUsers": "4",
-      "avgSessionDurationSec": "1.8209685000000002",
-      "engagementRate": "0",
       "pageViews": "4"
     },
     {
@@ -126,6 +134,14 @@
       "sessions": "3",
       "activeUsers": "3",
       "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "3"
+    },
+    {
+      "landingPage": "/blog/ck3-silk-and-silver-preview",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "0.74876333333333334",
       "engagementRate": "0",
       "pageViews": "3"
     },
@@ -162,10 +178,18 @@
       "pageViews": "3"
     },
     {
+      "landingPage": "/blog/paradox-dlc-release-schedule-2026",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "3"
+    },
+    {
       "landingPage": "/category/comparisons",
       "sessions": "3",
       "activeUsers": "3",
-      "avgSessionDurationSec": "0.24184866666666668",
+      "avgSessionDurationSec": "0.95786833333333332",
       "engagementRate": "0",
       "pageViews": "3"
     },
@@ -202,14 +226,6 @@
       "pageViews": "2"
     },
     {
-      "landingPage": "/blog/ck3-elder-traits-explained",
-      "sessions": "2",
-      "activeUsers": "2",
-      "avgSessionDurationSec": "0",
-      "engagementRate": "0",
-      "pageViews": "2"
-    },
-    {
       "landingPage": "/blog/ck3-silk-and-silver-merchants",
       "sessions": "2",
       "activeUsers": "2",
@@ -218,26 +234,10 @@
       "pageViews": "2"
     },
     {
-      "landingPage": "/blog/eu4-trade-power-merchants-steering-explained",
+      "landingPage": "/blog/eu4-estates-crownland-privileges",
       "sessions": "2",
       "activeUsers": "2",
       "avgSessionDurationSec": "0",
-      "engagementRate": "0",
-      "pageViews": "2"
-    },
-    {
-      "landingPage": "/blog/eu5-1-4-combat-siege-changes",
-      "sessions": "2",
-      "activeUsers": "2",
-      "avgSessionDurationSec": "0",
-      "engagementRate": "0",
-      "pageViews": "2"
-    },
-    {
-      "landingPage": "/blog/eu5-1-4-open-beta-date-roadmap",
-      "sessions": "2",
-      "activeUsers": "2",
-      "avgSessionDurationSec": "0.7918595",
       "engagementRate": "0",
       "pageViews": "2"
     }
