@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-01T22:24:04.054Z",
+  "generatedAt": "2026-10-02T11:40:10.959Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "87",
-      "activeUsers": "69",
-      "avgSessionDurationSec": "147.69369072413792",
-      "engagementRate": "0.19540229885057472",
-      "pageViews": "122"
+      "sessions": "92",
+      "activeUsers": "73",
+      "avgSessionDurationSec": "141.22368446739128",
+      "engagementRate": "0.18478260869565216",
+      "pageViews": "127"
     },
     {
       "landingPage": "/tools/eu5-army-simulator",
@@ -18,6 +18,14 @@
       "pageViews": "33"
     },
     {
+      "landingPage": "/blog/eu5-army-composition",
+      "sessions": "7",
+      "activeUsers": "6",
+      "avgSessionDurationSec": "0.19092728571428572",
+      "engagementRate": "0",
+      "pageViews": "7"
+    },
+    {
       "landingPage": "/blog/eu5-new-players-path",
       "sessions": "7",
       "activeUsers": "4",
@@ -26,12 +34,12 @@
       "pageViews": "13"
     },
     {
-      "landingPage": "/blog/eu5-army-composition",
-      "sessions": "6",
+      "landingPage": "/blog",
+      "sessions": "5",
       "activeUsers": "5",
-      "avgSessionDurationSec": "0.22274850000000002",
+      "avgSessionDurationSec": "0.6975158",
       "engagementRate": "0",
-      "pageViews": "6"
+      "pageViews": "5"
     },
     {
       "landingPage": "/blog/ck3-best-starting-character",
@@ -46,6 +54,14 @@
       "sessions": "5",
       "activeUsers": "5",
       "avgSessionDurationSec": "3.251312",
+      "engagementRate": "0",
+      "pageViews": "5"
+    },
+    {
+      "landingPage": "/blog/eu4-trade-power-merchants-steering",
+      "sessions": "5",
+      "activeUsers": "5",
+      "avgSessionDurationSec": "0",
       "engagementRate": "0",
       "pageViews": "5"
     },
@@ -74,19 +90,19 @@
       "pageViews": "5"
     },
     {
-      "landingPage": "/blog",
-      "sessions": "4",
-      "activeUsers": "4",
-      "avgSessionDurationSec": "0.87189475",
-      "engagementRate": "0",
-      "pageViews": "4"
-    },
-    {
       "landingPage": "/blog/eu4-government-reforms",
       "sessions": "4",
       "activeUsers": "4",
       "avgSessionDurationSec": "3.6380785",
       "engagementRate": "0.25",
+      "pageViews": "4"
+    },
+    {
+      "landingPage": "/blog/eu5-political-influence",
+      "sessions": "4",
+      "activeUsers": "4",
+      "avgSessionDurationSec": "1.8209685000000002",
+      "engagementRate": "0",
       "pageViews": "4"
     },
     {
@@ -122,6 +138,14 @@
       "pageViews": "3"
     },
     {
+      "landingPage": "/blog/eu4-trade-companies-explained",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "3.6233386666666667",
+      "engagementRate": "0",
+      "pageViews": "3"
+    },
+    {
       "landingPage": "/blog/eu4-trade-node-map",
       "sessions": "3",
       "activeUsers": "3",
@@ -130,26 +154,10 @@
       "pageViews": "4"
     },
     {
-      "landingPage": "/blog/eu4-trade-power-merchants-steering",
-      "sessions": "3",
-      "activeUsers": "3",
-      "avgSessionDurationSec": "0",
-      "engagementRate": "0",
-      "pageViews": "3"
-    },
-    {
       "landingPage": "/blog/eu5-1-4-cardinals-crusades-religious-orders",
       "sessions": "3",
       "activeUsers": "3",
-      "avgSessionDurationSec": "1.3223876666666667",
-      "engagementRate": "0",
-      "pageViews": "3"
-    },
-    {
-      "landingPage": "/blog/eu5-political-influence",
-      "sessions": "3",
-      "activeUsers": "3",
-      "avgSessionDurationSec": "2.4279580000000003",
+      "avgSessionDurationSec": "2.1303583333333331",
       "engagementRate": "0",
       "pageViews": "3"
     },
@@ -202,10 +210,18 @@
       "pageViews": "2"
     },
     {
-      "landingPage": "/blog/eu4-trade-companies-explained",
+      "landingPage": "/blog/ck3-silk-and-silver-merchants",
       "sessions": "2",
       "activeUsers": "2",
-      "avgSessionDurationSec": "2.9542915",
+      "avgSessionDurationSec": "0.8313035",
+      "engagementRate": "0",
+      "pageViews": "2"
+    },
+    {
+      "landingPage": "/blog/eu4-trade-power-merchants-steering-explained",
+      "sessions": "2",
+      "activeUsers": "2",
+      "avgSessionDurationSec": "0",
       "engagementRate": "0",
       "pageViews": "2"
     },
@@ -222,22 +238,6 @@
       "sessions": "2",
       "activeUsers": "2",
       "avgSessionDurationSec": "0.7918595",
-      "engagementRate": "0",
-      "pageViews": "2"
-    },
-    {
-      "landingPage": "/blog/eu5-cabinet-courtiers-explained",
-      "sessions": "2",
-      "activeUsers": "2",
-      "avgSessionDurationSec": "0",
-      "engagementRate": "0",
-      "pageViews": "2"
-    },
-    {
-      "landingPage": "/blog/eu5-expeditions-explained",
-      "sessions": "2",
-      "activeUsers": "2",
-      "avgSessionDurationSec": "0.5766415",
       "engagementRate": "0",
       "pageViews": "2"
     }
