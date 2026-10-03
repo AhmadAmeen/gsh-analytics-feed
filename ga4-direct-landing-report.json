@@ -1,13 +1,21 @@
 {
-  "generatedAt": "2026-10-02T21:52:57.761Z",
+  "generatedAt": "2026-10-03T10:53:45.353Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "99",
-      "activeUsers": "79",
-      "avgSessionDurationSec": "131.37510697979798",
-      "engagementRate": "0.19191919191919191",
-      "pageViews": "135"
+      "sessions": "100",
+      "activeUsers": "80",
+      "avgSessionDurationSec": "130.08098986000002",
+      "engagementRate": "0.19",
+      "pageViews": "136"
+    },
+    {
+      "landingPage": "/blog/eu5-army-composition",
+      "sessions": "8",
+      "activeUsers": "7",
+      "avgSessionDurationSec": "0.52903537500000009",
+      "engagementRate": "0",
+      "pageViews": "8"
     },
     {
       "landingPage": "/tools/eu5-army-simulator",
@@ -16,14 +24,6 @@
       "avgSessionDurationSec": "994.727712625",
       "engagementRate": "0.75",
       "pageViews": "33"
-    },
-    {
-      "landingPage": "/blog/eu5-army-composition",
-      "sessions": "7",
-      "activeUsers": "6",
-      "avgSessionDurationSec": "0.19092728571428572",
-      "engagementRate": "0",
-      "pageViews": "7"
     },
     {
       "landingPage": "/blog/eu5-new-players-path",
@@ -106,6 +106,14 @@
       "pageViews": "4"
     },
     {
+      "landingPage": "/blog/ck3-succession-laws",
+      "sessions": "4",
+      "activeUsers": "4",
+      "avgSessionDurationSec": "1.8117555",
+      "engagementRate": "0",
+      "pageViews": "4"
+    },
+    {
       "landingPage": "/blog/eu4-government-reforms",
       "sessions": "4",
       "activeUsers": "4",
@@ -142,14 +150,6 @@
       "sessions": "3",
       "activeUsers": "3",
       "avgSessionDurationSec": "0.74876333333333334",
-      "engagementRate": "0",
-      "pageViews": "3"
-    },
-    {
-      "landingPage": "/blog/ck3-succession-laws",
-      "sessions": "3",
-      "activeUsers": "3",
-      "avgSessionDurationSec": "2.415674",
       "engagementRate": "0",
       "pageViews": "3"
     },
