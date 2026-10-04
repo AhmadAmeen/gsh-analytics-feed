@@ -32,11 +32,16 @@ jobs:
           GA4_SERVICE_ACCOUNT_KEY: ${{ secrets.GA4_SERVICE_ACCOUNT_KEY }}
           GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}
 
+      - name: Run GSC report script
+        run: node gsc-report.js
+        env:
+          GA4_SERVICE_ACCOUNT_KEY: ${{ secrets.GA4_SERVICE_ACCOUNT_KEY }}
+
       - name: Commit and push updated reports
         run: |
           git config user.name "GA4 Report Bot"
           git config user.email "actions@github.com"
-          git add ga4-page-report.json ga4-channel-report.json ga4-direct-landing-report.json ga4-direct-browser-report.json
+          git add ga4-page-report.json ga4-channel-report.json ga4-direct-landing-report.json ga4-direct-browser-report.json gsc-queries-report.json
           if git diff --quiet --cached; then
             echo "No changes to commit"
           else

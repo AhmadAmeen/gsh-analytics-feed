@@ -7,6 +7,7 @@
     "start": "node ga4-report.js"
   },
   "dependencies": {
-    "@google-analytics/data": "^4.0.0"
+    "@google-analytics/data": "^4.0.0",
+    "googleapis": "^183.0.0"
   }
 }
