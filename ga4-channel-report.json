@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-10-04T11:36:02.727Z",
+  "generatedAt": "2026-10-04T20:55:40.566Z",
   "rows": [
     {
       "channel": "Organic Search",
-      "sessions": "327",
-      "engagedSessions": "216",
-      "engagementRate": "0.66055045871559637",
-      "avgSessionDurationSec": "193.13386745259939"
+      "sessions": "342",
+      "engagedSessions": "222",
+      "engagementRate": "0.64912280701754388",
+      "avgSessionDurationSec": "186.42356161695906"
     },
     {
       "channel": "Direct",
-      "sessions": "290",
+      "sessions": "295",
       "engagedSessions": "41",
-      "engagementRate": "0.14137931034482759",
-      "avgSessionDurationSec": "99.998907400000007"
+      "engagementRate": "0.13898305084745763",
+      "avgSessionDurationSec": "98.333023901694915"
     },
     {
       "channel": "Organic Social",
-      "sessions": "97",
+      "sessions": "101",
       "engagedSessions": "47",
-      "engagementRate": "0.4845360824742268",
-      "avgSessionDurationSec": "15.396223175257731"
+      "engagementRate": "0.46534653465346537",
+      "avgSessionDurationSec": "14.786471762376237"
     },
     {
       "channel": "AI Assistant",
-      "sessions": "25",
-      "engagedSessions": "5",
-      "engagementRate": "0.2",
-      "avgSessionDurationSec": "27.95724968"
+      "sessions": "26",
+      "engagedSessions": "6",
+      "engagementRate": "0.23076923076923078",
+      "avgSessionDurationSec": "33.854190884615385"
     },
     {
       "channel": "Cross-network",
-      "sessions": "17",
-      "engagedSessions": "0",
-      "engagementRate": "0",
-      "avgSessionDurationSec": "105.96848970588235"
-    },
-    {
-      "channel": "Unassigned",
       "sessions": "11",
       "engagedSessions": "0",
       "engagementRate": "0",
-      "avgSessionDurationSec": "25.428433545454542"
+      "avgSessionDurationSec": "252.72252663636363"
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": "8",
+      "engagedSessions": "0",
+      "engagementRate": "0",
+      "avgSessionDurationSec": "0"
     },
     {
       "channel": "Referral",

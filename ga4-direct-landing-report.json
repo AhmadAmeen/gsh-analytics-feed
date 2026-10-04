@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-04T11:36:03.128Z",
+  "generatedAt": "2026-10-04T20:55:40.954Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "106",
-      "activeUsers": "86",
-      "avgSessionDurationSec": "122.86226833962263",
-      "engagementRate": "0.17924528301886791",
-      "pageViews": "141"
+      "sessions": "108",
+      "activeUsers": "88",
+      "avgSessionDurationSec": "120.60694322222223",
+      "engagementRate": "0.17592592592592593",
+      "pageViews": "143"
     },
     {
       "landingPage": "/blog/eu5-army-composition",
@@ -42,19 +42,27 @@
       "pageViews": "13"
     },
     {
+      "landingPage": "/blog/eu5-political-influence",
+      "sessions": "7",
+      "activeUsers": "7",
+      "avgSessionDurationSec": "3.3000285714285718",
+      "engagementRate": "0.14285714285714285",
+      "pageViews": "7"
+    },
+    {
+      "landingPage": "/blog/eu4-trade-companies-explained",
+      "sessions": "6",
+      "activeUsers": "6",
+      "avgSessionDurationSec": "1.8116693333333334",
+      "engagementRate": "0",
+      "pageViews": "6"
+    },
+    {
       "landingPage": "/blog/eu4-trade-power-merchants-steering",
       "sessions": "6",
       "activeUsers": "6",
       "avgSessionDurationSec": "0.83551950000000008",
       "engagementRate": "0",
-      "pageViews": "6"
-    },
-    {
-      "landingPage": "/blog/eu5-political-influence",
-      "sessions": "6",
-      "activeUsers": "6",
-      "avgSessionDurationSec": "3.4547593333333335",
-      "engagementRate": "0.16666666666666666",
       "pageViews": "6"
     },
     {
@@ -70,14 +78,6 @@
       "sessions": "5",
       "activeUsers": "5",
       "avgSessionDurationSec": "3.251312",
-      "engagementRate": "0",
-      "pageViews": "5"
-    },
-    {
-      "landingPage": "/blog/eu4-trade-companies-explained",
-      "sessions": "5",
-      "activeUsers": "5",
-      "avgSessionDurationSec": "2.1740032",
       "engagementRate": "0",
       "pageViews": "5"
     },
@@ -221,7 +221,7 @@
       "landingPage": "/blog/best-paradox-grand-strategy-game-for-beginners",
       "sessions": "2",
       "activeUsers": "2",
-      "avgSessionDurationSec": "0",
+      "avgSessionDurationSec": "0.640965",
       "engagementRate": "0",
       "pageViews": "2"
     },
