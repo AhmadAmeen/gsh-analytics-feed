@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-04T08:00:53.159Z",
+  "generatedAt": "2026-10-04T11:36:03.128Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "105",
-      "activeUsers": "85",
-      "avgSessionDurationSec": "124.03238518095237",
-      "engagementRate": "0.18095238095238095",
-      "pageViews": "140"
+      "sessions": "106",
+      "activeUsers": "86",
+      "avgSessionDurationSec": "122.86226833962263",
+      "engagementRate": "0.17924528301886791",
+      "pageViews": "141"
     },
     {
       "landingPage": "/blog/eu5-army-composition",
