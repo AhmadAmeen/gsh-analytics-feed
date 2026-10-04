@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-03T20:39:46.864Z",
+  "generatedAt": "2026-10-04T08:00:53.159Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "102",
-      "activeUsers": "82",
-      "avgSessionDurationSec": "127.68039650980391",
-      "engagementRate": "0.18627450980392157",
-      "pageViews": "137"
+      "sessions": "105",
+      "activeUsers": "85",
+      "avgSessionDurationSec": "124.03238518095237",
+      "engagementRate": "0.18095238095238095",
+      "pageViews": "140"
     },
     {
       "landingPage": "/blog/eu5-army-composition",
@@ -70,6 +70,14 @@
       "sessions": "5",
       "activeUsers": "5",
       "avgSessionDurationSec": "3.251312",
+      "engagementRate": "0",
+      "pageViews": "5"
+    },
+    {
+      "landingPage": "/blog/eu4-trade-companies-explained",
+      "sessions": "5",
+      "activeUsers": "5",
+      "avgSessionDurationSec": "2.1740032",
       "engagementRate": "0",
       "pageViews": "5"
     },
@@ -154,14 +162,6 @@
       "pageViews": "3"
     },
     {
-      "landingPage": "/blog/eu4-trade-companies-explained",
-      "sessions": "3",
-      "activeUsers": "3",
-      "avgSessionDurationSec": "3.6233386666666667",
-      "engagementRate": "0",
-      "pageViews": "3"
-    },
-    {
       "landingPage": "/blog/eu4-trade-node-map",
       "sessions": "3",
       "activeUsers": "3",
@@ -218,6 +218,14 @@
       "pageViews": "2"
     },
     {
+      "landingPage": "/blog/best-paradox-grand-strategy-game-for-beginners",
+      "sessions": "2",
+      "activeUsers": "2",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "2"
+    },
+    {
       "landingPage": "/blog/ck3-best-religion",
       "sessions": "2",
       "activeUsers": "2",
@@ -230,14 +238,6 @@
       "sessions": "2",
       "activeUsers": "2",
       "avgSessionDurationSec": "1.597202",
-      "engagementRate": "0",
-      "pageViews": "2"
-    },
-    {
-      "landingPage": "/blog/ck3-silk-and-silver-merchants",
-      "sessions": "2",
-      "activeUsers": "2",
-      "avgSessionDurationSec": "0.8313035",
       "engagementRate": "0",
       "pageViews": "2"
     }
