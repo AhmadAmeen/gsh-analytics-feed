@@ -1,13 +1,29 @@
 {
-  "generatedAt": "2026-10-04T20:55:40.954Z",
+  "generatedAt": "2026-10-05T13:11:37.370Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "108",
-      "activeUsers": "88",
-      "avgSessionDurationSec": "120.60694322222223",
-      "engagementRate": "0.17592592592592593",
-      "pageViews": "143"
+      "sessions": "109",
+      "activeUsers": "89",
+      "avgSessionDurationSec": "119.50045750458716",
+      "engagementRate": "0.1743119266055046",
+      "pageViews": "144"
+    },
+    {
+      "landingPage": "/blog",
+      "sessions": "8",
+      "activeUsers": "8",
+      "avgSessionDurationSec": "1.48481025",
+      "engagementRate": "0",
+      "pageViews": "8"
+    },
+    {
+      "landingPage": "/blog/eu4-trade-companies-explained",
+      "sessions": "8",
+      "activeUsers": "8",
+      "avgSessionDurationSec": "1.358752",
+      "engagementRate": "0",
+      "pageViews": "8"
     },
     {
       "landingPage": "/blog/eu5-army-composition",
@@ -26,14 +42,6 @@
       "pageViews": "33"
     },
     {
-      "landingPage": "/blog",
-      "sessions": "7",
-      "activeUsers": "7",
-      "avgSessionDurationSec": "1.696926",
-      "engagementRate": "0",
-      "pageViews": "7"
-    },
-    {
       "landingPage": "/blog/eu5-new-players-path",
       "sessions": "7",
       "activeUsers": "4",
@@ -48,14 +56,6 @@
       "avgSessionDurationSec": "3.3000285714285718",
       "engagementRate": "0.14285714285714285",
       "pageViews": "7"
-    },
-    {
-      "landingPage": "/blog/eu4-trade-companies-explained",
-      "sessions": "6",
-      "activeUsers": "6",
-      "avgSessionDurationSec": "1.8116693333333334",
-      "engagementRate": "0",
-      "pageViews": "6"
     },
     {
       "landingPage": "/blog/eu4-trade-power-merchants-steering",
@@ -79,6 +79,14 @@
       "activeUsers": "5",
       "avgSessionDurationSec": "3.251312",
       "engagementRate": "0",
+      "pageViews": "5"
+    },
+    {
+      "landingPage": "/blog/eu4-government-reforms",
+      "sessions": "5",
+      "activeUsers": "5",
+      "avgSessionDurationSec": "2.9104628000000003",
+      "engagementRate": "0.2",
       "pageViews": "5"
     },
     {
@@ -122,11 +130,11 @@
       "pageViews": "4"
     },
     {
-      "landingPage": "/blog/eu4-government-reforms",
+      "landingPage": "/blog/paradox-dlc-release-schedule-2026",
       "sessions": "4",
       "activeUsers": "4",
-      "avgSessionDurationSec": "3.6380785",
-      "engagementRate": "0.25",
+      "avgSessionDurationSec": "0.453211",
+      "engagementRate": "0",
       "pageViews": "4"
     },
     {
@@ -134,6 +142,14 @@
       "sessions": "4",
       "activeUsers": "4",
       "avgSessionDurationSec": "0.23821725",
+      "engagementRate": "0",
+      "pageViews": "4"
+    },
+    {
+      "landingPage": "/eu4/trade-companies",
+      "sessions": "4",
+      "activeUsers": "4",
+      "avgSessionDurationSec": "0",
       "engagementRate": "0",
       "pageViews": "4"
     },
@@ -146,11 +162,27 @@
       "pageViews": "0"
     },
     {
+      "landingPage": "/blog/ck3-by-god-alone",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "1.8641643333333333",
+      "engagementRate": "0",
+      "pageViews": "4"
+    },
+    {
       "landingPage": "/blog/ck3-culture-faith-mechanics",
       "sessions": "3",
       "activeUsers": "3",
       "avgSessionDurationSec": "0",
       "engagementRate": "0",
+      "pageViews": "3"
+    },
+    {
+      "landingPage": "/blog/ck3-dlc-guide",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "11.729925333333334",
+      "engagementRate": "0.33333333333333331",
       "pageViews": "3"
     },
     {
@@ -178,10 +210,10 @@
       "pageViews": "3"
     },
     {
-      "landingPage": "/blog/paradox-dlc-release-schedule-2026",
+      "landingPage": "/blog/eu5-1-4-trade-tariffs-economy",
       "sessions": "3",
       "activeUsers": "3",
-      "avgSessionDurationSec": "0",
+      "avgSessionDurationSec": "0.49239766666666668",
       "engagementRate": "0",
       "pageViews": "3"
     },
@@ -190,14 +222,6 @@
       "sessions": "3",
       "activeUsers": "3",
       "avgSessionDurationSec": "0.95786833333333332",
-      "engagementRate": "0",
-      "pageViews": "3"
-    },
-    {
-      "landingPage": "/eu4/trade-companies",
-      "sessions": "3",
-      "activeUsers": "3",
-      "avgSessionDurationSec": "0",
       "engagementRate": "0",
       "pageViews": "3"
     },
@@ -214,30 +238,6 @@
       "sessions": "2",
       "activeUsers": "2",
       "avgSessionDurationSec": "0",
-      "engagementRate": "0",
-      "pageViews": "2"
-    },
-    {
-      "landingPage": "/blog/best-paradox-grand-strategy-game-for-beginners",
-      "sessions": "2",
-      "activeUsers": "2",
-      "avgSessionDurationSec": "0.640965",
-      "engagementRate": "0",
-      "pageViews": "2"
-    },
-    {
-      "landingPage": "/blog/ck3-best-religion",
-      "sessions": "2",
-      "activeUsers": "2",
-      "avgSessionDurationSec": "10.3383755",
-      "engagementRate": "0.5",
-      "pageViews": "2"
-    },
-    {
-      "landingPage": "/blog/ck3-by-god-alone",
-      "sessions": "2",
-      "activeUsers": "2",
-      "avgSessionDurationSec": "1.597202",
       "engagementRate": "0",
       "pageViews": "2"
     }
