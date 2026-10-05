@@ -16,6 +16,8 @@ stopped firing regardless of what the numbers look like.
 | `ga4-channel-report.json` | Channel breakdown: sessions, engaged sessions, engagement rate, avg session duration |
 | `ga4-direct-landing-report.json` | Direct-channel landings: pages reached with no referrer, sessions, duration, engagement rate, views |
 | `ga4-direct-browser-report.json` | Direct-channel browsers: sessions, users, duration, engaged sessions, engagement rate |
+| `gsc-queries-report.json` | Search Console query+page rows (28d): clicks, impressions, CTR, position |
+| `indexing-status.json` | Full-site URL inspection (all sitemap URLs): indexed / crawled-not-indexed / discovered-not-indexed / unknown-to-Google counts + per-URL status |
 
 Fetchable at (public, no auth):
 ```
@@ -23,6 +25,8 @@ https://raw.githubusercontent.com/AhmadAmeen/gsh-analytics-feed/main/ga4-page-re
 https://raw.githubusercontent.com/AhmadAmeen/gsh-analytics-feed/main/ga4-channel-report.json
 https://raw.githubusercontent.com/AhmadAmeen/gsh-analytics-feed/main/ga4-direct-landing-report.json
 https://raw.githubusercontent.com/AhmadAmeen/gsh-analytics-feed/main/ga4-direct-browser-report.json
+https://raw.githubusercontent.com/AhmadAmeen/gsh-analytics-feed/main/gsc-queries-report.json
+https://raw.githubusercontent.com/AhmadAmeen/gsh-analytics-feed/main/indexing-status.json
 ```
 
 ## Security model

@@ -1,0 +1,382 @@
+{
+  "generatedAt": "2026-10-05T17:30:12.573Z",
+  "checked": 74,
+  "indexed": 43,
+  "crawledNotIndexed": 2,
+  "discoveredNotIndexed": 0,
+  "unknownToGoogle": 29,
+  "other": 0,
+  "errors": 0,
+  "rows": [
+    {
+      "url": "https://grand-strategy-hub.pages.dev/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/about/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/best-eu4-dlc/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/best-eu4-mods-2026/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/best-eu5-starting-nation/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/best-paradox-grand-strategy-game-for-beginners/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/ck3-best-religion/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/ck3-best-starting-character/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/ck3-by-god-alone/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/ck3-culture-faith-mechanics/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/ck3-dlc-guide/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/ck3-elder-traits-explained/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/ck3-intrigue-guide/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/ck3-keep-track-of-your-dynasty/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/ck3-renown-prestige-guide/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/ck3-silk-and-silver-merchants/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/ck3-silk-and-silver-preview/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/ck3-small-county-survival-guide/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/ck3-succession-laws/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/clausewitz-engine-explained/",
+      "status": "Crawled - currently not indexed",
+      "category": "crawledNotIndexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu4-achievement-guide/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu4-beginner-mistakes/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu4-custom-nation-guide/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu4-estates-crownland-privileges/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu4-government-reforms/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu4-holy-roman-emperor-guide/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu4-trade-companies-explained/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu4-trade-node-map/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu4-trade-power-merchants-steering/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-1-4-cardinals-crusades-religious-orders/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-1-4-combat-siege-changes/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-1-4-open-beta-date-roadmap/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-1-4-trade-tariffs-economy/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-ages-explained/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-army-composition/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-cabinet-courtiers-explained/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-combat-explained/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-culture-religion-tolerance/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-decisions-content-tab/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-diplomacy-guide/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-economy-basics/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-estate-private-armies/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-estates-guide/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-expeditions-explained/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-government-types-explained/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-institutions-explained/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-naval-warfare/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-new-players-path/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-parliament-explained/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-political-influence/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-pop-system/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-sieges-explained/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-situations-explained/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-societal-values-explained/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-trade-guide/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-unrest-estates/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-update-1-4-rio-salado/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-vs-eu4-differences/",
+      "status": "Crawled - currently not indexed",
+      "category": "crawledNotIndexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/is-eu4-still-worth-playing/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/paradox-dlc-release-schedule-2026/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/paradox-games-prestige-explained/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/category/ck3/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/category/comparisons/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/category/eu4/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/category/eu5/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/contact/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/privacy/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/quiz/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/tools/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/tools/ck3-start-selector/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/tools/eu4-trade-map/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/tools/eu5-army-simulator/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/tools/eu5-siege-simulator/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    }
+  ]
+}
