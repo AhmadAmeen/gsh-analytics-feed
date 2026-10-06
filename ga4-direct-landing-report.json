@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-05T23:48:27.762Z",
+  "generatedAt": "2026-10-06T12:31:26.306Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "111",
-      "activeUsers": "91",
-      "avgSessionDurationSec": "117.39527534234234",
-      "engagementRate": "0.17117117117117117",
-      "pageViews": "146"
+      "sessions": "109",
+      "activeUsers": "89",
+      "avgSessionDurationSec": "119.54931709174312",
+      "engagementRate": "0.1743119266055046",
+      "pageViews": "144"
     },
     {
       "landingPage": "/blog",
@@ -58,10 +58,18 @@
       "pageViews": "7"
     },
     {
-      "landingPage": "/blog/eu4-trade-power-merchants-steering",
+      "landingPage": "/blog/eu4-government-reforms",
       "sessions": "6",
       "activeUsers": "6",
-      "avgSessionDurationSec": "0.83551950000000008",
+      "avgSessionDurationSec": "2.4253856666666667",
+      "engagementRate": "0.16666666666666666",
+      "pageViews": "6"
+    },
+    {
+      "landingPage": "/blog/paradox-dlc-release-schedule-2026",
+      "sessions": "6",
+      "activeUsers": "6",
+      "avgSessionDurationSec": "0.30214066666666667",
       "engagementRate": "0",
       "pageViews": "6"
     },
@@ -74,26 +82,10 @@
       "pageViews": "5"
     },
     {
-      "landingPage": "/blog/ck3-renown-prestige-guide",
+      "landingPage": "/blog/eu4-trade-power-merchants-steering",
       "sessions": "5",
       "activeUsers": "5",
-      "avgSessionDurationSec": "3.251312",
-      "engagementRate": "0",
-      "pageViews": "5"
-    },
-    {
-      "landingPage": "/blog/eu4-government-reforms",
-      "sessions": "5",
-      "activeUsers": "5",
-      "avgSessionDurationSec": "2.9104628000000003",
-      "engagementRate": "0.2",
-      "pageViews": "5"
-    },
-    {
-      "landingPage": "/blog/paradox-dlc-release-schedule-2026",
-      "sessions": "5",
-      "activeUsers": "5",
-      "avgSessionDurationSec": "0.36256879999999997",
+      "avgSessionDurationSec": "1.0026234",
       "engagementRate": "0",
       "pageViews": "5"
     },
@@ -138,14 +130,6 @@
       "pageViews": "4"
     },
     {
-      "landingPage": "/category/eu5",
-      "sessions": "4",
-      "activeUsers": "4",
-      "avgSessionDurationSec": "0.23821725",
-      "engagementRate": "0",
-      "pageViews": "4"
-    },
-    {
       "landingPage": "/eu4/trade-companies",
       "sessions": "4",
       "activeUsers": "4",
@@ -186,20 +170,20 @@
       "pageViews": "3"
     },
     {
+      "landingPage": "/blog/ck3-renown-prestige-guide",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "2.4559266666666666",
+      "engagementRate": "0",
+      "pageViews": "3"
+    },
+    {
       "landingPage": "/blog/ck3-silk-and-silver-preview",
       "sessions": "3",
       "activeUsers": "3",
       "avgSessionDurationSec": "0.74876333333333334",
       "engagementRate": "0",
       "pageViews": "3"
-    },
-    {
-      "landingPage": "/blog/eu4-trade-node-map",
-      "sessions": "3",
-      "activeUsers": "3",
-      "avgSessionDurationSec": "109.55582933333334",
-      "engagementRate": "0.33333333333333331",
-      "pageViews": "4"
     },
     {
       "landingPage": "/blog/eu5-1-4-cardinals-crusades-religious-orders",
@@ -226,6 +210,14 @@
       "pageViews": "3"
     },
     {
+      "landingPage": "/category/eu5",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "3"
+    },
+    {
       "landingPage": "/tools/ck3-start-selector",
       "sessions": "3",
       "activeUsers": "3",
@@ -238,6 +230,14 @@
       "sessions": "2",
       "activeUsers": "2",
       "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "2"
+    },
+    {
+      "landingPage": "/blog/best-paradox-grand-strategy-game-for-beginners",
+      "sessions": "2",
+      "activeUsers": "2",
+      "avgSessionDurationSec": "0.640965",
       "engagementRate": "0",
       "pageViews": "2"
     }

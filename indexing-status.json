@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-05T23:56:48.354Z",
+  "generatedAt": "2026-10-06T12:41:13.049Z",
   "checked": 74,
-  "indexed": 43,
+  "indexed": 36,
   "crawledNotIndexed": 2,
   "discoveredNotIndexed": 0,
-  "unknownToGoogle": 29,
+  "unknownToGoogle": 28,
   "other": 0,
-  "errors": 0,
+  "errors": 8,
   "rows": [
     {
       "url": "https://grand-strategy-hub.pages.dev/",
@@ -20,8 +20,8 @@
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "status": "ERROR: Internal error encountered.",
+      "category": "error"
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/best-eu4-dlc/",
@@ -30,8 +30,8 @@
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/best-eu4-mods-2026/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "status": "ERROR: Internal error encountered.",
+      "category": "error"
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/best-eu5-starting-nation/",
@@ -45,8 +45,8 @@
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/ck3-best-religion/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "status": "ERROR: Internal error encountered.",
+      "category": "error"
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/ck3-best-starting-character/",
@@ -105,8 +105,8 @@
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/ck3-succession-laws/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "status": "ERROR: Internal error encountered.",
+      "category": "error"
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/clausewitz-engine-explained/",
@@ -115,8 +115,8 @@
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/eu4-achievement-guide/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "status": "ERROR: Internal error encountered.",
+      "category": "error"
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/eu4-beginner-mistakes/",
@@ -125,13 +125,13 @@
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/eu4-custom-nation-guide/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "status": "ERROR: Internal error encountered.",
+      "category": "error"
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/eu4-estates-crownland-privileges/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "status": "ERROR: Internal error encountered.",
+      "category": "error"
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/eu4-government-reforms/",
@@ -155,8 +155,8 @@
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/eu4-trade-power-merchants-steering/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "status": "ERROR: Internal error encountered.",
+      "category": "error"
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/eu5-1-4-cardinals-crusades-religious-orders/",
