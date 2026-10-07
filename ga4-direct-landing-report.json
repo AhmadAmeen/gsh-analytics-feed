@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-07T12:24:36.127Z",
+  "generatedAt": "2026-10-07T22:49:02.868Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "111",
-      "activeUsers": "91",
-      "avgSessionDurationSec": "117.41768068468468",
-      "engagementRate": "0.17117117117117117",
-      "pageViews": "147"
+      "sessions": "112",
+      "activeUsers": "92",
+      "avgSessionDurationSec": "116.36930853571428",
+      "engagementRate": "0.16964285714285715",
+      "pageViews": "148"
     },
     {
       "landingPage": "/blog",
