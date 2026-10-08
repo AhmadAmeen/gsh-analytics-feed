@@ -1,35 +1,27 @@
 {
-  "generatedAt": "2026-10-07T22:49:02.868Z",
+  "generatedAt": "2026-10-08T12:34:03.176Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "112",
-      "activeUsers": "92",
-      "avgSessionDurationSec": "116.36930853571428",
-      "engagementRate": "0.16964285714285715",
-      "pageViews": "148"
+      "sessions": "107",
+      "activeUsers": "87",
+      "avgSessionDurationSec": "121.82620228971963",
+      "engagementRate": "0.17757009345794392",
+      "pageViews": "142"
     },
     {
       "landingPage": "/blog",
-      "sessions": "8",
-      "activeUsers": "8",
-      "avgSessionDurationSec": "1.7482385",
+      "sessions": "9",
+      "activeUsers": "9",
+      "avgSessionDurationSec": "32.412817555555556",
       "engagementRate": "0",
-      "pageViews": "8"
+      "pageViews": "10"
     },
     {
       "landingPage": "/blog/eu4-trade-companies-explained",
-      "sessions": "8",
-      "activeUsers": "8",
-      "avgSessionDurationSec": "1.358752",
-      "engagementRate": "0",
-      "pageViews": "8"
-    },
-    {
-      "landingPage": "/blog/eu5-army-composition",
       "sessions": "7",
-      "activeUsers": "6",
-      "avgSessionDurationSec": "0.60461185714285715",
+      "activeUsers": "7",
+      "avgSessionDurationSec": "0.708776142857143",
       "engagementRate": "0",
       "pageViews": "7"
     },
@@ -50,14 +42,6 @@
       "pageViews": "7"
     },
     {
-      "landingPage": "/blog/paradox-dlc-release-schedule-2026",
-      "sessions": "7",
-      "activeUsers": "7",
-      "avgSessionDurationSec": "0.783826",
-      "engagementRate": "0",
-      "pageViews": "7"
-    },
-    {
       "landingPage": "/blog/eu4-government-reforms",
       "sessions": "6",
       "activeUsers": "6",
@@ -66,12 +50,20 @@
       "pageViews": "6"
     },
     {
-      "landingPage": "/tools/eu5-army-simulator",
+      "landingPage": "/blog/eu5-army-composition",
       "sessions": "6",
-      "activeUsers": "2",
-      "avgSessionDurationSec": "1272.2810753333333",
-      "engagementRate": "0.66666666666666663",
-      "pageViews": "28"
+      "activeUsers": "6",
+      "avgSessionDurationSec": "0.7053805",
+      "engagementRate": "0",
+      "pageViews": "6"
+    },
+    {
+      "landingPage": "/blog/paradox-dlc-release-schedule-2026",
+      "sessions": "6",
+      "activeUsers": "6",
+      "avgSessionDurationSec": "0.91446366666666667",
+      "engagementRate": "0",
+      "pageViews": "6"
     },
     {
       "landingPage": "/blog/ck3-best-starting-character",
@@ -82,28 +74,20 @@
       "pageViews": "5"
     },
     {
-      "landingPage": "/blog/eu4-trade-power-merchants-steering",
-      "sessions": "5",
-      "activeUsers": "5",
-      "avgSessionDurationSec": "1.0026234",
-      "engagementRate": "0",
-      "pageViews": "5"
-    },
-    {
       "landingPage": "/quiz",
       "sessions": "5",
       "activeUsers": "5",
       "avgSessionDurationSec": "2.8284888",
       "engagementRate": "0.2",
-      "pageViews": "6"
+      "pageViews": "5"
     },
     {
-      "landingPage": "/tools",
+      "landingPage": "/tools/eu5-army-simulator",
       "sessions": "5",
-      "activeUsers": "5",
-      "avgSessionDurationSec": "0.2419104",
-      "engagementRate": "0",
-      "pageViews": "5"
+      "activeUsers": "2",
+      "avgSessionDurationSec": "1526.7372904",
+      "engagementRate": "0.8",
+      "pageViews": "27"
     },
     {
       "landingPage": "/blog/ck3-elder-traits-explained",
@@ -118,6 +102,14 @@
       "sessions": "4",
       "activeUsers": "4",
       "avgSessionDurationSec": "2.52624275",
+      "engagementRate": "0",
+      "pageViews": "4"
+    },
+    {
+      "landingPage": "/blog/eu4-trade-power-merchants-steering",
+      "sessions": "4",
+      "activeUsers": "4",
+      "avgSessionDurationSec": "1.25327925",
       "engagementRate": "0",
       "pageViews": "4"
     },
@@ -138,26 +130,18 @@
       "pageViews": "4"
     },
     {
-      "landingPage": "(not set)",
-      "sessions": "3",
-      "activeUsers": "1",
-      "avgSessionDurationSec": "0",
+      "landingPage": "/tools",
+      "sessions": "4",
+      "activeUsers": "4",
+      "avgSessionDurationSec": "0.302388",
       "engagementRate": "0",
-      "pageViews": "0"
+      "pageViews": "4"
     },
     {
       "landingPage": "/blog/ck3-by-god-alone",
       "sessions": "3",
       "activeUsers": "3",
       "avgSessionDurationSec": "1.8641643333333333",
-      "engagementRate": "0",
-      "pageViews": "3"
-    },
-    {
-      "landingPage": "/blog/ck3-culture-faith-mechanics",
-      "sessions": "3",
-      "activeUsers": "3",
-      "avgSessionDurationSec": "0",
       "engagementRate": "0",
       "pageViews": "3"
     },
@@ -214,6 +198,22 @@
       "sessions": "3",
       "activeUsers": "3",
       "avgSessionDurationSec": "0.624881",
+      "engagementRate": "0",
+      "pageViews": "3"
+    },
+    {
+      "landingPage": "(not set)",
+      "sessions": "2",
+      "activeUsers": "1",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "0"
+    },
+    {
+      "landingPage": "/about",
+      "sessions": "2",
+      "activeUsers": "2",
+      "avgSessionDurationSec": "16.378379499999998",
       "engagementRate": "0",
       "pageViews": "3"
     },
