@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-08T12:34:03.484Z",
+  "generatedAt": "2026-10-08T22:59:36.499Z",
   "rows": [
     {
       "browser": "Chrome",
-      "sessions": "167",
-      "activeUsers": "165",
-      "avgSessionDurationSec": "5.6867846107784432",
-      "engagedSessions": "14",
-      "engagementRate": "0.083832335329341312"
+      "sessions": "170",
+      "activeUsers": "166",
+      "avgSessionDurationSec": "6.4560018058823534",
+      "engagedSessions": "16",
+      "engagementRate": "0.094117647058823528"
     },
     {
       "browser": "Firefox",
@@ -35,8 +35,8 @@
     },
     {
       "browser": "(not set)",
-      "sessions": "5",
-      "activeUsers": "5",
+      "sessions": "6",
+      "activeUsers": "6",
       "avgSessionDurationSec": "0",
       "engagedSessions": "0",
       "engagementRate": "0"
