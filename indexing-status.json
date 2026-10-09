@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-08T23:08:01.453Z",
-  "checked": 75,
-  "indexed": 44,
+  "generatedAt": "2026-10-09T12:30:55.709Z",
+  "checked": 79,
+  "indexed": 45,
   "crawledNotIndexed": 2,
   "discoveredNotIndexed": 0,
-  "unknownToGoogle": 29,
+  "unknownToGoogle": 32,
   "other": 0,
   "errors": 0,
   "rows": [
@@ -55,6 +55,11 @@
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/ck3-by-god-alone/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/ck3-china-guide-mandate-of-heaven/",
       "status": "URL is unknown to Google",
       "category": "unknownToGoogle"
     },
@@ -244,14 +249,24 @@
       "category": "unknownToGoogle"
     },
     {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-loans-government-bonds/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-most-profitable-buildings/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
       "url": "https://grand-strategy-hub.pages.dev/blog/eu5-naval-warfare/",
       "status": "URL is unknown to Google",
       "category": "unknownToGoogle"
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/eu5-new-players-path/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "status": "Submitted and indexed",
+      "category": "indexed"
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/eu5-parliament-explained/",
@@ -280,6 +295,11 @@
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/eu5-societal-values-explained/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-subjects-guide/",
       "status": "URL is unknown to Google",
       "category": "unknownToGoogle"
     },

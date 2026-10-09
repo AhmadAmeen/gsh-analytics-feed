@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T22:59:36.058Z",
+  "generatedAt": "2026-10-09T12:22:01.018Z",
   "rows": [
     {
       "landingPage": "/",
@@ -19,11 +19,11 @@
     },
     {
       "landingPage": "/blog/ck3-best-starting-character",
-      "sessions": "7",
+      "sessions": "8",
       "activeUsers": "7",
-      "avgSessionDurationSec": "0.72579171428571432",
+      "avgSessionDurationSec": "0.63506775",
       "engagementRate": "0",
-      "pageViews": "7"
+      "pageViews": "8"
     },
     {
       "landingPage": "/blog/eu4-trade-companies-explained",
@@ -75,19 +75,11 @@
     },
     {
       "landingPage": "/quiz",
-      "sessions": "5",
-      "activeUsers": "5",
-      "avgSessionDurationSec": "2.9428744",
-      "engagementRate": "0.2",
+      "sessions": "6",
+      "activeUsers": "6",
+      "avgSessionDurationSec": "2.6142055",
+      "engagementRate": "0.16666666666666666",
       "pageViews": "6"
-    },
-    {
-      "landingPage": "/tools/eu5-army-simulator",
-      "sessions": "5",
-      "activeUsers": "2",
-      "avgSessionDurationSec": "1526.7372904",
-      "engagementRate": "0.8",
-      "pageViews": "27"
     },
     {
       "landingPage": "/blog/ck3-elder-traits-explained",
@@ -102,14 +94,6 @@
       "sessions": "4",
       "activeUsers": "4",
       "avgSessionDurationSec": "2.52624275",
-      "engagementRate": "0",
-      "pageViews": "4"
-    },
-    {
-      "landingPage": "/blog/eu4-trade-power-merchants-steering",
-      "sessions": "4",
-      "activeUsers": "4",
-      "avgSessionDurationSec": "1.25327925",
       "engagementRate": "0",
       "pageViews": "4"
     },
@@ -136,6 +120,14 @@
       "avgSessionDurationSec": "0.302388",
       "engagementRate": "0",
       "pageViews": "4"
+    },
+    {
+      "landingPage": "/tools/eu5-army-simulator",
+      "sessions": "4",
+      "activeUsers": "2",
+      "avgSessionDurationSec": "1217.3637585",
+      "engagementRate": "0.75",
+      "pageViews": "20"
     },
     {
       "landingPage": "/blog/ck3-by-god-alone",
@@ -166,6 +158,22 @@
       "sessions": "3",
       "activeUsers": "3",
       "avgSessionDurationSec": "0.74876333333333334",
+      "engagementRate": "0",
+      "pageViews": "3"
+    },
+    {
+      "landingPage": "/blog/eu4-holy-roman-emperor-guide",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "2.829943",
+      "engagementRate": "0",
+      "pageViews": "3"
+    },
+    {
+      "landingPage": "/blog/eu4-trade-power-merchants-steering",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "1.6710390000000002",
       "engagementRate": "0",
       "pageViews": "3"
     },
@@ -231,14 +239,6 @@
       "activeUsers": "2",
       "avgSessionDurationSec": "0.640965",
       "engagementRate": "0",
-      "pageViews": "2"
-    },
-    {
-      "landingPage": "/blog/ck3-best-religion",
-      "sessions": "2",
-      "activeUsers": "2",
-      "avgSessionDurationSec": "10.3383755",
-      "engagementRate": "0.5",
       "pageViews": "2"
     }
   ]
