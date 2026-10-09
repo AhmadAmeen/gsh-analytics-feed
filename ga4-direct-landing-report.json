@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-10-09T18:18:01.315Z",
+  "generatedAt": "2026-10-09T22:21:01.824Z",
   "rows": [
     {
       "landingPage": "/",
       "sessions": "110",
       "activeUsers": "90",
-      "avgSessionDurationSec": "119.79616774545454",
+      "avgSessionDurationSec": "121.70498296363635",
       "engagementRate": "0.19090909090909092",
-      "pageViews": "155"
+      "pageViews": "163"
     },
     {
       "landingPage": "/blog",
-      "sessions": "9",
-      "activeUsers": "9",
-      "avgSessionDurationSec": "32.412817555555556",
+      "sessions": "8",
+      "activeUsers": "8",
+      "avgSessionDurationSec": "1.7482385",
       "engagementRate": "0",
       "pageViews": "8"
     },
     {
       "landingPage": "/blog/ck3-best-starting-character",
-      "sessions": "8",
-      "activeUsers": "8",
-      "avgSessionDurationSec": "0.8162635",
+      "sessions": "7",
+      "activeUsers": "7",
+      "avgSessionDurationSec": "0.20708085714285712",
       "engagementRate": "0",
-      "pageViews": "8"
+      "pageViews": "7"
     },
     {
       "landingPage": "/blog/eu4-trade-companies-explained",
@@ -79,6 +79,22 @@
       "activeUsers": "6",
       "avgSessionDurationSec": "2.6142055",
       "engagementRate": "0.16666666666666666",
+      "pageViews": "7"
+    },
+    {
+      "landingPage": "/category/ck3",
+      "sessions": "5",
+      "activeUsers": "5",
+      "avgSessionDurationSec": "14.8822346",
+      "engagementRate": "0.4",
+      "pageViews": "6"
+    },
+    {
+      "landingPage": "/tools",
+      "sessions": "5",
+      "activeUsers": "5",
+      "avgSessionDurationSec": "3.9633944",
+      "engagementRate": "0.2",
       "pageViews": "6"
     },
     {
@@ -98,26 +114,10 @@
       "pageViews": "4"
     },
     {
-      "landingPage": "/category/ck3",
-      "sessions": "4",
-      "activeUsers": "4",
-      "avgSessionDurationSec": "10.727978499999999",
-      "engagementRate": "0.25",
-      "pageViews": "4"
-    },
-    {
       "landingPage": "/eu4/trade-companies",
       "sessions": "4",
       "activeUsers": "4",
       "avgSessionDurationSec": "0",
-      "engagementRate": "0",
-      "pageViews": "4"
-    },
-    {
-      "landingPage": "/tools",
-      "sessions": "4",
-      "activeUsers": "4",
-      "avgSessionDurationSec": "0.302388",
       "engagementRate": "0",
       "pageViews": "4"
     },
@@ -134,6 +134,14 @@
       "sessions": "3",
       "activeUsers": "3",
       "avgSessionDurationSec": "1.8641643333333333",
+      "engagementRate": "0",
+      "pageViews": "3"
+    },
+    {
+      "landingPage": "/blog/ck3-culture-faith-mechanics",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "0",
       "engagementRate": "0",
       "pageViews": "3"
     },
@@ -216,14 +224,6 @@
       "avgSessionDurationSec": "0",
       "engagementRate": "0",
       "pageViews": "0"
-    },
-    {
-      "landingPage": "/about",
-      "sessions": "2",
-      "activeUsers": "2",
-      "avgSessionDurationSec": "16.378379499999998",
-      "engagementRate": "0",
-      "pageViews": "3"
     },
     {
       "landingPage": "/blog/best-eu5-starting-nation",
