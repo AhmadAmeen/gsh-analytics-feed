@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-09T12:30:55.709Z",
-  "checked": 79,
-  "indexed": 45,
+  "generatedAt": "2026-10-09T18:27:18.834Z",
+  "checked": 81,
+  "indexed": 51,
   "crawledNotIndexed": 2,
   "discoveredNotIndexed": 0,
-  "unknownToGoogle": 32,
+  "unknownToGoogle": 28,
   "other": 0,
   "errors": 0,
   "rows": [
@@ -60,8 +60,8 @@
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/ck3-china-guide-mandate-of-heaven/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "status": "Submitted and indexed",
+      "category": "indexed"
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/ck3-culture-faith-mechanics/",
@@ -250,13 +250,13 @@
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/eu5-loans-government-bonds/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "status": "Submitted and indexed",
+      "category": "indexed"
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/eu5-most-profitable-buildings/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "status": "Submitted and indexed",
+      "category": "indexed"
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/eu5-naval-warfare/",
@@ -300,8 +300,8 @@
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/eu5-subjects-guide/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "status": "Submitted and indexed",
+      "category": "indexed"
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/eu5-trade-guide/",
@@ -322,6 +322,11 @@
       "url": "https://grand-strategy-hub.pages.dev/blog/eu5-vs-eu4-differences/",
       "status": "Crawled - currently not indexed",
       "category": "crawledNotIndexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/gearup-booster-review/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/is-eu4-still-worth-playing/",
@@ -355,6 +360,11 @@
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/category/eu5/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/category/reviews/",
       "status": "Submitted and indexed",
       "category": "indexed"
     },

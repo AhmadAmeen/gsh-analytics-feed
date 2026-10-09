@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-09T12:22:01.018Z",
+  "generatedAt": "2026-10-09T18:18:01.315Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "109",
-      "activeUsers": "89",
-      "avgSessionDurationSec": "120.8952151559633",
-      "engagementRate": "0.19266055045871561",
-      "pageViews": "154"
+      "sessions": "110",
+      "activeUsers": "90",
+      "avgSessionDurationSec": "119.79616774545454",
+      "engagementRate": "0.19090909090909092",
+      "pageViews": "155"
     },
     {
       "landingPage": "/blog",
@@ -20,8 +20,8 @@
     {
       "landingPage": "/blog/ck3-best-starting-character",
       "sessions": "8",
-      "activeUsers": "7",
-      "avgSessionDurationSec": "0.63506775",
+      "activeUsers": "8",
+      "avgSessionDurationSec": "0.8162635",
       "engagementRate": "0",
       "pageViews": "8"
     },
