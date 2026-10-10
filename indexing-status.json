@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-10T11:49:40.666Z",
-  "checked": 81,
-  "indexed": 51,
+  "generatedAt": "2026-10-10T21:23:45.005Z",
+  "checked": 82,
+  "indexed": 52,
   "crawledNotIndexed": 2,
   "discoveredNotIndexed": 0,
   "unknownToGoogle": 28,
@@ -262,6 +262,11 @@
       "url": "https://grand-strategy-hub.pages.dev/blog/eu5-naval-warfare/",
       "status": "URL is unknown to Google",
       "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-navy-guide/",
+      "status": "Submitted and indexed",
+      "category": "indexed"
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/eu5-new-players-path/",
