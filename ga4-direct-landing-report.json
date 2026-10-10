@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-09T22:21:01.824Z",
+  "generatedAt": "2026-10-10T11:40:38.688Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "110",
-      "activeUsers": "90",
-      "avgSessionDurationSec": "121.70498296363635",
-      "engagementRate": "0.19090909090909092",
-      "pageViews": "163"
+      "sessions": "107",
+      "activeUsers": "87",
+      "avgSessionDurationSec": "124.82636462616823",
+      "engagementRate": "0.18691588785046728",
+      "pageViews": "159"
     },
     {
       "landingPage": "/blog",
@@ -130,6 +130,14 @@
       "pageViews": "20"
     },
     {
+      "landingPage": "/blog/best-eu5-starting-nation",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "3"
+    },
+    {
       "landingPage": "/blog/ck3-by-god-alone",
       "sessions": "3",
       "activeUsers": "3",
@@ -224,14 +232,6 @@
       "avgSessionDurationSec": "0",
       "engagementRate": "0",
       "pageViews": "0"
-    },
-    {
-      "landingPage": "/blog/best-eu5-starting-nation",
-      "sessions": "2",
-      "activeUsers": "2",
-      "avgSessionDurationSec": "0",
-      "engagementRate": "0",
-      "pageViews": "2"
     },
     {
       "landingPage": "/blog/best-paradox-grand-strategy-game-for-beginners",
