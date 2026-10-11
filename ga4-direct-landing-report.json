@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-11T11:53:38.079Z",
+  "generatedAt": "2026-10-11T21:34:26.054Z",
   "rows": [
     {
       "landingPage": "/",
       "sessions": "110",
-      "activeUsers": "89",
+      "activeUsers": "90",
       "avgSessionDurationSec": "121.50168555454546",
-      "engagementRate": "0.18181818181818182",
-      "pageViews": "164"
+      "engagementRate": "0.19090909090909092",
+      "pageViews": "165"
     },
     {
       "landingPage": "/blog",
@@ -98,6 +98,22 @@
       "pageViews": "6"
     },
     {
+      "landingPage": "/blog/best-eu5-starting-nation",
+      "sessions": "4",
+      "activeUsers": "4",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "4"
+    },
+    {
+      "landingPage": "/blog/ck3-dlc-guide",
+      "sessions": "4",
+      "activeUsers": "4",
+      "avgSessionDurationSec": "8.797444",
+      "engagementRate": "0.25",
+      "pageViews": "4"
+    },
+    {
       "landingPage": "/blog/ck3-elder-traits-explained",
       "sessions": "4",
       "activeUsers": "4",
@@ -122,14 +138,6 @@
       "pageViews": "4"
     },
     {
-      "landingPage": "/blog/best-eu5-starting-nation",
-      "sessions": "3",
-      "activeUsers": "3",
-      "avgSessionDurationSec": "0",
-      "engagementRate": "0",
-      "pageViews": "3"
-    },
-    {
       "landingPage": "/blog/ck3-by-god-alone",
       "sessions": "3",
       "activeUsers": "3",
@@ -143,14 +151,6 @@
       "activeUsers": "3",
       "avgSessionDurationSec": "0",
       "engagementRate": "0",
-      "pageViews": "3"
-    },
-    {
-      "landingPage": "/blog/ck3-dlc-guide",
-      "sessions": "3",
-      "activeUsers": "3",
-      "avgSessionDurationSec": "11.729925333333334",
-      "engagementRate": "0.33333333333333331",
       "pageViews": "3"
     },
     {
