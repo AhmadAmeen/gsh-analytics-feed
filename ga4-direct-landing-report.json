@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T21:14:23.281Z",
+  "generatedAt": "2026-10-11T11:53:38.079Z",
   "rows": [
     {
       "landingPage": "/",
@@ -122,14 +122,6 @@
       "pageViews": "4"
     },
     {
-      "landingPage": "/tools/eu5-army-simulator",
-      "sessions": "4",
-      "activeUsers": "2",
-      "avgSessionDurationSec": "1217.3637585",
-      "engagementRate": "0.75",
-      "pageViews": "20"
-    },
-    {
       "landingPage": "/blog/best-eu5-starting-nation",
       "sessions": "3",
       "activeUsers": "3",
@@ -239,6 +231,14 @@
       "activeUsers": "2",
       "avgSessionDurationSec": "0.640965",
       "engagementRate": "0",
+      "pageViews": "2"
+    },
+    {
+      "landingPage": "/blog/ck3-best-religion",
+      "sessions": "2",
+      "activeUsers": "2",
+      "avgSessionDurationSec": "10.3383755",
+      "engagementRate": "0.5",
       "pageViews": "2"
     }
   ]
