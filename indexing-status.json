@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-11T21:43:37.879Z",
+  "generatedAt": "2026-10-12T14:11:55.487Z",
   "checked": 82,
-  "indexed": 52,
+  "indexed": 53,
   "crawledNotIndexed": 2,
   "discoveredNotIndexed": 0,
-  "unknownToGoogle": 28,
+  "unknownToGoogle": 27,
   "other": 0,
   "errors": 0,
   "rows": [
@@ -400,8 +400,8 @@
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/tools/ck3-start-selector/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "status": "Submitted and indexed",
+      "category": "indexed"
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/tools/eu4-trade-map/",

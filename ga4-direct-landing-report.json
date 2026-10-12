@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T21:34:26.054Z",
+  "generatedAt": "2026-10-12T14:02:38.492Z",
   "rows": [
     {
       "landingPage": "/",
@@ -26,20 +26,20 @@
       "pageViews": "8"
     },
     {
-      "landingPage": "/blog/eu5-political-influence",
-      "sessions": "8",
-      "activeUsers": "8",
-      "avgSessionDurationSec": "2.887525",
-      "engagementRate": "0.125",
-      "pageViews": "8"
-    },
-    {
       "landingPage": "/blog/eu5-new-players-path",
       "sessions": "7",
       "activeUsers": "4",
       "avgSessionDurationSec": "356.66732128571431",
       "engagementRate": "0.42857142857142855",
       "pageViews": "13"
+    },
+    {
+      "landingPage": "/blog/eu5-political-influence",
+      "sessions": "7",
+      "activeUsers": "7",
+      "avgSessionDurationSec": "2.6571092857142857",
+      "engagementRate": "0.14285714285714285",
+      "pageViews": "7"
     },
     {
       "landingPage": "/blog/ck3-best-starting-character",
@@ -106,14 +106,6 @@
       "pageViews": "4"
     },
     {
-      "landingPage": "/blog/ck3-dlc-guide",
-      "sessions": "4",
-      "activeUsers": "4",
-      "avgSessionDurationSec": "8.797444",
-      "engagementRate": "0.25",
-      "pageViews": "4"
-    },
-    {
       "landingPage": "/blog/ck3-elder-traits-explained",
       "sessions": "4",
       "activeUsers": "4",
@@ -126,6 +118,14 @@
       "sessions": "4",
       "activeUsers": "4",
       "avgSessionDurationSec": "2.52624275",
+      "engagementRate": "0",
+      "pageViews": "4"
+    },
+    {
+      "landingPage": "/blog/eu4-holy-roman-emperor-guide",
+      "sessions": "4",
+      "activeUsers": "4",
+      "avgSessionDurationSec": "2.12245725",
       "engagementRate": "0",
       "pageViews": "4"
     },
@@ -154,10 +154,10 @@
       "pageViews": "3"
     },
     {
-      "landingPage": "/blog/ck3-renown-prestige-guide",
+      "landingPage": "/blog/ck3-dlc-guide",
       "sessions": "3",
       "activeUsers": "3",
-      "avgSessionDurationSec": "2.4559266666666666",
+      "avgSessionDurationSec": "0",
       "engagementRate": "0",
       "pageViews": "3"
     },
@@ -166,14 +166,6 @@
       "sessions": "3",
       "activeUsers": "3",
       "avgSessionDurationSec": "0.74876333333333334",
-      "engagementRate": "0",
-      "pageViews": "3"
-    },
-    {
-      "landingPage": "/blog/eu4-holy-roman-emperor-guide",
-      "sessions": "3",
-      "activeUsers": "3",
-      "avgSessionDurationSec": "2.829943",
       "engagementRate": "0",
       "pageViews": "3"
     },
@@ -202,6 +194,14 @@
       "pageViews": "3"
     },
     {
+      "landingPage": "/blog/eu5-expeditions-explained",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "0.38442766666666667",
+      "engagementRate": "0",
+      "pageViews": "3"
+    },
+    {
       "landingPage": "/category/eu5",
       "sessions": "3",
       "activeUsers": "3",
@@ -218,14 +218,6 @@
       "pageViews": "3"
     },
     {
-      "landingPage": "(not set)",
-      "sessions": "2",
-      "activeUsers": "1",
-      "avgSessionDurationSec": "0",
-      "engagementRate": "0",
-      "pageViews": "0"
-    },
-    {
       "landingPage": "/blog/best-paradox-grand-strategy-game-for-beginners",
       "sessions": "2",
       "activeUsers": "2",
@@ -234,11 +226,19 @@
       "pageViews": "2"
     },
     {
-      "landingPage": "/blog/ck3-best-religion",
+      "landingPage": "/blog/ck3-intrigue-guide",
       "sessions": "2",
       "activeUsers": "2",
-      "avgSessionDurationSec": "10.3383755",
+      "avgSessionDurationSec": "153.9386505",
       "engagementRate": "0.5",
+      "pageViews": "2"
+    },
+    {
+      "landingPage": "/blog/ck3-keep-track-of-your-dynasty",
+      "sessions": "2",
+      "activeUsers": "2",
+      "avgSessionDurationSec": "1.712887",
+      "engagementRate": "0",
       "pageViews": "2"
     }
   ]
