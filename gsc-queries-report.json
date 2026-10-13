@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-10-12T14:02:40.964Z",
+  "generatedAt": "2026-10-13T00:13:16.415Z",
   "totals": {
-    "clicks": 130,
-    "impressions": 9257,
-    "ctr": 0.014043426596089446,
-    "position": 7.745381873177055
+    "clicks": 128,
+    "impressions": 8899,
+    "ctr": 0.014383638611079897,
+    "position": 7.756040004494887
   },
-  "rowCount": 927,
+  "rowCount": 912,
   "rows": [
     {
       "query": "eu5 army composition",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu5-army-composition/",
       "clicks": 15,
-      "impressions": 437,
-      "ctr": 0.034324942791762014,
-      "position": 5.350114416475972
+      "impressions": 413,
+      "ctr": 0.03631961259079903,
+      "position": 5.312348668280872
     },
     {
       "query": "eu5 army composition 1.3",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu5-army-composition/",
       "clicks": 8,
-      "impressions": 155,
-      "ctr": 0.05161290322580645,
-      "position": 5.812903225806451
+      "impressions": 147,
+      "ctr": 0.05442176870748299,
+      "position": 5.782312925170068
     },
     {
       "query": "eu5 political influence",
@@ -36,25 +36,17 @@
       "query": "army composition eu5",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu5-army-composition/",
       "clicks": 3,
-      "impressions": 69,
-      "ctr": 0.043478260869565216,
-      "position": 5.318840579710145
+      "impressions": 67,
+      "ctr": 0.04477611940298507,
+      "position": 5.313432835820896
     },
     {
       "query": "ck3 best starts",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-best-starting-character/",
       "clicks": 3,
-      "impressions": 82,
-      "ctr": 0.036585365853658534,
-      "position": 8.26829268292683
-    },
-    {
-      "query": "ck3 starting characters",
-      "page": "https://grand-strategy-hub.pages.dev/blog/ck3-best-starting-character/",
-      "clicks": 3,
-      "impressions": 51,
-      "ctr": 0.058823529411764705,
-      "position": 5.294117647058823
+      "impressions": 78,
+      "ctr": 0.038461538461538464,
+      "position": 8.294871794871796
     },
     {
       "query": "eu 5 army composition",
@@ -68,17 +60,17 @@
       "query": "eu4 trade nodes",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu4-trade-node-map/",
       "clicks": 3,
-      "impressions": 387,
-      "ctr": 0.007751937984496124,
-      "position": 7.074935400516796
+      "impressions": 369,
+      "ctr": 0.008130081300813009,
+      "position": 7.067750677506775
     },
     {
       "query": "eu5 army composition guide",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu5-army-composition/",
       "clicks": 3,
-      "impressions": 15,
-      "ctr": 0.2,
-      "position": 4.866666666666667
+      "impressions": 14,
+      "ctr": 0.21428571428571427,
+      "position": 4.928571428571429
     },
     {
       "query": "eu5 beginner nations",
@@ -92,9 +84,9 @@
       "query": "eu5 best army composition",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu5-army-composition/",
       "clicks": 3,
-      "impressions": 130,
-      "ctr": 0.023076923076923078,
-      "position": 8.007692307692308
+      "impressions": 121,
+      "ctr": 0.024793388429752067,
+      "position": 8.057851239669422
     },
     {
       "query": "eu5 rio salado",
@@ -116,9 +108,9 @@
       "query": "best dlc eu4",
       "page": "https://grand-strategy-hub.pages.dev/blog/best-eu4-dlc/",
       "clicks": 2,
-      "impressions": 10,
-      "ctr": 0.2,
-      "position": 7.8
+      "impressions": 9,
+      "ctr": 0.2222222222222222,
+      "position": 8
     },
     {
       "query": "ck3 intrigue guide",
@@ -127,6 +119,14 @@
       "impressions": 60,
       "ctr": 0.03333333333333333,
       "position": 6.5
+    },
+    {
+      "query": "ck3 starting characters",
+      "page": "https://grand-strategy-hub.pages.dev/blog/ck3-best-starting-character/",
+      "clicks": 2,
+      "impressions": 50,
+      "ctr": 0.04,
+      "position": 5.26
     },
     {
       "query": "eu4 achievement wheel",
@@ -164,9 +164,9 @@
       "query": "eu4 dlcs ranked",
       "page": "https://grand-strategy-hub.pages.dev/blog/best-eu4-dlc/",
       "clicks": 2,
-      "impressions": 18,
-      "ctr": 0.1111111111111111,
-      "position": 5.222222222222222
+      "impressions": 17,
+      "ctr": 0.11764705882352941,
+      "position": 5.117647058823529
     },
     {
       "query": "eu4 tier 3 government reform",
@@ -183,14 +183,6 @@
       "impressions": 2,
       "ctr": 1,
       "position": 8.5
-    },
-    {
-      "query": "eu5 army guide",
-      "page": "https://grand-strategy-hub.pages.dev/blog/eu5-army-composition/",
-      "clicks": 2,
-      "impressions": 17,
-      "ctr": 0.11764705882352941,
-      "position": 5.764705882352941
     },
     {
       "query": "eu5 best beginner nations",
@@ -212,17 +204,17 @@
       "query": "best army composition eu5",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu5-army-composition/",
       "clicks": 1,
-      "impressions": 34,
-      "ctr": 0.029411764705882353,
-      "position": 7.4411764705882355
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 7.40625
     },
     {
       "query": "best ck3 start",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-best-starting-character/",
       "clicks": 1,
-      "impressions": 9,
-      "ctr": 0.1111111111111111,
-      "position": 7.444444444444445
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 7.25
     },
     {
       "query": "best eu4 dlc",
@@ -244,9 +236,9 @@
       "query": "best start ck3",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-best-starting-character/",
       "clicks": 1,
-      "impressions": 38,
-      "ctr": 0.02631578947368421,
-      "position": 8.368421052631579
+      "impressions": 33,
+      "ctr": 0.030303030303030304,
+      "position": 8.09090909090909
     },
     {
       "query": "best starts ck3",
@@ -276,9 +268,9 @@
       "query": "ck3 best characters",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-best-starting-character/",
       "clicks": 1,
-      "impressions": 22,
-      "ctr": 0.045454545454545456,
-      "position": 5.863636363636363
+      "impressions": 21,
+      "ctr": 0.047619047619047616,
+      "position": 5.857142857142857
     },
     {
       "query": "ck3 best starting stats",
@@ -308,9 +300,9 @@
       "query": "ck3 intrigue",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-intrigue-guide/",
       "clicks": 1,
-      "impressions": 93,
-      "ctr": 0.010752688172043012,
-      "position": 9.172043010752688
+      "impressions": 91,
+      "ctr": 0.01098901098901099,
+      "position": 9.175824175824175
     },
     {
       "query": "ck3 intrigue build",
@@ -324,9 +316,9 @@
       "query": "ck3 renown",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-renown-prestige-guide/",
       "clicks": 1,
-      "impressions": 199,
-      "ctr": 0.005025125628140704,
-      "position": 7.5125628140703515
+      "impressions": 196,
+      "ctr": 0.00510204081632653,
+      "position": 7.520408163265306
     },
     {
       "query": "ck3 starts",
@@ -364,33 +356,33 @@
       "query": "crusader kings 3 intrigue",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-intrigue-guide/",
       "clicks": 1,
-      "impressions": 7,
-      "ctr": 0.14285714285714285,
-      "position": 9.285714285714286
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 9.333333333333334
     },
     {
       "query": "eu4 achievement guide",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu4-achievement-guide/",
       "clicks": 1,
-      "impressions": 21,
-      "ctr": 0.047619047619047616,
-      "position": 6.095238095238095
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 6
     },
     {
       "query": "eu4 best reforms",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu4-government-reforms/",
       "clicks": 1,
-      "impressions": 3,
-      "ctr": 0.3333333333333333,
-      "position": 13.666666666666666
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 15.5
     },
     {
       "query": "eu4 dlc tier list",
       "page": "https://grand-strategy-hub.pages.dev/blog/best-eu4-dlc/",
       "clicks": 1,
-      "impressions": 39,
-      "ctr": 0.02564102564102564,
-      "position": 7.82051282051282
+      "impressions": 38,
+      "ctr": 0.02631578947368421,
+      "position": 7.815789473684211
     },
     {
       "query": "eu4 easy achievements",
@@ -404,33 +396,33 @@
       "query": "eu4 government reforms",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu4-government-reforms/",
       "clicks": 1,
-      "impressions": 332,
-      "ctr": 0.0030120481927710845,
-      "position": 6.057228915662651
+      "impressions": 314,
+      "ctr": 0.0031847133757961785,
+      "position": 6.085987261146497
     },
     {
       "query": "eu4 trade company",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu4-trade-companies-explained/",
       "clicks": 1,
-      "impressions": 275,
-      "ctr": 0.0036363636363636364,
-      "position": 9.127272727272727
+      "impressions": 265,
+      "ctr": 0.0037735849056603774,
+      "position": 9.11320754716981
     },
     {
       "query": "eu4 trade company vs state",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu4-trade-companies-explained/",
       "clicks": 1,
-      "impressions": 20,
-      "ctr": 0.05,
-      "position": 9.3
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 9.263157894736842
     },
     {
       "query": "eu4 trade nodes map",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu4-trade-node-map/",
       "clicks": 1,
-      "impressions": 39,
-      "ctr": 0.02564102564102564,
-      "position": 4.846153846153847
+      "impressions": 37,
+      "ctr": 0.02702702702702703,
+      "position": 4.891891891891892
     },
     {
       "query": "eu5 1.4",
@@ -444,25 +436,33 @@
       "query": "eu5 1.4",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu5-political-influence/",
       "clicks": 1,
-      "impressions": 34,
-      "ctr": 0.029411764705882353,
-      "position": 10.558823529411764
+      "impressions": 29,
+      "ctr": 0.034482758620689655,
+      "position": 10.827586206896552
     },
     {
       "query": "eu5 army comp",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu5-army-composition/",
       "clicks": 1,
-      "impressions": 50,
-      "ctr": 0.02,
-      "position": 5.82
+      "impressions": 46,
+      "ctr": 0.021739130434782608,
+      "position": 5.760869565217392
     },
     {
       "query": "eu5 army formation",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu5-army-composition/",
       "clicks": 1,
-      "impressions": 13,
-      "ctr": 0.07692307692307693,
-      "position": 6.3076923076923075
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 6.333333333333333
+    },
+    {
+      "query": "eu5 army guide",
+      "page": "https://grand-strategy-hub.pages.dev/blog/eu5-army-composition/",
+      "clicks": 1,
+      "impressions": 16,
+      "ctr": 0.0625,
+      "position": 5.8125
     },
     {
       "query": "eu5 army meta 1.3",
@@ -492,9 +492,9 @@
       "query": "eu5 best starts",
       "page": "https://grand-strategy-hub.pages.dev/blog/best-eu5-starting-nation/",
       "clicks": 1,
-      "impressions": 3,
-      "ctr": 0.3333333333333333,
-      "position": 4.333333333333334
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 5.5
     },
     {
       "query": "eu5 bonds",
@@ -532,17 +532,17 @@
       "query": "eu5 military guide",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu5-army-composition/",
       "clicks": 1,
-      "impressions": 26,
-      "ctr": 0.038461538461538464,
-      "position": 6.269230769230769
+      "impressions": 25,
+      "ctr": 0.04,
+      "position": 6.32
     },
     {
       "query": "eu5 military tactics",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu5-army-composition/",
       "clicks": 1,
-      "impressions": 13,
-      "ctr": 0.07692307692307693,
-      "position": 8.23076923076923
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 8.083333333333332
     },
     {
       "query": "eu5 pops",
@@ -564,9 +564,9 @@
       "query": "eu5 starter nations",
       "page": "https://grand-strategy-hub.pages.dev/blog/best-eu5-starting-nation/",
       "clicks": 1,
-      "impressions": 12,
-      "ctr": 0.08333333333333333,
-      "position": 6.333333333333333
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 6.2727272727272725
     },
     {
       "query": "eu5 trade companies",
@@ -596,17 +596,17 @@
       "query": "trade company eu4",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu4-trade-companies-explained/",
       "clicks": 1,
-      "impressions": 91,
-      "ctr": 0.01098901098901099,
-      "position": 8.428571428571429
+      "impressions": 89,
+      "ctr": 0.011235955056179775,
+      "position": 8.404494382022472
     },
     {
       "query": "trade map eu4",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu4-trade-node-map/",
       "clicks": 1,
-      "impressions": 44,
-      "ctr": 0.022727272727272728,
-      "position": 4.909090909090909
+      "impressions": 43,
+      "ctr": 0.023255813953488372,
+      "position": 4.906976744186046
     },
     {
       "query": "\"com.gearup.booster \"",
@@ -628,9 +628,9 @@
       "query": "1.4 eu5",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu5-political-influence/",
       "clicks": 0,
-      "impressions": 36,
+      "impressions": 35,
       "ctr": 0,
-      "position": 9.416666666666666
+      "position": 9.485714285714286
     },
     {
       "query": "10",
@@ -716,9 +716,9 @@
       "query": "army comp eu5",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu5-army-composition/",
       "clicks": 0,
-      "impressions": 18,
+      "impressions": 17,
       "ctr": 0,
-      "position": 6.333333333333333
+      "position": 6.294117647058823
     },
     {
       "query": "army composition eu5",
@@ -780,9 +780,9 @@
       "query": "best beginner nations eu5",
       "page": "https://grand-strategy-hub.pages.dev/blog/best-eu5-starting-nation/",
       "clicks": 0,
-      "impressions": 12,
+      "impressions": 11,
       "ctr": 0,
-      "position": 4.75
+      "position": 4.727272727272727
     },
     {
       "query": "best buildings eu5",
@@ -804,9 +804,9 @@
       "query": "best character ck3",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-best-starting-character/",
       "clicks": 0,
-      "impressions": 7,
+      "impressions": 6,
       "ctr": 0,
-      "position": 7.857142857142857
+      "position": 7.333333333333333
     },
     {
       "query": "best character to play",
@@ -868,23 +868,15 @@
       "query": "best ck3 starts",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-best-starting-character/",
       "clicks": 0,
-      "impressions": 73,
+      "impressions": 71,
       "ctr": 0,
-      "position": 8.506849315068493
-    },
-    {
-      "query": "best custom faith ck3",
-      "page": "https://grand-strategy-hub.pages.dev/blog/ck3-best-religion/",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 9
+      "position": 8.535211267605634
     },
     {
       "query": "best custom religion ck3",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-best-religion/",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 1,
       "ctr": 0,
       "position": 8
     },
@@ -900,9 +892,9 @@
       "query": "best dlc for eu4",
       "page": "https://grand-strategy-hub.pages.dev/blog/best-eu4-dlc/",
       "clicks": 0,
-      "impressions": 9,
+      "impressions": 7,
       "ctr": 0,
-      "position": 8.444444444444445
+      "position": 8.142857142857142
     },
     {
       "query": "best eu4 mods",
@@ -916,9 +908,9 @@
       "query": "best eu4 mods 2026",
       "page": "https://grand-strategy-hub.pages.dev/blog/best-eu4-mods-2026/",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 1,
       "ctr": 0,
-      "position": 3.5
+      "position": 4
     },
     {
       "query": "best eu5 army composition",
@@ -980,17 +972,17 @@
       "query": "best faith ck3",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-best-religion/",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 2,
       "ctr": 0,
-      "position": 10.333333333333334
+      "position": 10
     },
     {
       "query": "best faith in ck3",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-best-religion/",
       "clicks": 0,
-      "impressions": 7,
+      "impressions": 6,
       "ctr": 0,
-      "position": 8.714285714285715
+      "position": 8.666666666666668
     },
     {
       "query": "best faiths ck3",
@@ -1068,9 +1060,9 @@
       "query": "best religion ck3",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-best-religion/",
       "clicks": 0,
-      "impressions": 15,
+      "impressions": 9,
       "ctr": 0,
-      "position": 6.933333333333334
+      "position": 7.333333333333333
     },
     {
       "query": "best religion in ck3",
@@ -1233,14 +1225,6 @@
       "position": 5
     },
     {
-      "query": "ck3",
-      "page": "https://grand-strategy-hub.pages.dev/category/ck3",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 12
-    },
-    {
       "query": "ck3 867 start characters",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-best-starting-character/",
       "clicks": 0,
@@ -1271,14 +1255,6 @@
       "impressions": 2,
       "ctr": 0,
       "position": 9.5
-    },
-    {
-      "query": "ck3 agot best religion",
-      "page": "https://grand-strategy-hub.pages.dev/blog/ck3-best-religion/",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 17
     },
     {
       "query": "ck3 all dlcs",
@@ -1332,9 +1308,9 @@
       "query": "ck3 best christian faith",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-best-religion/",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 3,
       "ctr": 0,
-      "position": 7.25
+      "position": 6.666666666666667
     },
     {
       "query": "ck3 best country to start",
@@ -1372,7 +1348,7 @@
       "query": "ck3 best faith",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-best-religion/",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 2,
       "ctr": 0,
       "position": 8
     },
@@ -1404,9 +1380,9 @@
       "query": "ck3 best religion",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-best-religion/",
       "clicks": 0,
-      "impressions": 22,
+      "impressions": 20,
       "ctr": 0,
-      "position": 6.636363636363637
+      "position": 6.55
     },
     {
       "query": "ck3 best religion to choose",
@@ -1420,9 +1396,9 @@
       "query": "ck3 best religions",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-best-religion/",
       "clicks": 0,
-      "impressions": 13,
+      "impressions": 12,
       "ctr": 0,
-      "position": 7
+      "position": 7.083333333333333
     },
     {
       "query": "ck3 best religious tenets",
@@ -1452,9 +1428,9 @@
       "query": "ck3 best start",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-best-starting-character/",
       "clicks": 0,
-      "impressions": 47,
+      "impressions": 44,
       "ctr": 0,
-      "position": 9.148936170212766
+      "position": 9.136363636363637
     },
     {
       "query": "ck3 best start date",
@@ -1468,9 +1444,9 @@
       "query": "ck3 best start for beginners",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-best-starting-character/",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 3,
       "ctr": 0,
-      "position": 8.25
+      "position": 8
     },
     {
       "query": "ck3 best starting characters",
@@ -1660,9 +1636,9 @@
       "query": "ck3 culture",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-culture-faith-mechanics/",
       "clicks": 0,
-      "impressions": 29,
+      "impressions": 28,
       "ctr": 0,
-      "position": 12.206896551724139
+      "position": 12.285714285714286
     },
     {
       "query": "ck3 culture tenets",
@@ -1780,9 +1756,9 @@
       "query": "ck3 dynasty renown",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-renown-prestige-guide/",
       "clicks": 0,
-      "impressions": 8,
+      "impressions": 7,
       "ctr": 0,
-      "position": 5.75
+      "position": 5.714285714285714
     },
     {
       "query": "ck3 easiest start",
@@ -1834,14 +1810,6 @@
     },
     {
       "query": "ck3 faith",
-      "page": "https://grand-strategy-hub.pages.dev/blog/ck3-best-religion/",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 7
-    },
-    {
-      "query": "ck3 faith",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-culture-faith-mechanics/",
       "clicks": 0,
       "impressions": 2,
@@ -1852,9 +1820,9 @@
       "query": "ck3 faiths",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-best-religion/",
       "clicks": 0,
-      "impressions": 7,
+      "impressions": 6,
       "ctr": 0,
-      "position": 10.714285714285714
+      "position": 11
     },
     {
       "query": "ck3 fascination",
@@ -2036,9 +2004,9 @@
       "query": "ck3 how to get more renown",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-renown-prestige-guide/",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 2,
       "ctr": 0,
-      "position": 9
+      "position": 9.5
     },
     {
       "query": "ck3 how to get renown",
@@ -2236,7 +2204,7 @@
       "query": "ck3 noble family succession",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-succession-laws/",
       "clicks": 0,
-      "impressions": 8,
+      "impressions": 7,
       "ctr": 0,
       "position": 10
     },
@@ -2252,9 +2220,9 @@
       "query": "ck3 or eu5",
       "page": "https://grand-strategy-hub.pages.dev/blog/best-paradox-grand-strategy-game-for-beginners/",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 1,
       "ctr": 0,
-      "position": 9.666666666666666
+      "position": 10
     },
     {
       "query": "ck3 partition law",
@@ -2505,14 +2473,6 @@
       "position": 9
     },
     {
-      "query": "ck3 strongest religion",
-      "page": "https://grand-strategy-hub.pages.dev/blog/ck3-best-religion/",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 7
-    },
-    {
       "query": "ck3 succession law",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-succession-laws/",
       "clicks": 0,
@@ -2524,9 +2484,9 @@
       "query": "ck3 succession laws",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-succession-laws/",
       "clicks": 0,
-      "impressions": 150,
+      "impressions": 144,
       "ctr": 0,
-      "position": 8.620000000000001
+      "position": 8.625
     },
     {
       "query": "ck3 succession laws guide",
@@ -2540,9 +2500,9 @@
       "query": "ck3 succession types",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-succession-laws/",
       "clicks": 0,
-      "impressions": 6,
+      "impressions": 5,
       "ctr": 0,
-      "position": 8.666666666666668
+      "position": 8.8
     },
     {
       "query": "ck3 tips and tricks",
@@ -2604,9 +2564,9 @@
       "query": "ck3 tutorial character",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-best-starting-character/",
       "clicks": 0,
-      "impressions": 7,
+      "impressions": 6,
       "ctr": 0,
-      "position": 5.428571428571429
+      "position": 5
     },
     {
       "query": "ck3 ultimogeniture",
@@ -2652,9 +2612,9 @@
       "query": "ck3 what to spend prestige on",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-renown-prestige-guide/",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 3,
       "ctr": 0,
-      "position": 10.5
+      "position": 10.666666666666666
     },
     {
       "query": "ck3 what to use prestige on",
@@ -2716,9 +2676,9 @@
       "query": "crusader kings 3",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-best-starting-character/",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 4,
       "ctr": 0,
-      "position": 2.8
+      "position": 3
     },
     {
       "query": "crusader kings 3 best character build",
@@ -2852,9 +2812,9 @@
       "query": "crusader kings 3 renown",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-renown-prestige-guide/",
       "clicks": 0,
-      "impressions": 18,
+      "impressions": 17,
       "ctr": 0,
-      "position": 8.055555555555555
+      "position": 8.176470588235293
     },
     {
       "query": "crusader kings 3 sex",
@@ -2876,17 +2836,17 @@
       "query": "crusader kings 3 starting characters",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-best-starting-character/",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 15,
       "ctr": 0,
-      "position": 6.3125
+      "position": 6.266666666666667
     },
     {
       "query": "crusader kings 3 succession laws",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-succession-laws/",
       "clicks": 0,
-      "impressions": 23,
+      "impressions": 22,
       "ctr": 0,
-      "position": 9.695652173913043
+      "position": 9.681818181818182
     },
     {
       "query": "crusader kings 3 tips for beginners",
@@ -2900,9 +2860,9 @@
       "query": "crusader kings 3 гайд по интригам",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-intrigue-guide/",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 1,
       "ctr": 0,
-      "position": 26.5
+      "position": 29
     },
     {
       "query": "crusader kings 3 законы наследования",
@@ -2988,9 +2948,9 @@
       "query": "custom nations eu4",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu4-custom-nation-guide/",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 3,
       "ctr": 0,
-      "position": 7.6
+      "position": 7.333333333333333
     },
     {
       "query": "diplomatic reputation eu5",
@@ -3060,17 +3020,17 @@
       "query": "eu 4 trade",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu4-trade-power-merchants-steering/",
       "clicks": 0,
-      "impressions": 7,
+      "impressions": 6,
       "ctr": 0,
-      "position": 8.285714285714285
+      "position": 7.833333333333333
     },
     {
       "query": "eu 5 1.4",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu5-political-influence/",
       "clicks": 0,
-      "impressions": 13,
+      "impressions": 11,
       "ctr": 0,
-      "position": 9.538461538461538
+      "position": 9.636363636363637
     },
     {
       "query": "eu 5 army composition",
@@ -3132,9 +3092,9 @@
       "query": "eu4 achievement tracker",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu4-achievement-guide/",
       "clicks": 0,
-      "impressions": 9,
+      "impressions": 8,
       "ctr": 0,
-      "position": 8.444444444444445
+      "position": 8.375
     },
     {
       "query": "eu4 achievements",
@@ -3212,9 +3172,9 @@
       "query": "eu4 best dlcs",
       "page": "https://grand-strategy-hub.pages.dev/blog/best-eu4-dlc/",
       "clicks": 0,
-      "impressions": 30,
+      "impressions": 28,
       "ctr": 0,
-      "position": 7.933333333333334
+      "position": 7.964285714285714
     },
     {
       "query": "eu4 best economic reform",
@@ -3284,17 +3244,9 @@
       "query": "eu4 best tier 8 reform",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu4-government-reforms/",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 2,
       "ctr": 0,
-      "position": 7.666666666666667
-    },
-    {
-      "query": "eu4 best trade modifiers",
-      "page": "https://grand-strategy-hub.pages.dev/blog/eu4-trade-power-merchants-steering/",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 9
+      "position": 7.5
     },
     {
       "query": "eu4 best trade node",
@@ -3396,17 +3348,17 @@
       "query": "eu4 custom nation points",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu4-custom-nation-guide/",
       "clicks": 0,
-      "impressions": 10,
+      "impressions": 9,
       "ctr": 0,
-      "position": 7.8
+      "position": 7.666666666666667
     },
     {
       "query": "eu4 custom nations",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu4-custom-nation-guide/",
       "clicks": 0,
-      "impressions": 7,
+      "impressions": 6,
       "ctr": 0,
-      "position": 7.714285714285714
+      "position": 8.166666666666668
     },
     {
       "query": "eu4 divert trade",
@@ -3433,20 +3385,12 @@
       "position": 18.714285714285715
     },
     {
-      "query": "eu4 dlc tier list 2026",
-      "page": "https://grand-strategy-hub.pages.dev/blog/best-eu4-dlc/",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 5
-    },
-    {
       "query": "eu4 dlcs",
       "page": "https://grand-strategy-hub.pages.dev/blog/best-eu4-dlc/",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 4,
       "ctr": 0,
-      "position": 17
+      "position": 15.5
     },
     {
       "query": "eu4 domestic trade power",
@@ -3460,9 +3404,9 @@
       "query": "eu4 end nodes",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu4-trade-node-map/",
       "clicks": 0,
-      "impressions": 21,
+      "impressions": 18,
       "ctr": 0,
-      "position": 7.761904761904762
+      "position": 7.722222222222222
     },
     {
       "query": "eu4 end trade nodes",
@@ -3484,9 +3428,9 @@
       "query": "eu4 essential dlc",
       "page": "https://grand-strategy-hub.pages.dev/blog/best-eu4-dlc/",
       "clicks": 0,
-      "impressions": 6,
+      "impressions": 5,
       "ctr": 0,
-      "position": 6.166666666666667
+      "position": 6.2
     },
     {
       "query": "eu4 estate guide",
@@ -3500,7 +3444,7 @@
       "query": "eu4 estates guide",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu5-estates-guide/",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 1,
       "ctr": 0,
       "position": 6
     },
@@ -3540,9 +3484,9 @@
       "query": "eu4 fun achievements",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu4-achievement-guide/",
       "clicks": 0,
-      "impressions": 7,
+      "impressions": 5,
       "ctr": 0,
-      "position": 10.142857142857142
+      "position": 10.2
     },
     {
       "query": "eu4 gain prestige",
@@ -3564,9 +3508,9 @@
       "query": "eu4 gov reform",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu4-government-reforms/",
       "clicks": 0,
-      "impressions": 11,
+      "impressions": 10,
       "ctr": 0,
-      "position": 5.7272727272727275
+      "position": 5.9
     },
     {
       "query": "eu4 gov reforms",
@@ -3588,9 +3532,9 @@
       "query": "eu4 goverment reforms",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu4-government-reforms/",
       "clicks": 0,
-      "impressions": 11,
+      "impressions": 10,
       "ctr": 0,
-      "position": 5.636363636363637
+      "position": 5.8
     },
     {
       "query": "eu4 government",
@@ -3599,14 +3543,6 @@
       "impressions": 19,
       "ctr": 0,
       "position": 12.842105263157896
-    },
-    {
-      "query": "eu4 government power",
-      "page": "https://grand-strategy-hub.pages.dev/blog/eu4-government-reforms/",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 8
     },
     {
       "query": "eu4 government reform",
@@ -3636,9 +3572,9 @@
       "query": "eu4 government types",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu4-government-reforms/",
       "clicks": 0,
-      "impressions": 6,
+      "impressions": 5,
       "ctr": 0,
-      "position": 9.333333333333334
+      "position": 9.6
     },
     {
       "query": "eu4 hardest achievements",
@@ -3748,9 +3684,9 @@
       "query": "eu4 how to make a trade company",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu4-trade-companies-explained/",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 4,
       "ctr": 0,
-      "position": 6.2
+      "position": 5.25
     },
     {
       "query": "eu4 how to make trade company",
@@ -3788,9 +3724,9 @@
       "query": "eu4 increase prestige",
       "page": "https://grand-strategy-hub.pages.dev/blog/paradox-games-prestige-explained/",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 3,
       "ctr": 0,
-      "position": 9.25
+      "position": 10
     },
     {
       "query": "eu4 increase trade power",
@@ -3807,14 +3743,6 @@
       "impressions": 1,
       "ctr": 0,
       "position": 22
-    },
-    {
-      "query": "eu4 king of kings achievement",
-      "page": "https://grand-strategy-hub.pages.dev/blog/eu4-achievement-guide/",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 16
     },
     {
       "query": "eu4 mare nostrum achievement",
@@ -3892,9 +3820,9 @@
       "query": "eu4 must have dlc",
       "page": "https://grand-strategy-hub.pages.dev/blog/best-eu4-dlc/",
       "clicks": 0,
-      "impressions": 7,
+      "impressions": 6,
       "ctr": 0,
-      "position": 8
+      "position": 8.166666666666668
     },
     {
       "query": "eu4 must have dlcs",
@@ -3988,9 +3916,9 @@
       "query": "eu4 reforms",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu4-government-reforms/",
       "clicks": 0,
-      "impressions": 72,
+      "impressions": 69,
       "ctr": 0,
-      "position": 6.361111111111111
+      "position": 6.405797101449275
     },
     {
       "query": "eu4 republic government reforms",
@@ -4007,6 +3935,78 @@
       "impressions": 1,
       "ctr": 0,
       "position": 8
+    },
+    {
+      "query": "eu4 siberian frontier custom nation",
+      "page": "https://grand-strategy-hub.pages.dev/blog/eu4-custom-nation-guide/",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "eu4 state or trade company",
+      "page": "https://grand-strategy-hub.pages.dev/blog/eu4-trade-companies-explained/",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 8.857142857142858
+    },
+    {
+      "query": "eu4 steer trade",
+      "page": "https://grand-strategy-hub.pages.dev/blog/eu4-trade-power-merchants-steering/",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 8.09090909090909
+    },
+    {
+      "query": "eu4 steer trade or transfer trade power",
+      "page": "https://grand-strategy-hub.pages.dev/blog/eu4-trade-power-merchants-steering/",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 7.7272727272727275
+    },
+    {
+      "query": "eu4 steer trade vs transfer trade power",
+      "page": "https://grand-strategy-hub.pages.dev/blog/eu4-trade-power-merchants-steering/",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 7.454545454545454
+    },
+    {
+      "query": "eu4 the prince of egypt",
+      "page": "https://grand-strategy-hub.pages.dev/blog/eu4-achievement-guide/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 18
+    },
+    {
+      "query": "eu4 the white company",
+      "page": "https://grand-strategy-hub.pages.dev/blog/eu4-achievement-guide/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "eu4 this is fine achievement",
+      "page": "https://grand-strategy-hub.pages.dev/blog/eu4-achievement-guide/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "eu4 tier 3 reform",
+      "page": "https://grand-strategy-hub.pages.dev/blog/eu4-government-reforms/",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 7.071428571428571
     }
   ]
 }

@@ -1,13 +1,21 @@
 {
-  "generatedAt": "2026-10-12T14:02:38.492Z",
+  "generatedAt": "2026-10-13T00:13:14.092Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "110",
+      "sessions": "111",
       "activeUsers": "90",
-      "avgSessionDurationSec": "121.50168555454546",
-      "engagementRate": "0.19090909090909092",
-      "pageViews": "165"
+      "avgSessionDurationSec": "120.40707577477478",
+      "engagementRate": "0.1891891891891892",
+      "pageViews": "166"
+    },
+    {
+      "landingPage": "/blog/eu5-new-players-path",
+      "sessions": "9",
+      "activeUsers": "6",
+      "avgSessionDurationSec": "1032.3976914444445",
+      "engagementRate": "0.33333333333333331",
+      "pageViews": "24"
     },
     {
       "landingPage": "/blog",
@@ -24,14 +32,6 @@
       "avgSessionDurationSec": "0.620179125",
       "engagementRate": "0",
       "pageViews": "8"
-    },
-    {
-      "landingPage": "/blog/eu5-new-players-path",
-      "sessions": "7",
-      "activeUsers": "4",
-      "avgSessionDurationSec": "356.66732128571431",
-      "engagementRate": "0.42857142857142855",
-      "pageViews": "13"
     },
     {
       "landingPage": "/blog/eu5-political-influence",
@@ -101,7 +101,7 @@
       "landingPage": "/blog/best-eu5-starting-nation",
       "sessions": "4",
       "activeUsers": "4",
-      "avgSessionDurationSec": "0",
+      "avgSessionDurationSec": "0.29975475",
       "engagementRate": "0",
       "pageViews": "4"
     },
