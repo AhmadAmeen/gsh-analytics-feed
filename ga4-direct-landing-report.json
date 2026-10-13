@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-13T00:13:14.092Z",
+  "generatedAt": "2026-10-13T13:16:45.397Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "111",
-      "activeUsers": "90",
-      "avgSessionDurationSec": "120.40707577477478",
-      "engagementRate": "0.1891891891891892",
-      "pageViews": "166"
+      "sessions": "107",
+      "activeUsers": "88",
+      "avgSessionDurationSec": "108.87007428037384",
+      "engagementRate": "0.17757009345794392",
+      "pageViews": "160"
     },
     {
       "landingPage": "/blog/eu5-new-players-path",
@@ -40,14 +40,6 @@
       "avgSessionDurationSec": "2.6571092857142857",
       "engagementRate": "0.14285714285714285",
       "pageViews": "7"
-    },
-    {
-      "landingPage": "/blog/ck3-best-starting-character",
-      "sessions": "6",
-      "activeUsers": "6",
-      "avgSessionDurationSec": "0",
-      "engagementRate": "0",
-      "pageViews": "6"
     },
     {
       "landingPage": "/blog/eu4-government-reforms",
@@ -106,6 +98,22 @@
       "pageViews": "4"
     },
     {
+      "landingPage": "/blog/ck3-best-starting-character",
+      "sessions": "4",
+      "activeUsers": "4",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "4"
+    },
+    {
+      "landingPage": "/blog/ck3-dlc-guide",
+      "sessions": "4",
+      "activeUsers": "4",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "4"
+    },
+    {
       "landingPage": "/blog/ck3-elder-traits-explained",
       "sessions": "4",
       "activeUsers": "4",
@@ -147,14 +155,6 @@
     },
     {
       "landingPage": "/blog/ck3-culture-faith-mechanics",
-      "sessions": "3",
-      "activeUsers": "3",
-      "avgSessionDurationSec": "0",
-      "engagementRate": "0",
-      "pageViews": "3"
-    },
-    {
-      "landingPage": "/blog/ck3-dlc-guide",
       "sessions": "3",
       "activeUsers": "3",
       "avgSessionDurationSec": "0",

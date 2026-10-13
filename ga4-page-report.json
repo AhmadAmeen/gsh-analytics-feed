@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-13T00:13:12.997Z",
+  "generatedAt": "2026-10-13T13:16:44.036Z",
   "rows": [
     {
       "page": "/blog/eu5-new-players-path/",
       "sessions": "20",
       "activeUsers": "10",
       "avgSessionDurationSec": "676.36464374999991",
-      "userEngagementDurationSec": "16255",
+      "userEngagementDurationSec": "23802",
       "engagedSessions": "9",
       "pageViews": "34"
     },
@@ -14,19 +14,19 @@
       "page": "/blog/eu5-army-composition/",
       "sessions": "120",
       "activeUsers": "98",
-      "avgSessionDurationSec": "104.92238025833333",
-      "userEngagementDurationSec": "3836",
-      "engagedSessions": "68",
-      "pageViews": "123"
+      "avgSessionDurationSec": "97.272505658333344",
+      "userEngagementDurationSec": "3906",
+      "engagedSessions": "67",
+      "pageViews": "122"
     },
     {
       "page": "/blog/ck3-best-starting-character/",
-      "sessions": "80",
-      "activeUsers": "74",
-      "avgSessionDurationSec": "62.5452531625",
-      "userEngagementDurationSec": "2358",
+      "sessions": "77",
+      "activeUsers": "71",
+      "avgSessionDurationSec": "64.869785662337662",
+      "userEngagementDurationSec": "2350",
       "engagedSessions": "39",
-      "pageViews": "80"
+      "pageViews": "77"
     },
     {
       "page": "/blog/eu5-political-influence/",
@@ -39,21 +39,30 @@
     },
     {
       "page": "/",
-      "sessions": "137",
-      "activeUsers": "102",
-      "avgSessionDurationSec": "68.496127919708016",
-      "userEngagementDurationSec": "1859",
-      "engagedSessions": "36",
-      "pageViews": "157"
+      "sessions": "133",
+      "activeUsers": "100",
+      "avgSessionDurationSec": "71.1298677518797",
+      "userEngagementDurationSec": "1849",
+      "engagedSessions": "34",
+      "pageViews": "153"
     },
     {
       "page": "/blog/best-eu5-starting-nation/",
-      "sessions": "57",
-      "activeUsers": "50",
-      "avgSessionDurationSec": "136.59561233333332",
-      "userEngagementDurationSec": "1730",
-      "engagedSessions": "36",
-      "pageViews": "62"
+      "sessions": "56",
+      "activeUsers": "49",
+      "avgSessionDurationSec": "138.41403592857142",
+      "userEngagementDurationSec": "1705",
+      "engagedSessions": "35",
+      "pageViews": "61"
+    },
+    {
+      "page": "/blog/best-eu4-dlc/",
+      "sessions": "27",
+      "activeUsers": "24",
+      "avgSessionDurationSec": "166.9374357037037",
+      "userEngagementDurationSec": "1436",
+      "engagedSessions": "17",
+      "pageViews": "24"
     },
     {
       "page": "/blog/eu4-trade-companies-explained/",
@@ -83,40 +92,31 @@
       "pageViews": "27"
     },
     {
-      "page": "/blog/best-eu4-dlc/",
-      "sessions": "25",
-      "activeUsers": "22",
-      "avgSessionDurationSec": "180.28587108",
-      "userEngagementDurationSec": "1001",
-      "engagedSessions": "17",
-      "pageViews": "23"
-    },
-    {
       "page": "/tools/eu4-trade-map/",
-      "sessions": "17",
+      "sessions": "18",
       "activeUsers": "12",
-      "avgSessionDurationSec": "116.45820588235294",
-      "userEngagementDurationSec": "831",
-      "engagedSessions": "12",
+      "avgSessionDurationSec": "113.99335155555556",
+      "userEngagementDurationSec": "896",
+      "engagedSessions": "11",
       "pageViews": "16"
     },
     {
       "page": "/blog/ck3-dlc-guide/",
-      "sessions": "21",
-      "activeUsers": "19",
-      "avgSessionDurationSec": "56.7419480952381",
+      "sessions": "22",
+      "activeUsers": "20",
+      "avgSessionDurationSec": "54.162768636363644",
       "userEngagementDurationSec": "817",
       "engagedSessions": "10",
-      "pageViews": "20"
+      "pageViews": "21"
     },
     {
       "page": "/blog/eu5-most-profitable-buildings/",
-      "sessions": "11",
-      "activeUsers": "8",
-      "avgSessionDurationSec": "64.412661636363637",
-      "userEngagementDurationSec": "655",
+      "sessions": "14",
+      "activeUsers": "9",
+      "avgSessionDurationSec": "50.609948428571428",
+      "userEngagementDurationSec": "659",
       "engagedSessions": "5",
-      "pageViews": "12"
+      "pageViews": "15"
     },
     {
       "page": "/tools/ck3-start-selector/",
@@ -128,15 +128,6 @@
       "pageViews": "15"
     },
     {
-      "page": "/blog/eu4-achievement-guide/",
-      "sessions": "22",
-      "activeUsers": "17",
-      "avgSessionDurationSec": "65.69097045454545",
-      "userEngagementDurationSec": "554",
-      "engagedSessions": "9",
-      "pageViews": "20"
-    },
-    {
       "page": "/blog/eu5-1-4-cardinals-crusades-religious-orders/",
       "sessions": "25",
       "activeUsers": "21",
@@ -146,6 +137,15 @@
       "pageViews": "23"
     },
     {
+      "page": "/blog/eu4-achievement-guide/",
+      "sessions": "21",
+      "activeUsers": "16",
+      "avgSessionDurationSec": "62.756777952380951",
+      "userEngagementDurationSec": "431",
+      "engagedSessions": "8",
+      "pageViews": "19"
+    },
+    {
       "page": "/blog/eu4-government-reforms/",
       "sessions": "12",
       "activeUsers": "12",
@@ -153,6 +153,15 @@
       "userEngagementDurationSec": "417",
       "engagedSessions": "6",
       "pageViews": "13"
+    },
+    {
+      "page": "/blog/eu5-pop-system/",
+      "sessions": "11",
+      "activeUsers": "11",
+      "avgSessionDurationSec": "28.440592272727272",
+      "userEngagementDurationSec": "383",
+      "engagedSessions": "2",
+      "pageViews": "11"
     },
     {
       "page": "/blog/ck3-china-guide-mandate-of-heaven/",
@@ -165,12 +174,21 @@
     },
     {
       "page": "/blog/ck3-renown-prestige-guide/",
-      "sessions": "21",
-      "activeUsers": "16",
-      "avgSessionDurationSec": "27.153077619047615",
+      "sessions": "19",
+      "activeUsers": "15",
+      "avgSessionDurationSec": "30.011296315789469",
       "userEngagementDurationSec": "325",
       "engagedSessions": "8",
-      "pageViews": "18"
+      "pageViews": "17"
+    },
+    {
+      "page": "/blog/eu4-trade-node-map/",
+      "sessions": "10",
+      "activeUsers": "10",
+      "avgSessionDurationSec": "201.42587129999998",
+      "userEngagementDurationSec": "286",
+      "engagedSessions": "7",
+      "pageViews": "13"
     },
     {
       "page": "/tools/eu5-army-simulator/",
@@ -207,15 +225,6 @@
       "userEngagementDurationSec": "270",
       "engagedSessions": "1",
       "pageViews": "3"
-    },
-    {
-      "page": "/blog/eu4-trade-node-map/",
-      "sessions": "8",
-      "activeUsers": "8",
-      "avgSessionDurationSec": "251.782339125",
-      "userEngagementDurationSec": "263",
-      "engagedSessions": "7",
-      "pageViews": "11"
     },
     {
       "page": "/blog/ck3-succession-laws/",
@@ -291,12 +300,12 @@
     },
     {
       "page": "/category/eu5/",
-      "sessions": "13",
-      "activeUsers": "13",
-      "avgSessionDurationSec": "20.149641846153845",
-      "userEngagementDurationSec": "138",
+      "sessions": "14",
+      "activeUsers": "14",
+      "avgSessionDurationSec": "28.129598142857141",
+      "userEngagementDurationSec": "153",
       "engagedSessions": "10",
-      "pageViews": "17"
+      "pageViews": "18"
     },
     {
       "page": "/blog/gearup-booster-review/",
@@ -308,13 +317,13 @@
       "pageViews": "10"
     },
     {
-      "page": "/blog/eu5-pop-system/",
-      "sessions": "8",
-      "activeUsers": "8",
-      "avgSessionDurationSec": "39.105814375",
-      "userEngagementDurationSec": "132",
+      "page": "/blog/ck3-best-religion/",
+      "sessions": "4",
+      "activeUsers": "4",
+      "avgSessionDurationSec": "33.8962715",
+      "userEngagementDurationSec": "118",
       "engagedSessions": "2",
-      "pageViews": "7"
+      "pageViews": "5"
     },
     {
       "page": "/blog/eu5-navy-guide/",
@@ -362,15 +371,6 @@
       "pageViews": "8"
     },
     {
-      "page": "/blog/eu5-cabinet-courtiers-explained/",
-      "sessions": "4",
-      "activeUsers": "4",
-      "avgSessionDurationSec": "763.42029775",
-      "userEngagementDurationSec": "89",
-      "engagedSessions": "2",
-      "pageViews": "4"
-    },
-    {
       "page": "/category/eu4/",
       "sessions": "8",
       "activeUsers": "8",
@@ -378,15 +378,6 @@
       "userEngagementDurationSec": "77",
       "engagedSessions": "5",
       "pageViews": "9"
-    },
-    {
-      "page": "/blog/ck3-best-religion/",
-      "sessions": "3",
-      "activeUsers": "3",
-      "avgSessionDurationSec": "26.358555666666664",
-      "userEngagementDurationSec": "77",
-      "engagedSessions": "2",
-      "pageViews": "4"
     },
     {
       "page": "/blog/eu5-trade-guide/",
@@ -444,12 +435,21 @@
     },
     {
       "page": "/tools/",
-      "sessions": "11",
-      "activeUsers": "8",
-      "avgSessionDurationSec": "4.6747999090909094",
-      "userEngagementDurationSec": "43",
+      "sessions": "12",
+      "activeUsers": "9",
+      "avgSessionDurationSec": "5.47769825",
+      "userEngagementDurationSec": "44",
       "engagedSessions": "7",
       "pageViews": "13"
+    },
+    {
+      "page": "/blog/eu4-holy-roman-emperor-guide/",
+      "sessions": "5",
+      "activeUsers": "5",
+      "avgSessionDurationSec": "65.5537022",
+      "userEngagementDurationSec": "43",
+      "engagedSessions": "1",
+      "pageViews": "5"
     }
   ]
 }
