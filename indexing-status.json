@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-13T13:25:58.461Z",
+  "generatedAt": "2026-10-13T22:30:12.697Z",
   "checked": 82,
-  "indexed": 54,
+  "indexed": 56,
   "crawledNotIndexed": 2,
   "discoveredNotIndexed": 0,
-  "unknownToGoogle": 26,
+  "unknownToGoogle": 24,
   "other": 0,
   "errors": 0,
   "rows": [
@@ -55,8 +55,8 @@
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/ck3-by-god-alone/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "status": "Submitted and indexed",
+      "category": "indexed"
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/ck3-china-guide-mandate-of-heaven/",
@@ -415,8 +415,8 @@
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/tools/eu5-siege-simulator/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "status": "Submitted and indexed",
+      "category": "indexed"
     }
   ]
 }
