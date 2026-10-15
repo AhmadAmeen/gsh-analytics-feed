@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-15T10:38:23.745Z",
+  "generatedAt": "2026-10-15T20:59:45.787Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "95",
-      "activeUsers": "78",
-      "avgSessionDurationSec": "144.9908796",
-      "engagementRate": "0.17894736842105263",
-      "pageViews": "155"
+      "sessions": "96",
+      "activeUsers": "79",
+      "avgSessionDurationSec": "143.48055793749998",
+      "engagementRate": "0.17708333333333334",
+      "pageViews": "156"
     },
     {
       "landingPage": "/blog",
@@ -45,7 +45,7 @@
       "landingPage": "/blog/ck3-dlc-guide",
       "sessions": "7",
       "activeUsers": "7",
-      "avgSessionDurationSec": "0",
+      "avgSessionDurationSec": "0.25129257142857142",
       "engagementRate": "0",
       "pageViews": "7"
     },
@@ -114,6 +114,14 @@
       "pageViews": "4"
     },
     {
+      "landingPage": "/blog/eu5-1-4-trade-tariffs-economy",
+      "sessions": "4",
+      "activeUsers": "4",
+      "avgSessionDurationSec": "1.4764415",
+      "engagementRate": "0",
+      "pageViews": "4"
+    },
+    {
       "landingPage": "/category/ck3",
       "sessions": "4",
       "activeUsers": "4",
@@ -136,6 +144,14 @@
       "avgSessionDurationSec": "0",
       "engagementRate": "0",
       "pageViews": "4"
+    },
+    {
+      "landingPage": "/blog/best-paradox-grand-strategy-game-for-beginners",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "0.866642",
+      "engagementRate": "0",
+      "pageViews": "3"
     },
     {
       "landingPage": "/blog/ck3-by-god-alone",
@@ -170,14 +186,6 @@
       "pageViews": "3"
     },
     {
-      "landingPage": "/blog/eu5-1-4-trade-tariffs-economy",
-      "sessions": "3",
-      "activeUsers": "3",
-      "avgSessionDurationSec": "1.3093203333333332",
-      "engagementRate": "0",
-      "pageViews": "3"
-    },
-    {
       "landingPage": "/blog/eu5-expeditions-explained",
       "sessions": "3",
       "activeUsers": "3",
@@ -202,15 +210,23 @@
       "pageViews": "0"
     },
     {
-      "landingPage": "/blog/best-paradox-grand-strategy-game-for-beginners",
+      "landingPage": "/blog/ck3-best-starting-character",
       "sessions": "2",
       "activeUsers": "2",
-      "avgSessionDurationSec": "0.640965",
+      "avgSessionDurationSec": "0",
       "engagementRate": "0",
       "pageViews": "2"
     },
     {
-      "landingPage": "/blog/ck3-best-starting-character",
+      "landingPage": "/blog/ck3-china-guide-mandate-of-heaven",
+      "sessions": "2",
+      "activeUsers": "2",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "2"
+    },
+    {
+      "landingPage": "/blog/ck3-culture-faith-mechanics",
       "sessions": "2",
       "activeUsers": "2",
       "avgSessionDurationSec": "0",
@@ -223,22 +239,6 @@
       "activeUsers": "2",
       "avgSessionDurationSec": "153.9386505",
       "engagementRate": "0.5",
-      "pageViews": "2"
-    },
-    {
-      "landingPage": "/blog/ck3-keep-track-of-your-dynasty",
-      "sessions": "2",
-      "activeUsers": "2",
-      "avgSessionDurationSec": "1.712887",
-      "engagementRate": "0",
-      "pageViews": "2"
-    },
-    {
-      "landingPage": "/blog/ck3-renown-prestige-guide",
-      "sessions": "2",
-      "activeUsers": "2",
-      "avgSessionDurationSec": "0",
-      "engagementRate": "0",
       "pageViews": "2"
     }
   ]

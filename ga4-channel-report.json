@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-10-15T10:38:23.400Z",
+  "generatedAt": "2026-10-15T20:59:45.252Z",
   "rows": [
     {
       "channel": "Organic Search",
-      "sessions": "465",
-      "engagedSessions": "278",
-      "engagementRate": "0.59784946236559144",
-      "avgSessionDurationSec": "165.21034469462364"
+      "sessions": "483",
+      "engagedSessions": "294",
+      "engagementRate": "0.60869565217391308",
+      "avgSessionDurationSec": "168.52083477432714"
     },
     {
       "channel": "Direct",
-      "sessions": "282",
+      "sessions": "288",
       "engagedSessions": "29",
-      "engagementRate": "0.10283687943262411",
-      "avgSessionDurationSec": "74.7444819539007"
+      "engagementRate": "0.10069444444444445",
+      "avgSessionDurationSec": "73.204856805555551"
     },
     {
       "channel": "Organic Social",
-      "sessions": "130",
-      "engagedSessions": "53",
-      "engagementRate": "0.40769230769230769",
-      "avgSessionDurationSec": "13.720587361538461"
+      "sessions": "133",
+      "engagedSessions": "55",
+      "engagementRate": "0.41353383458646614",
+      "avgSessionDurationSec": "15.811321383458647"
     },
     {
       "channel": "AI Assistant",
@@ -31,17 +31,10 @@
     },
     {
       "channel": "Cross-network",
-      "sessions": "18",
+      "sessions": "8",
       "engagedSessions": "0",
       "engagementRate": "0",
-      "avgSessionDurationSec": "141.15751699999998"
-    },
-    {
-      "channel": "Unassigned",
-      "sessions": "15",
-      "engagedSessions": "0",
-      "engagementRate": "0",
-      "avgSessionDurationSec": "92.545332800000011"
+      "avgSessionDurationSec": "116.1719155"
     },
     {
       "channel": "Referral",
@@ -49,6 +42,13 @@
       "engagedSessions": "5",
       "engagementRate": "0.7142857142857143",
       "avgSessionDurationSec": "353.98288385714289"
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": "4",
+      "engagedSessions": "0",
+      "engagementRate": "0",
+      "avgSessionDurationSec": "112.12634125"
     },
     {
       "channel": "Organic Video",
