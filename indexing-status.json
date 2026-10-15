@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-14T21:29:03.794Z",
-  "checked": 82,
+  "generatedAt": "2026-10-15T10:47:50.446Z",
+  "checked": 83,
   "indexed": 56,
   "crawledNotIndexed": 2,
   "discoveredNotIndexed": 0,
-  "unknownToGoogle": 24,
+  "unknownToGoogle": 25,
   "other": 0,
   "errors": 0,
   "rows": [
@@ -417,6 +417,11 @@
       "url": "https://grand-strategy-hub.pages.dev/tools/eu5-siege-simulator/",
       "status": "Submitted and indexed",
       "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/videos/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
     }
   ]
 }
