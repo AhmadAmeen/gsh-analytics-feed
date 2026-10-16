@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T10:25:07.494Z",
+  "generatedAt": "2026-10-16T20:34:39.167Z",
   "rows": [
     {
       "landingPage": "/",
@@ -8,6 +8,14 @@
       "avgSessionDurationSec": "128.98506818085107",
       "engagementRate": "0.1702127659574468",
       "pageViews": "153"
+    },
+    {
+      "landingPage": "/blog/ck3-dlc-guide",
+      "sessions": "10",
+      "activeUsers": "10",
+      "avgSessionDurationSec": "0.83571020000000007",
+      "engagementRate": "0",
+      "pageViews": "10"
     },
     {
       "landingPage": "/blog/eu5-political-influence",
@@ -22,14 +30,6 @@
       "sessions": "8",
       "activeUsers": "8",
       "avgSessionDurationSec": "1.7482385",
-      "engagementRate": "0",
-      "pageViews": "8"
-    },
-    {
-      "landingPage": "/blog/ck3-dlc-guide",
-      "sessions": "8",
-      "activeUsers": "8",
-      "avgSessionDurationSec": "0.219881",
       "engagementRate": "0",
       "pageViews": "8"
     },
@@ -50,10 +50,26 @@
       "pageViews": "7"
     },
     {
+      "landingPage": "/blog/eu5-army-composition",
+      "sessions": "7",
+      "activeUsers": "7",
+      "avgSessionDurationSec": "16.870403857142858",
+      "engagementRate": "0.14285714285714285",
+      "pageViews": "7"
+    },
+    {
       "landingPage": "/blog/best-paradox-grand-strategy-game-for-beginners",
       "sessions": "6",
       "activeUsers": "6",
       "avgSessionDurationSec": "1.7671001666666666",
+      "engagementRate": "0",
+      "pageViews": "6"
+    },
+    {
+      "landingPage": "/blog/ck3-china-guide-mandate-of-heaven",
+      "sessions": "6",
+      "activeUsers": "6",
+      "avgSessionDurationSec": "2.4958076666666664",
       "engagementRate": "0",
       "pageViews": "6"
     },
@@ -66,28 +82,12 @@
       "pageViews": "6"
     },
     {
-      "landingPage": "/blog/eu5-army-composition",
-      "sessions": "6",
-      "activeUsers": "6",
-      "avgSessionDurationSec": "0.7053805",
-      "engagementRate": "0",
-      "pageViews": "6"
-    },
-    {
       "landingPage": "/blog/paradox-dlc-release-schedule-2026",
       "sessions": "6",
       "activeUsers": "6",
       "avgSessionDurationSec": "0.91446366666666667",
       "engagementRate": "0",
       "pageViews": "6"
-    },
-    {
-      "landingPage": "/blog/ck3-china-guide-mandate-of-heaven",
-      "sessions": "5",
-      "activeUsers": "5",
-      "avgSessionDurationSec": "2.9949692",
-      "engagementRate": "0",
-      "pageViews": "5"
     },
     {
       "landingPage": "/quiz",
