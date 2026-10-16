@@ -1,13 +1,21 @@
 {
-  "generatedAt": "2026-10-15T20:59:45.787Z",
+  "generatedAt": "2026-10-16T10:25:07.494Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "96",
-      "activeUsers": "79",
-      "avgSessionDurationSec": "143.48055793749998",
-      "engagementRate": "0.17708333333333334",
-      "pageViews": "156"
+      "sessions": "94",
+      "activeUsers": "78",
+      "avgSessionDurationSec": "128.98506818085107",
+      "engagementRate": "0.1702127659574468",
+      "pageViews": "153"
+    },
+    {
+      "landingPage": "/blog/eu5-political-influence",
+      "sessions": "9",
+      "activeUsers": "9",
+      "avgSessionDurationSec": "2.446353",
+      "engagementRate": "0.1111111111111111",
+      "pageViews": "9"
     },
     {
       "landingPage": "/blog",
@@ -18,10 +26,10 @@
       "pageViews": "8"
     },
     {
-      "landingPage": "/blog/eu4-trade-companies-explained",
+      "landingPage": "/blog/ck3-dlc-guide",
       "sessions": "8",
       "activeUsers": "8",
-      "avgSessionDurationSec": "0.620179125",
+      "avgSessionDurationSec": "0.219881",
       "engagementRate": "0",
       "pageViews": "8"
     },
@@ -34,20 +42,20 @@
       "pageViews": "20"
     },
     {
-      "landingPage": "/blog/eu5-political-influence",
-      "sessions": "8",
-      "activeUsers": "8",
-      "avgSessionDurationSec": "2.324970625",
-      "engagementRate": "0.125",
-      "pageViews": "8"
-    },
-    {
-      "landingPage": "/blog/ck3-dlc-guide",
+      "landingPage": "/blog/eu4-trade-companies-explained",
       "sessions": "7",
       "activeUsers": "7",
-      "avgSessionDurationSec": "0.25129257142857142",
+      "avgSessionDurationSec": "0.708776142857143",
       "engagementRate": "0",
       "pageViews": "7"
+    },
+    {
+      "landingPage": "/blog/best-paradox-grand-strategy-game-for-beginners",
+      "sessions": "6",
+      "activeUsers": "6",
+      "avgSessionDurationSec": "1.7671001666666666",
+      "engagementRate": "0",
+      "pageViews": "6"
     },
     {
       "landingPage": "/blog/eu4-government-reforms",
@@ -74,20 +82,20 @@
       "pageViews": "6"
     },
     {
+      "landingPage": "/blog/ck3-china-guide-mandate-of-heaven",
+      "sessions": "5",
+      "activeUsers": "5",
+      "avgSessionDurationSec": "2.9949692",
+      "engagementRate": "0",
+      "pageViews": "5"
+    },
+    {
       "landingPage": "/quiz",
       "sessions": "5",
       "activeUsers": "5",
       "avgSessionDurationSec": "0.69440140000000006",
       "engagementRate": "0",
       "pageViews": "5"
-    },
-    {
-      "landingPage": "/tools",
-      "sessions": "5",
-      "activeUsers": "5",
-      "avgSessionDurationSec": "3.9633944",
-      "engagementRate": "0.2",
-      "pageViews": "6"
     },
     {
       "landingPage": "/blog/best-eu5-starting-nation",
@@ -130,14 +138,6 @@
       "pageViews": "5"
     },
     {
-      "landingPage": "/category/eu5",
-      "sessions": "4",
-      "activeUsers": "4",
-      "avgSessionDurationSec": "0.66501925",
-      "engagementRate": "0",
-      "pageViews": "4"
-    },
-    {
       "landingPage": "/eu4/trade-companies",
       "sessions": "4",
       "activeUsers": "4",
@@ -146,12 +146,12 @@
       "pageViews": "4"
     },
     {
-      "landingPage": "/blog/best-paradox-grand-strategy-game-for-beginners",
-      "sessions": "3",
-      "activeUsers": "3",
-      "avgSessionDurationSec": "0.866642",
-      "engagementRate": "0",
-      "pageViews": "3"
+      "landingPage": "/tools",
+      "sessions": "4",
+      "activeUsers": "4",
+      "avgSessionDurationSec": "4.81739075",
+      "engagementRate": "0.25",
+      "pageViews": "5"
     },
     {
       "landingPage": "/blog/ck3-by-god-alone",
@@ -186,10 +186,10 @@
       "pageViews": "3"
     },
     {
-      "landingPage": "/blog/eu5-expeditions-explained",
+      "landingPage": "/category/eu5",
       "sessions": "3",
       "activeUsers": "3",
-      "avgSessionDurationSec": "0.38442766666666667",
+      "avgSessionDurationSec": "0.8866923333333333",
       "engagementRate": "0",
       "pageViews": "3"
     },
@@ -218,14 +218,6 @@
       "pageViews": "2"
     },
     {
-      "landingPage": "/blog/ck3-china-guide-mandate-of-heaven",
-      "sessions": "2",
-      "activeUsers": "2",
-      "avgSessionDurationSec": "0",
-      "engagementRate": "0",
-      "pageViews": "2"
-    },
-    {
       "landingPage": "/blog/ck3-culture-faith-mechanics",
       "sessions": "2",
       "activeUsers": "2",
@@ -239,6 +231,14 @@
       "activeUsers": "2",
       "avgSessionDurationSec": "153.9386505",
       "engagementRate": "0.5",
+      "pageViews": "2"
+    },
+    {
+      "landingPage": "/blog/ck3-keep-track-of-your-dynasty",
+      "sessions": "2",
+      "activeUsers": "2",
+      "avgSessionDurationSec": "1.712887",
+      "engagementRate": "0",
       "pageViews": "2"
     }
   ]

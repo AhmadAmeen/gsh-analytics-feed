@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-15T21:09:04.658Z",
+  "generatedAt": "2026-10-16T10:34:06.987Z",
   "checked": 83,
-  "indexed": 56,
-  "crawledNotIndexed": 2,
+  "indexed": 55,
+  "crawledNotIndexed": 3,
   "discoveredNotIndexed": 0,
-  "unknownToGoogle": 24,
+  "unknownToGoogle": 25,
   "other": 0,
-  "errors": 1,
+  "errors": 0,
   "rows": [
     {
       "url": "https://grand-strategy-hub.pages.dev/",
@@ -135,13 +135,13 @@
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/eu4-estates-crownland-privileges/",
-      "status": "ERROR: Internal error encountered.",
-      "category": "error"
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/eu4-government-reforms/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "status": "Crawled - currently not indexed",
+      "category": "crawledNotIndexed"
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/eu4-holy-roman-emperor-guide/",

@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-15T20:59:45.252Z",
+  "generatedAt": "2026-10-16T10:25:06.951Z",
   "rows": [
     {
       "channel": "Organic Search",
-      "sessions": "483",
-      "engagedSessions": "294",
-      "engagementRate": "0.60869565217391308",
-      "avgSessionDurationSec": "168.52083477432714"
+      "sessions": "474",
+      "engagedSessions": "284",
+      "engagementRate": "0.59915611814345993",
+      "avgSessionDurationSec": "170.6062360759494"
     },
     {
       "channel": "Direct",
       "sessions": "288",
-      "engagedSessions": "29",
-      "engagementRate": "0.10069444444444445",
-      "avgSessionDurationSec": "73.204856805555551"
+      "engagedSessions": "28",
+      "engagementRate": "0.097222222222222224",
+      "avgSessionDurationSec": "67.573805795138881"
     },
     {
       "channel": "Organic Social",
@@ -24,17 +24,24 @@
     },
     {
       "channel": "AI Assistant",
-      "sessions": "31",
+      "sessions": "29",
       "engagedSessions": "6",
-      "engagementRate": "0.19354838709677419",
-      "avgSessionDurationSec": "30.620090483870968"
+      "engagementRate": "0.20689655172413793",
+      "avgSessionDurationSec": "32.731820862068965"
     },
     {
       "channel": "Cross-network",
+      "sessions": "12",
+      "engagedSessions": "0",
+      "engagementRate": "0",
+      "avgSessionDurationSec": "243.20961466666665"
+    },
+    {
+      "channel": "Unassigned",
       "sessions": "8",
       "engagedSessions": "0",
       "engagementRate": "0",
-      "avgSessionDurationSec": "116.1719155"
+      "avgSessionDurationSec": "73.684093875"
     },
     {
       "channel": "Referral",
@@ -42,13 +49,6 @@
       "engagedSessions": "5",
       "engagementRate": "0.7142857142857143",
       "avgSessionDurationSec": "353.98288385714289"
-    },
-    {
-      "channel": "Unassigned",
-      "sessions": "4",
-      "engagedSessions": "0",
-      "engagementRate": "0",
-      "avgSessionDurationSec": "112.12634125"
     },
     {
       "channel": "Organic Video",
