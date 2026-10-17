@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-17T09:57:09.055Z",
+  "generatedAt": "2026-10-17T20:13:07.506Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "90",
-      "activeUsers": "74",
-      "avgSessionDurationSec": "134.60042972222223",
-      "engagementRate": "0.17777777777777778",
-      "pageViews": "148"
+      "sessions": "91",
+      "activeUsers": "75",
+      "avgSessionDurationSec": "133.12130412087913",
+      "engagementRate": "0.17582417582417584",
+      "pageViews": "149"
     },
     {
       "landingPage": "/blog/ck3-dlc-guide",
       "sessions": "10",
       "activeUsers": "10",
-      "avgSessionDurationSec": "0.83571020000000007",
+      "avgSessionDurationSec": "0.8357102",
       "engagementRate": "0",
       "pageViews": "10"
     },
@@ -186,6 +186,14 @@
       "pageViews": "3"
     },
     {
+      "landingPage": "/blog/eu5-most-profitable-buildings",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "1.131512",
+      "engagementRate": "0",
+      "pageViews": "3"
+    },
+    {
       "landingPage": "/category/eu5",
       "sessions": "3",
       "activeUsers": "3",
@@ -231,14 +239,6 @@
       "activeUsers": "2",
       "avgSessionDurationSec": "0",
       "engagementRate": "0",
-      "pageViews": "2"
-    },
-    {
-      "landingPage": "/blog/ck3-intrigue-guide",
-      "sessions": "2",
-      "activeUsers": "2",
-      "avgSessionDurationSec": "153.9386505",
-      "engagementRate": "0.5",
       "pageViews": "2"
     }
   ]

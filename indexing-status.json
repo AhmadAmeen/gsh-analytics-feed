@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-17T10:06:26.441Z",
-  "checked": 83,
+  "generatedAt": "2026-10-17T20:22:34.459Z",
+  "checked": 84,
   "indexed": 55,
   "crawledNotIndexed": 3,
   "discoveredNotIndexed": 0,
-  "unknownToGoogle": 25,
+  "unknownToGoogle": 26,
   "other": 0,
   "errors": 0,
   "rows": [
@@ -382,6 +382,11 @@
       "url": "https://grand-strategy-hub.pages.dev/disclosure/",
       "status": "Submitted and indexed",
       "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/links/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/privacy/",

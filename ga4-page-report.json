@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T09:57:08.169Z",
+  "generatedAt": "2026-10-17T20:13:06.706Z",
   "rows": [
     {
       "page": "/blog/eu5-new-players-path/",
@@ -12,12 +12,12 @@
     },
     {
       "page": "/blog/eu5-army-composition/",
-      "sessions": "104",
-      "activeUsers": "83",
-      "avgSessionDurationSec": "100.65786078846153",
-      "userEngagementDurationSec": "3177",
-      "engagedSessions": "57",
-      "pageViews": "105"
+      "sessions": "105",
+      "activeUsers": "84",
+      "avgSessionDurationSec": "99.94196600952381",
+      "userEngagementDurationSec": "3201",
+      "engagedSessions": "58",
+      "pageViews": "106"
     },
     {
       "page": "/blog/ck3-best-starting-character/",
@@ -68,7 +68,7 @@
       "page": "/blog/best-eu5-starting-nation/",
       "sessions": "51",
       "activeUsers": "44",
-      "avgSessionDurationSec": "120.01101529411767",
+      "avgSessionDurationSec": "120.01101529411764",
       "userEngagementDurationSec": "1591",
       "engagedSessions": "32",
       "pageViews": "55"
@@ -111,12 +111,12 @@
     },
     {
       "page": "/",
-      "sessions": "120",
-      "activeUsers": "91",
-      "avgSessionDurationSec": "52.94101881666667",
+      "sessions": "122",
+      "activeUsers": "93",
+      "avgSessionDurationSec": "52.073133262295087",
       "userEngagementDurationSec": "1126",
       "engagedSessions": "35",
-      "pageViews": "135"
+      "pageViews": "137"
     },
     {
       "page": "/tools/ck3-start-selector/",
@@ -149,19 +149,19 @@
       "page": "/blog/ck3-intrigue-guide/",
       "sessions": "26",
       "activeUsers": "25",
-      "avgSessionDurationSec": "81.138403192307678",
+      "avgSessionDurationSec": "81.1384031923077",
       "userEngagementDurationSec": "825",
       "engagedSessions": "17",
       "pageViews": "25"
     },
     {
       "page": "/blog/eu5-most-profitable-buildings/",
-      "sessions": "15",
-      "activeUsers": "10",
-      "avgSessionDurationSec": "47.605618733333337",
-      "userEngagementDurationSec": "660",
+      "sessions": "16",
+      "activeUsers": "11",
+      "avgSessionDurationSec": "44.7727001875",
+      "userEngagementDurationSec": "662",
       "engagedSessions": "6",
-      "pageViews": "16"
+      "pageViews": "17"
     },
     {
       "page": "/blog/eu5-1-4-cardinals-crusades-religious-orders/",
@@ -174,20 +174,20 @@
     },
     {
       "page": "/blog/eu4-trade-node-map/",
-      "sessions": "13",
-      "activeUsers": "13",
-      "avgSessionDurationSec": "169.118",
-      "userEngagementDurationSec": "447",
+      "sessions": "14",
+      "activeUsers": "14",
+      "avgSessionDurationSec": "165.74193471428572",
+      "userEngagementDurationSec": "558",
       "engagedSessions": "11",
-      "pageViews": "17"
+      "pageViews": "18"
     },
     {
       "page": "/blog/eu5-loans-government-bonds/",
       "sessions": "14",
       "activeUsers": "12",
-      "avgSessionDurationSec": "99.399799142857162",
+      "avgSessionDurationSec": "109.90382964285713",
       "userEngagementDurationSec": "402",
-      "engagedSessions": "5",
+      "engagedSessions": "6",
       "pageViews": "15"
     },
     {
@@ -246,12 +246,12 @@
     },
     {
       "page": "/blog/ck3-succession-laws/",
-      "sessions": "4",
-      "activeUsers": "4",
-      "avgSessionDurationSec": "160.59929825",
+      "sessions": "5",
+      "activeUsers": "5",
+      "avgSessionDurationSec": "128.4794386",
       "userEngagementDurationSec": "257",
       "engagedSessions": "2",
-      "pageViews": "4"
+      "pageViews": "5"
     },
     {
       "page": "/category/ck3/",
@@ -302,7 +302,7 @@
       "page": "/category/eu5/",
       "sessions": "15",
       "activeUsers": "15",
-      "avgSessionDurationSec": "19.37906233333333",
+      "avgSessionDurationSec": "19.379062333333334",
       "userEngagementDurationSec": "164",
       "engagedSessions": "12",
       "pageViews": "19"
@@ -338,7 +338,7 @@
       "page": "/blog/eu5-estate-private-armies/",
       "sessions": "7",
       "activeUsers": "7",
-      "avgSessionDurationSec": "16.691001571428572",
+      "avgSessionDurationSec": "16.691001571428568",
       "userEngagementDurationSec": "108",
       "engagedSessions": "3",
       "pageViews": "7"
@@ -383,7 +383,7 @@
       "page": "/category/eu4/",
       "sessions": "11",
       "activeUsers": "9",
-      "avgSessionDurationSec": "9.17098581818182",
+      "avgSessionDurationSec": "9.1709858181818174",
       "userEngagementDurationSec": "76",
       "engagedSessions": "8",
       "pageViews": "12"
