@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T10:09:43.299Z",
+  "generatedAt": "2026-10-18T20:10:55.059Z",
   "rows": [
     {
       "landingPage": "/",
@@ -18,6 +18,14 @@
       "pageViews": "10"
     },
     {
+      "landingPage": "/blog/eu5-new-players-path",
+      "sessions": "9",
+      "activeUsers": "6",
+      "avgSessionDurationSec": "512.2725321111111",
+      "engagementRate": "0.44444444444444442",
+      "pageViews": "21"
+    },
+    {
       "landingPage": "/blog/eu5-political-influence",
       "sessions": "9",
       "activeUsers": "9",
@@ -26,12 +34,12 @@
       "pageViews": "9"
     },
     {
-      "landingPage": "/blog/eu5-new-players-path",
+      "landingPage": "/blog/eu4-trade-companies-explained",
       "sessions": "8",
-      "activeUsers": "5",
-      "avgSessionDurationSec": "576.306598625",
-      "engagementRate": "0.5",
-      "pageViews": "20"
+      "activeUsers": "8",
+      "avgSessionDurationSec": "0.620179125",
+      "engagementRate": "0",
+      "pageViews": "8"
     },
     {
       "landingPage": "/blog",
@@ -45,16 +53,8 @@
       "landingPage": "/blog/eu4-government-reforms",
       "sessions": "7",
       "activeUsers": "7",
-      "avgSessionDurationSec": "2.112736285714286",
+      "avgSessionDurationSec": "2.1127362857142855",
       "engagementRate": "0.14285714285714285",
-      "pageViews": "7"
-    },
-    {
-      "landingPage": "/blog/eu4-trade-companies-explained",
-      "sessions": "7",
-      "activeUsers": "7",
-      "avgSessionDurationSec": "0.708776142857143",
-      "engagementRate": "0",
       "pageViews": "7"
     },
     {
@@ -170,6 +170,14 @@
       "pageViews": "3"
     },
     {
+      "landingPage": "/blog/ck3-renown-prestige-guide",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "3"
+    },
+    {
       "landingPage": "/blog/ck3-silk-and-silver-preview",
       "sessions": "3",
       "activeUsers": "3",
@@ -230,14 +238,6 @@
       "sessions": "2",
       "activeUsers": "2",
       "avgSessionDurationSec": "0",
-      "engagementRate": "0",
-      "pageViews": "2"
-    },
-    {
-      "landingPage": "/blog/ck3-by-god-alone",
-      "sessions": "2",
-      "activeUsers": "2",
-      "avgSessionDurationSec": "1.1990445",
       "engagementRate": "0",
       "pageViews": "2"
     }
