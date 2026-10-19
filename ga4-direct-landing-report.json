@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-18T20:10:55.059Z",
+  "generatedAt": "2026-10-19T11:42:54.344Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "91",
-      "activeUsers": "75",
-      "avgSessionDurationSec": "133.11036443956044",
-      "engagementRate": "0.17582417582417584",
-      "pageViews": "149"
+      "sessions": "85",
+      "activeUsers": "69",
+      "avgSessionDurationSec": "142.14176014117649",
+      "engagementRate": "0.17647058823529413",
+      "pageViews": "143"
     },
     {
       "landingPage": "/blog/ck3-dlc-guide",
@@ -66,14 +66,6 @@
       "pageViews": "7"
     },
     {
-      "landingPage": "/blog/best-paradox-grand-strategy-game-for-beginners",
-      "sessions": "6",
-      "activeUsers": "6",
-      "avgSessionDurationSec": "1.9245694999999998",
-      "engagementRate": "0",
-      "pageViews": "6"
-    },
-    {
       "landingPage": "/blog/ck3-china-guide-mandate-of-heaven",
       "sessions": "6",
       "activeUsers": "6",
@@ -95,6 +87,14 @@
       "activeUsers": "5",
       "avgSessionDurationSec": "3.5022046000000002",
       "engagementRate": "0.2",
+      "pageViews": "5"
+    },
+    {
+      "landingPage": "/blog/best-paradox-grand-strategy-game-for-beginners",
+      "sessions": "5",
+      "activeUsers": "5",
+      "avgSessionDurationSec": "2.3094834",
+      "engagementRate": "0",
       "pageViews": "5"
     },
     {
@@ -226,18 +226,18 @@
       "pageViews": "3"
     },
     {
-      "landingPage": "(not set)",
-      "sessions": "2",
-      "activeUsers": "1",
-      "avgSessionDurationSec": "1051.23749",
-      "engagementRate": "0.5",
-      "pageViews": "0"
-    },
-    {
       "landingPage": "/blog/ck3-best-starting-character",
       "sessions": "2",
       "activeUsers": "2",
       "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "2"
+    },
+    {
+      "landingPage": "/blog/ck3-by-god-alone",
+      "sessions": "2",
+      "activeUsers": "2",
+      "avgSessionDurationSec": "1.1990445",
       "engagementRate": "0",
       "pageViews": "2"
     }
