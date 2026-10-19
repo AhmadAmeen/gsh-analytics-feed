@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-19T11:42:54.344Z",
+  "generatedAt": "2026-10-19T22:03:09.564Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "85",
-      "activeUsers": "69",
-      "avgSessionDurationSec": "142.14176014117649",
-      "engagementRate": "0.17647058823529413",
-      "pageViews": "143"
+      "sessions": "86",
+      "activeUsers": "70",
+      "avgSessionDurationSec": "140.48894897674418",
+      "engagementRate": "0.1744186046511628",
+      "pageViews": "144"
     },
     {
       "landingPage": "/blog/ck3-dlc-guide",
@@ -98,6 +98,14 @@
       "pageViews": "5"
     },
     {
+      "landingPage": "/blog/eu5-1-4-trade-tariffs-economy",
+      "sessions": "5",
+      "activeUsers": "5",
+      "avgSessionDurationSec": "1.6487766000000001",
+      "engagementRate": "0",
+      "pageViews": "5"
+    },
+    {
       "landingPage": "/category/ck3",
       "sessions": "5",
       "activeUsers": "5",
@@ -126,14 +134,6 @@
       "sessions": "4",
       "activeUsers": "4",
       "avgSessionDurationSec": "1.301893",
-      "engagementRate": "0",
-      "pageViews": "4"
-    },
-    {
-      "landingPage": "/blog/eu5-1-4-trade-tariffs-economy",
-      "sessions": "4",
-      "activeUsers": "4",
-      "avgSessionDurationSec": "1.4764415",
       "engagementRate": "0",
       "pageViews": "4"
     },
