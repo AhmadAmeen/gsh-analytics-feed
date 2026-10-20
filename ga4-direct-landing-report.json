@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-10-20T10:44:33.919Z",
+  "generatedAt": "2026-10-20T21:19:13.635Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "87",
-      "activeUsers": "71",
-      "avgSessionDurationSec": "136.46091606896553",
-      "engagementRate": "0.18390804597701149",
-      "pageViews": "139"
-    },
-    {
-      "landingPage": "/blog/ck3-dlc-guide",
-      "sessions": "10",
-      "activeUsers": "10",
-      "avgSessionDurationSec": "0.8357102",
-      "engagementRate": "0",
-      "pageViews": "10"
+      "sessions": "90",
+      "activeUsers": "73",
+      "avgSessionDurationSec": "134.76600415555555",
+      "engagementRate": "0.18888888888888888",
+      "pageViews": "143"
     },
     {
       "landingPage": "/blog/eu4-trade-companies-explained",
-      "sessions": "10",
-      "activeUsers": "10",
-      "avgSessionDurationSec": "0.5889225",
-      "engagementRate": "0",
-      "pageViews": "10"
+      "sessions": "12",
+      "activeUsers": "12",
+      "avgSessionDurationSec": "1.6885994999999998",
+      "engagementRate": "0.083333333333333329",
+      "pageViews": "12"
+    },
+    {
+      "landingPage": "/blog/ck3-dlc-guide",
+      "sessions": "11",
+      "activeUsers": "11",
+      "avgSessionDurationSec": "0.84320527272727264",
+      "engagementRate": "0.090909090909090912",
+      "pageViews": "12"
     },
     {
       "landingPage": "/blog/eu5-new-players-path",
