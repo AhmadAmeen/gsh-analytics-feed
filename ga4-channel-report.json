@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-21T10:55:44.917Z",
+  "generatedAt": "2026-10-21T21:18:58.298Z",
   "rows": [
     {
       "channel": "Organic Search",
-      "sessions": "550",
-      "engagedSessions": "343",
-      "engagementRate": "0.62363636363636366",
-      "avgSessionDurationSec": "175.34639431272726"
+      "sessions": "558",
+      "engagedSessions": "349",
+      "engagementRate": "0.62544802867383509",
+      "avgSessionDurationSec": "175.45057831182794"
     },
     {
       "channel": "Direct",
-      "sessions": "293",
-      "engagedSessions": "35",
-      "engagementRate": "0.11945392491467577",
-      "avgSessionDurationSec": "56.870239870307167"
+      "sessions": "294",
+      "engagedSessions": "36",
+      "engagementRate": "0.12244897959183673",
+      "avgSessionDurationSec": "57.095366741496605"
     },
     {
       "channel": "Organic Social",
@@ -38,10 +38,10 @@
     },
     {
       "channel": "Unassigned",
-      "sessions": "4",
+      "sessions": "3",
       "engagedSessions": "0",
       "engagementRate": "0",
-      "avgSessionDurationSec": "187.04945625"
+      "avgSessionDurationSec": "747.31321033333336"
     },
     {
       "channel": "Organic Video",

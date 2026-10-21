@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-21T10:55:45.290Z",
+  "generatedAt": "2026-10-21T21:18:58.764Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "85",
-      "activeUsers": "73",
-      "avgSessionDurationSec": "96.781111117647058",
-      "engagementRate": "0.16470588235294117",
-      "pageViews": "129"
+      "sessions": "86",
+      "activeUsers": "74",
+      "avgSessionDurationSec": "97.086650988372085",
+      "engagementRate": "0.1744186046511628",
+      "pageViews": "134"
     },
     {
       "landingPage": "/blog/eu4-trade-companies-explained",
