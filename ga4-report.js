@@ -150,6 +150,64 @@ async function getDirectBrowserReport() {
   return rows;
 }
 
+// Outbound clicks to Amazon (the KDP books). GA4 Enhanced Measurement records
+// outbound clicks as the `click` event with a `linkUrl`; filtering linkUrl to
+// amazon.* isolates the book links. Isolated in its own try/catch so a failure
+// here (e.g. Enhanced Measurement off, no click events at all) can never break
+// the core reports above.
+async function getAmazonClicksReport() {
+  try {
+    const [response] = await analyticsDataClient.runReport({
+      property: `properties/${PROPERTY_ID}`,
+      dateRanges: DATE_RANGES,
+      dimensions: [{ name: 'pagePath' }, { name: 'linkUrl' }],
+      metrics: [{ name: 'eventCount' }],
+      dimensionFilter: {
+        andGroup: {
+          expressions: [
+            {
+              filter: {
+                fieldName: 'eventName',
+                stringFilter: { matchType: 'EXACT', value: 'click' },
+              },
+            },
+            {
+              filter: {
+                fieldName: 'linkUrl',
+                stringFilter: {
+                  matchType: 'CONTAINS',
+                  value: 'amazon.',
+                  caseSensitive: false,
+                },
+              },
+            },
+          ],
+        },
+      },
+      orderBys: [{ metric: { metricName: 'eventCount' }, desc: true }],
+      limit: 100,
+    });
+
+    const rows = (response.rows || []).map((row) => ({
+      page: row.dimensionValues[0].value,
+      linkUrl: row.dimensionValues[1].value,
+      clicks: row.metricValues[0].value,
+    }));
+
+    writeReport('ga4-amazon-clicks.json', rows);
+    return rows;
+  } catch (err) {
+    console.error('Amazon clicks report failed (continuing):', err.message || err);
+    const out = {
+      generatedAt: new Date().toISOString(),
+      error: String((err && err.message) || err),
+      rows: [],
+    };
+    fs.writeFileSync('ga4-amazon-clicks.json', JSON.stringify(out, null, 2));
+    return [];
+  }
+}
+
 async function main() {
   const pageRows = await getPageEngagementReport();
   const channelRows = await getChannelReport();
@@ -168,6 +226,14 @@ async function main() {
   );
   console.log('--- direct browsers ---');
   directBrowserRows.forEach((r) => console.log(`  ${r.browser}: ${r.sessions} sessions`));
+
+  const amazonClickRows = await getAmazonClicksReport();
+  console.log('--- amazon outbound clicks (28d) ---');
+  if (amazonClickRows.length === 0) {
+    console.log('  (none recorded)');
+  } else {
+    amazonClickRows.forEach((r) => console.log(`  ${r.page} -> ${r.linkUrl}: ${r.clicks} clicks`));
+  }
 }
 
 main().catch((err) => {
