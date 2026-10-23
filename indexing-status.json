@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-23T03:57:05.207Z",
-  "checked": 84,
+  "generatedAt": "2026-10-23T10:57:19.877Z",
+  "checked": 85,
   "indexed": 55,
   "crawledNotIndexed": 3,
   "discoveredNotIndexed": 0,
-  "unknownToGoogle": 26,
+  "unknownToGoogle": 27,
   "other": 0,
   "errors": 0,
   "rows": [
@@ -385,6 +385,11 @@
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/links/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/newsletter/",
       "status": "URL is unknown to Google",
       "category": "unknownToGoogle"
     },

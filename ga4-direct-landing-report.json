@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-23T03:47:44.087Z",
+  "generatedAt": "2026-10-23T10:47:50.784Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "78",
-      "activeUsers": "71",
-      "avgSessionDurationSec": "62.905839717948716",
-      "engagementRate": "0.15384615384615385",
-      "pageViews": "119"
+      "sessions": "77",
+      "activeUsers": "70",
+      "avgSessionDurationSec": "63.223386467532464",
+      "engagementRate": "0.14285714285714285",
+      "pageViews": "116"
     },
     {
       "landingPage": "/blog/eu4-trade-companies-explained",
@@ -82,20 +82,20 @@
       "pageViews": "6"
     },
     {
-      "landingPage": "/blog/eu5-new-players-path",
-      "sessions": "6",
-      "activeUsers": "6",
-      "avgSessionDurationSec": "353.06359516666663",
-      "engagementRate": "0.16666666666666666",
-      "pageViews": "12"
-    },
-    {
       "landingPage": "/blog/eu5-1-4-trade-tariffs-economy",
       "sessions": "5",
       "activeUsers": "5",
       "avgSessionDurationSec": "1.6487766000000001",
       "engagementRate": "0",
       "pageViews": "5"
+    },
+    {
+      "landingPage": "/blog/eu5-new-players-path",
+      "sessions": "5",
+      "activeUsers": "5",
+      "avgSessionDurationSec": "423.6763142",
+      "engagementRate": "0.2",
+      "pageViews": "11"
     },
     {
       "landingPage": "/blog/paradox-dlc-release-schedule-2026",
@@ -114,19 +114,19 @@
       "pageViews": "6"
     },
     {
-      "landingPage": "/blog/ck3-elder-traits-explained",
-      "sessions": "4",
-      "activeUsers": "4",
-      "avgSessionDurationSec": "7.4883279999999992",
-      "engagementRate": "0.25",
-      "pageViews": "4"
-    },
-    {
       "landingPage": "/blog/eu4-holy-roman-emperor-guide",
       "sessions": "4",
       "activeUsers": "4",
       "avgSessionDurationSec": "2.12245725",
       "engagementRate": "0",
+      "pageViews": "4"
+    },
+    {
+      "landingPage": "/blog/eu5-most-profitable-buildings",
+      "sessions": "4",
+      "activeUsers": "4",
+      "avgSessionDurationSec": "112.35359225",
+      "engagementRate": "0.25",
       "pageViews": "4"
     },
     {
@@ -158,6 +158,22 @@
       "sessions": "3",
       "activeUsers": "3",
       "avgSessionDurationSec": "5.8370076666666675",
+      "engagementRate": "0.33333333333333331",
+      "pageViews": "3"
+    },
+    {
+      "landingPage": "/blog/ck3-best-starting-character",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "110.02163733333333",
+      "engagementRate": "0.33333333333333331",
+      "pageViews": "3"
+    },
+    {
+      "landingPage": "/blog/ck3-elder-traits-explained",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "9.9844373333333323",
       "engagementRate": "0.33333333333333331",
       "pageViews": "3"
     },
@@ -194,14 +210,6 @@
       "pageViews": "3"
     },
     {
-      "landingPage": "/blog/eu5-most-profitable-buildings",
-      "sessions": "3",
-      "activeUsers": "3",
-      "avgSessionDurationSec": "1.131512",
-      "engagementRate": "0",
-      "pageViews": "3"
-    },
-    {
       "landingPage": "/eu5-1-4-rio-salado-update",
       "sessions": "3",
       "activeUsers": "3",
@@ -216,14 +224,6 @@
       "avgSessionDurationSec": "6.4231876666666672",
       "engagementRate": "0.33333333333333331",
       "pageViews": "4"
-    },
-    {
-      "landingPage": "/blog/ck3-best-starting-character",
-      "sessions": "2",
-      "activeUsers": "2",
-      "avgSessionDurationSec": "0",
-      "engagementRate": "0",
-      "pageViews": "2"
     },
     {
       "landingPage": "/blog/ck3-by-god-alone",
