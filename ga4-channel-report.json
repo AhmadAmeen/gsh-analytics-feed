@@ -1,33 +1,33 @@
 {
-  "generatedAt": "2026-10-22T21:15:05.769Z",
+  "generatedAt": "2026-10-23T03:47:43.619Z",
   "rows": [
     {
       "channel": "Organic Search",
-      "sessions": "558",
-      "engagedSessions": "351",
-      "engagementRate": "0.62903225806451613",
-      "avgSessionDurationSec": "175.73876358602149"
+      "sessions": "571",
+      "engagedSessions": "357",
+      "engagementRate": "0.62521891418563924",
+      "avgSessionDurationSec": "172.71828638353762"
     },
     {
       "channel": "Direct",
-      "sessions": "285",
+      "sessions": "289",
       "engagedSessions": "31",
-      "engagementRate": "0.10877192982456141",
-      "avgSessionDurationSec": "38.339209603508777"
+      "engagementRate": "0.10726643598615918",
+      "avgSessionDurationSec": "37.819013643598616"
     },
     {
       "channel": "Organic Social",
-      "sessions": "100",
-      "engagedSessions": "36",
-      "engagementRate": "0.36",
-      "avgSessionDurationSec": "19.14541105"
+      "sessions": "101",
+      "engagedSessions": "37",
+      "engagementRate": "0.36633663366336633",
+      "avgSessionDurationSec": "19.075714514851484"
     },
     {
       "channel": "AI Assistant",
-      "sessions": "22",
-      "engagedSessions": "7",
-      "engagementRate": "0.31818181818181818",
-      "avgSessionDurationSec": "61.940232681818181"
+      "sessions": "23",
+      "engagedSessions": "8",
+      "engagementRate": "0.34782608695652173",
+      "avgSessionDurationSec": "70.879712913043477"
     },
     {
       "channel": "Referral",
@@ -38,17 +38,17 @@
     },
     {
       "channel": "Organic Video",
-      "sessions": "4",
+      "sessions": "6",
       "engagedSessions": "3",
-      "engagementRate": "0.75",
-      "avgSessionDurationSec": "1543.65389725"
+      "engagementRate": "0.5",
+      "avgSessionDurationSec": "1029.1025981666667"
     },
     {
       "channel": "Unassigned",
-      "sessions": "2",
+      "sessions": "4",
       "engagedSessions": "0",
       "engagementRate": "0",
-      "avgSessionDurationSec": "60.926543"
+      "avgSessionDurationSec": "62.27674075"
     }
   ]
 }

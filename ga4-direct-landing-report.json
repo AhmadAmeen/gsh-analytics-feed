@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-22T21:15:06.325Z",
+  "generatedAt": "2026-10-23T03:47:44.087Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "77",
-      "activeUsers": "70",
-      "avgSessionDurationSec": "63.722798675324675",
-      "engagementRate": "0.15584415584415584",
-      "pageViews": "118"
+      "sessions": "78",
+      "activeUsers": "71",
+      "avgSessionDurationSec": "62.905839717948716",
+      "engagementRate": "0.15384615384615385",
+      "pageViews": "119"
     },
     {
       "landingPage": "/blog/eu4-trade-companies-explained",
@@ -58,6 +58,14 @@
       "pageViews": "6"
     },
     {
+      "landingPage": "/blog/best-paradox-grand-strategy-game-for-beginners",
+      "sessions": "6",
+      "activeUsers": "6",
+      "avgSessionDurationSec": "1.9245694999999998",
+      "engagementRate": "0",
+      "pageViews": "6"
+    },
+    {
       "landingPage": "/blog/ck3-china-guide-mandate-of-heaven",
       "sessions": "6",
       "activeUsers": "6",
@@ -80,14 +88,6 @@
       "avgSessionDurationSec": "353.06359516666663",
       "engagementRate": "0.16666666666666666",
       "pageViews": "12"
-    },
-    {
-      "landingPage": "/blog/best-paradox-grand-strategy-game-for-beginners",
-      "sessions": "5",
-      "activeUsers": "5",
-      "avgSessionDurationSec": "2.3094834",
-      "engagementRate": "0",
-      "pageViews": "5"
     },
     {
       "landingPage": "/blog/eu5-1-4-trade-tariffs-economy",
