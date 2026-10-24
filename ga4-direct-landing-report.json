@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T10:03:24.514Z",
+  "generatedAt": "2026-10-24T20:19:48.699Z",
   "rows": [
     {
       "landingPage": "/",
@@ -125,7 +125,7 @@
       "landingPage": "/blog/eu5-estate-private-armies",
       "sessions": "4",
       "activeUsers": "4",
-      "avgSessionDurationSec": "44.730703500000004",
+      "avgSessionDurationSec": "44.7307035",
       "engagementRate": "0.5",
       "pageViews": "4"
     },
@@ -202,12 +202,20 @@
       "pageViews": "3"
     },
     {
+      "landingPage": "/blog/eu5-pop-system",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "3"
+    },
+    {
       "landingPage": "/blog/eu5-subjects-guide",
       "sessions": "3",
       "activeUsers": "3",
-      "avgSessionDurationSec": "0.94023766666666664",
-      "engagementRate": "0",
-      "pageViews": "3"
+      "avgSessionDurationSec": "604.20477833333337",
+      "engagementRate": "0.33333333333333331",
+      "pageViews": "4"
     },
     {
       "landingPage": "/eu5-1-4-rio-salado-update",
@@ -226,20 +234,12 @@
       "pageViews": "3"
     },
     {
-      "landingPage": "/blog/ck3-by-god-alone",
+      "landingPage": "(not set)",
       "sessions": "2",
-      "activeUsers": "2",
-      "avgSessionDurationSec": "1.1990445",
-      "engagementRate": "0",
-      "pageViews": "2"
-    },
-    {
-      "landingPage": "/blog/ck3-culture-faith-mechanics",
-      "sessions": "2",
-      "activeUsers": "2",
-      "avgSessionDurationSec": "0",
-      "engagementRate": "0",
-      "pageViews": "2"
+      "activeUsers": "1",
+      "avgSessionDurationSec": "1051.2407795",
+      "engagementRate": "0.5",
+      "pageViews": "0"
     }
   ]
 }
