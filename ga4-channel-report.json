@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-10-23T21:03:49.816Z",
+  "generatedAt": "2026-10-24T10:03:24.001Z",
   "rows": [
     {
       "channel": "Organic Search",
-      "sessions": "576",
+      "sessions": "578",
       "engagedSessions": "357",
-      "engagementRate": "0.61979166666666663",
-      "avgSessionDurationSec": "174.29536170312497"
+      "engagementRate": "0.61764705882352944",
+      "avgSessionDurationSec": "174.79998961245676"
     },
     {
       "channel": "Direct",
-      "sessions": "287",
-      "engagedSessions": "32",
-      "engagementRate": "0.11149825783972125",
-      "avgSessionDurationSec": "40.646918710801394"
+      "sessions": "286",
+      "engagedSessions": "33",
+      "engagementRate": "0.11538461538461539",
+      "avgSessionDurationSec": "41.141584688811186"
     },
     {
       "channel": "Organic Social",
-      "sessions": "97",
-      "engagedSessions": "35",
-      "engagementRate": "0.36082474226804123",
-      "avgSessionDurationSec": "19.157074134020618"
+      "sessions": "101",
+      "engagedSessions": "36",
+      "engagementRate": "0.35643564356435642",
+      "avgSessionDurationSec": "18.586828554455447"
     },
     {
       "channel": "AI Assistant",
@@ -31,24 +31,24 @@
     },
     {
       "channel": "Referral",
-      "sessions": "11",
-      "engagedSessions": "10",
-      "engagementRate": "0.90909090909090906",
-      "avgSessionDurationSec": "400.77131163636363"
+      "sessions": "14",
+      "engagedSessions": "12",
+      "engagementRate": "0.8571428571428571",
+      "avgSessionDurationSec": "394.65077142857137"
     },
     {
       "channel": "Organic Video",
-      "sessions": "9",
+      "sessions": "13",
       "engagedSessions": "3",
-      "engagementRate": "0.33333333333333331",
-      "avgSessionDurationSec": "686.06839877777782"
+      "engagementRate": "0.23076923076923078",
+      "avgSessionDurationSec": "474.97042992307695"
     },
     {
       "channel": "Unassigned",
-      "sessions": "3",
+      "sessions": "8",
       "engagedSessions": "0",
       "engagementRate": "0",
-      "avgSessionDurationSec": "52.146982666666666"
+      "avgSessionDurationSec": "181.34439987500002"
     }
   ]
 }

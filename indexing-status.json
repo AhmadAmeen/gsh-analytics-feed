@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-23T21:13:28.545Z",
+  "generatedAt": "2026-10-24T10:13:02.948Z",
   "checked": 86,
-  "indexed": 55,
+  "indexed": 54,
   "crawledNotIndexed": 3,
   "discoveredNotIndexed": 0,
-  "unknownToGoogle": 28,
+  "unknownToGoogle": 29,
   "other": 0,
   "errors": 0,
   "rows": [
@@ -264,11 +264,6 @@
       "category": "unknownToGoogle"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-navy-guide/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
-    },
-    {
       "url": "https://grand-strategy-hub.pages.dev/blog/eu5-new-players-path/",
       "status": "Submitted and indexed",
       "category": "indexed"
@@ -407,6 +402,11 @@
       "url": "https://grand-strategy-hub.pages.dev/quiz/",
       "status": "Submitted and indexed",
       "category": "indexed"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/start-here/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/tools/",

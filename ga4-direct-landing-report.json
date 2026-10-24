@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-23T21:03:50.239Z",
+  "generatedAt": "2026-10-24T10:03:24.514Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "78",
+      "sessions": "77",
       "activeUsers": "71",
-      "avgSessionDurationSec": "62.412830230769231",
-      "engagementRate": "0.14102564102564102",
-      "pageViews": "117"
+      "avgSessionDurationSec": "63.321701298701292",
+      "engagementRate": "0.14285714285714285",
+      "pageViews": "116"
     },
     {
       "landingPage": "/blog/eu4-trade-companies-explained",
@@ -26,18 +26,18 @@
       "pageViews": "12"
     },
     {
-      "landingPage": "/blog/eu5-political-influence",
-      "sessions": "9",
-      "activeUsers": "9",
-      "avgSessionDurationSec": "2.446353",
-      "engagementRate": "0.1111111111111111",
-      "pageViews": "9"
-    },
-    {
       "landingPage": "/blog/eu5-army-composition",
       "sessions": "8",
       "activeUsers": "8",
       "avgSessionDurationSec": "15.149945625",
+      "engagementRate": "0.125",
+      "pageViews": "8"
+    },
+    {
+      "landingPage": "/blog/eu5-political-influence",
+      "sessions": "8",
+      "activeUsers": "8",
+      "avgSessionDurationSec": "2.752147125",
       "engagementRate": "0.125",
       "pageViews": "8"
     },
@@ -122,6 +122,14 @@
       "pageViews": "4"
     },
     {
+      "landingPage": "/blog/eu5-estate-private-armies",
+      "sessions": "4",
+      "activeUsers": "4",
+      "avgSessionDurationSec": "44.730703500000004",
+      "engagementRate": "0.5",
+      "pageViews": "4"
+    },
+    {
       "landingPage": "/blog/eu5-most-profitable-buildings",
       "sessions": "4",
       "activeUsers": "4",
@@ -142,14 +150,6 @@
       "sessions": "4",
       "activeUsers": "4",
       "avgSessionDurationSec": "0",
-      "engagementRate": "0",
-      "pageViews": "4"
-    },
-    {
-      "landingPage": "/quiz",
-      "sessions": "4",
-      "activeUsers": "4",
-      "avgSessionDurationSec": "0.82650625",
       "engagementRate": "0",
       "pageViews": "4"
     },
@@ -202,11 +202,11 @@
       "pageViews": "3"
     },
     {
-      "landingPage": "/blog/eu5-estate-private-armies",
+      "landingPage": "/blog/eu5-subjects-guide",
       "sessions": "3",
       "activeUsers": "3",
-      "avgSessionDurationSec": "28.169233666666667",
-      "engagementRate": "0.33333333333333331",
+      "avgSessionDurationSec": "0.94023766666666664",
+      "engagementRate": "0",
       "pageViews": "3"
     },
     {
@@ -218,12 +218,12 @@
       "pageViews": "3"
     },
     {
-      "landingPage": "/tools",
+      "landingPage": "/quiz",
       "sessions": "3",
       "activeUsers": "3",
-      "avgSessionDurationSec": "6.4231876666666672",
-      "engagementRate": "0.33333333333333331",
-      "pageViews": "4"
+      "avgSessionDurationSec": "0.71607366666666661",
+      "engagementRate": "0",
+      "pageViews": "3"
     },
     {
       "landingPage": "/blog/ck3-by-god-alone",
