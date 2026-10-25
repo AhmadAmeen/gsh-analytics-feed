@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-25T10:28:51.219Z",
+  "generatedAt": "2026-10-25T20:27:03.500Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "77",
-      "activeUsers": "71",
-      "avgSessionDurationSec": "63.302327636363643",
-      "engagementRate": "0.14285714285714285",
-      "pageViews": "116"
+      "sessions": "79",
+      "activeUsers": "73",
+      "avgSessionDurationSec": "61.699737063291145",
+      "engagementRate": "0.13924050632911392",
+      "pageViews": "118"
     },
     {
       "landingPage": "/blog/ck3-dlc-guide",
@@ -26,6 +26,14 @@
       "pageViews": "12"
     },
     {
+      "landingPage": "/blog/ck3-china-guide-mandate-of-heaven",
+      "sessions": "8",
+      "activeUsers": "8",
+      "avgSessionDurationSec": "3.3511353749999997",
+      "engagementRate": "0.25",
+      "pageViews": "8"
+    },
+    {
       "landingPage": "/blog/eu5-political-influence",
       "sessions": "8",
       "activeUsers": "8",
@@ -39,14 +47,6 @@
       "activeUsers": "7",
       "avgSessionDurationSec": "1.8153795714285714",
       "engagementRate": "0",
-      "pageViews": "7"
-    },
-    {
-      "landingPage": "/blog/ck3-china-guide-mandate-of-heaven",
-      "sessions": "7",
-      "activeUsers": "7",
-      "avgSessionDurationSec": "2.24799",
-      "engagementRate": "0.14285714285714285",
       "pageViews": "7"
     },
     {
@@ -90,6 +90,14 @@
       "pageViews": "6"
     },
     {
+      "landingPage": "/blog/paradox-dlc-release-schedule-2026",
+      "sessions": "6",
+      "activeUsers": "6",
+      "avgSessionDurationSec": "1.1400385",
+      "engagementRate": "0",
+      "pageViews": "6"
+    },
+    {
       "landingPage": "/blog/eu5-1-4-trade-tariffs-economy",
       "sessions": "5",
       "activeUsers": "5",
@@ -104,14 +112,6 @@
       "avgSessionDurationSec": "423.6763142",
       "engagementRate": "0.2",
       "pageViews": "11"
-    },
-    {
-      "landingPage": "/blog/paradox-dlc-release-schedule-2026",
-      "sessions": "5",
-      "activeUsers": "5",
-      "avgSessionDurationSec": "1.0973564",
-      "engagementRate": "0",
-      "pageViews": "5"
     },
     {
       "landingPage": "/blog/eu4-holy-roman-emperor-guide",
@@ -226,18 +226,18 @@
       "pageViews": "0"
     },
     {
-      "landingPage": "/blog/ck3-by-god-alone",
+      "landingPage": "/blog/best-eu4-dlc",
       "sessions": "2",
       "activeUsers": "2",
-      "avgSessionDurationSec": "1.1990445",
+      "avgSessionDurationSec": "0",
       "engagementRate": "0",
       "pageViews": "2"
     },
     {
-      "landingPage": "/blog/ck3-culture-faith-mechanics",
+      "landingPage": "/blog/ck3-by-god-alone",
       "sessions": "2",
       "activeUsers": "2",
-      "avgSessionDurationSec": "0",
+      "avgSessionDurationSec": "1.1990445",
       "engagementRate": "0",
       "pageViews": "2"
     }
