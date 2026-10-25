@@ -1,13 +1,21 @@
 {
-  "generatedAt": "2026-10-24T20:19:48.699Z",
+  "generatedAt": "2026-10-25T10:28:51.219Z",
   "rows": [
     {
       "landingPage": "/",
       "sessions": "77",
       "activeUsers": "71",
-      "avgSessionDurationSec": "63.321701298701292",
+      "avgSessionDurationSec": "63.302327636363643",
       "engagementRate": "0.14285714285714285",
       "pageViews": "116"
+    },
+    {
+      "landingPage": "/blog/ck3-dlc-guide",
+      "sessions": "12",
+      "activeUsers": "12",
+      "avgSessionDurationSec": "0.77293816666666659",
+      "engagementRate": "0.083333333333333329",
+      "pageViews": "13"
     },
     {
       "landingPage": "/blog/eu4-trade-companies-explained",
@@ -18,28 +26,28 @@
       "pageViews": "12"
     },
     {
-      "landingPage": "/blog/ck3-dlc-guide",
-      "sessions": "11",
-      "activeUsers": "11",
-      "avgSessionDurationSec": "0.84320527272727264",
-      "engagementRate": "0.090909090909090912",
-      "pageViews": "12"
-    },
-    {
-      "landingPage": "/blog/eu5-army-composition",
-      "sessions": "8",
-      "activeUsers": "8",
-      "avgSessionDurationSec": "15.149945625",
-      "engagementRate": "0.125",
-      "pageViews": "8"
-    },
-    {
       "landingPage": "/blog/eu5-political-influence",
       "sessions": "8",
       "activeUsers": "8",
       "avgSessionDurationSec": "2.752147125",
       "engagementRate": "0.125",
       "pageViews": "8"
+    },
+    {
+      "landingPage": "/blog",
+      "sessions": "7",
+      "activeUsers": "7",
+      "avgSessionDurationSec": "1.8153795714285714",
+      "engagementRate": "0",
+      "pageViews": "7"
+    },
+    {
+      "landingPage": "/blog/ck3-china-guide-mandate-of-heaven",
+      "sessions": "7",
+      "activeUsers": "7",
+      "avgSessionDurationSec": "2.24799",
+      "engagementRate": "0.14285714285714285",
+      "pageViews": "7"
     },
     {
       "landingPage": "/blog/eu4-government-reforms",
@@ -50,12 +58,12 @@
       "pageViews": "7"
     },
     {
-      "landingPage": "/blog",
-      "sessions": "6",
-      "activeUsers": "6",
-      "avgSessionDurationSec": "2.1179428333333332",
-      "engagementRate": "0",
-      "pageViews": "6"
+      "landingPage": "/blog/eu5-army-composition",
+      "sessions": "7",
+      "activeUsers": "7",
+      "avgSessionDurationSec": "17.314223571428574",
+      "engagementRate": "0.14285714285714285",
+      "pageViews": "7"
     },
     {
       "landingPage": "/blog/best-paradox-grand-strategy-game-for-beginners",
@@ -66,19 +74,19 @@
       "pageViews": "6"
     },
     {
-      "landingPage": "/blog/ck3-china-guide-mandate-of-heaven",
-      "sessions": "6",
-      "activeUsers": "6",
-      "avgSessionDurationSec": "2.622655",
-      "engagementRate": "0.16666666666666666",
-      "pageViews": "6"
-    },
-    {
       "landingPage": "/blog/eu4-trade-power-merchants-steering",
       "sessions": "6",
       "activeUsers": "6",
       "avgSessionDurationSec": "0.86792866666666668",
       "engagementRate": "0",
+      "pageViews": "6"
+    },
+    {
+      "landingPage": "/blog/eu5-most-profitable-buildings",
+      "sessions": "6",
+      "activeUsers": "6",
+      "avgSessionDurationSec": "74.902394833333332",
+      "engagementRate": "0.16666666666666666",
       "pageViews": "6"
     },
     {
@@ -106,14 +114,6 @@
       "pageViews": "5"
     },
     {
-      "landingPage": "/category/ck3",
-      "sessions": "5",
-      "activeUsers": "5",
-      "avgSessionDurationSec": "15.4409324",
-      "engagementRate": "0.4",
-      "pageViews": "6"
-    },
-    {
       "landingPage": "/blog/eu4-holy-roman-emperor-guide",
       "sessions": "4",
       "activeUsers": "4",
@@ -122,19 +122,19 @@
       "pageViews": "4"
     },
     {
+      "landingPage": "/blog/eu5-1-4-cardinals-crusades-religious-orders",
+      "sessions": "4",
+      "activeUsers": "4",
+      "avgSessionDurationSec": "5.207038",
+      "engagementRate": "0.25",
+      "pageViews": "4"
+    },
+    {
       "landingPage": "/blog/eu5-estate-private-armies",
       "sessions": "4",
       "activeUsers": "4",
       "avgSessionDurationSec": "44.7307035",
       "engagementRate": "0.5",
-      "pageViews": "4"
-    },
-    {
-      "landingPage": "/blog/eu5-most-profitable-buildings",
-      "sessions": "4",
-      "activeUsers": "4",
-      "avgSessionDurationSec": "112.35359225",
-      "engagementRate": "0.25",
       "pageViews": "4"
     },
     {
@@ -186,22 +186,6 @@
       "pageViews": "3"
     },
     {
-      "landingPage": "/blog/ck3-silk-and-silver-preview",
-      "sessions": "3",
-      "activeUsers": "3",
-      "avgSessionDurationSec": "0.74876333333333334",
-      "engagementRate": "0",
-      "pageViews": "3"
-    },
-    {
-      "landingPage": "/blog/eu5-1-4-cardinals-crusades-religious-orders",
-      "sessions": "3",
-      "activeUsers": "3",
-      "avgSessionDurationSec": "2.1303583333333331",
-      "engagementRate": "0",
-      "pageViews": "3"
-    },
-    {
       "landingPage": "/blog/eu5-pop-system",
       "sessions": "3",
       "activeUsers": "3",
@@ -218,18 +202,18 @@
       "pageViews": "4"
     },
     {
+      "landingPage": "/category/ck3",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "24.717375333333333",
+      "engagementRate": "0.66666666666666663",
+      "pageViews": "4"
+    },
+    {
       "landingPage": "/eu5-1-4-rio-salado-update",
       "sessions": "3",
       "activeUsers": "3",
       "avgSessionDurationSec": "4.0251410000000005",
-      "engagementRate": "0",
-      "pageViews": "3"
-    },
-    {
-      "landingPage": "/quiz",
-      "sessions": "3",
-      "activeUsers": "3",
-      "avgSessionDurationSec": "0.71607366666666661",
       "engagementRate": "0",
       "pageViews": "3"
     },
@@ -240,6 +224,22 @@
       "avgSessionDurationSec": "1051.2407795",
       "engagementRate": "0.5",
       "pageViews": "0"
+    },
+    {
+      "landingPage": "/blog/ck3-by-god-alone",
+      "sessions": "2",
+      "activeUsers": "2",
+      "avgSessionDurationSec": "1.1990445",
+      "engagementRate": "0",
+      "pageViews": "2"
+    },
+    {
+      "landingPage": "/blog/ck3-culture-faith-mechanics",
+      "sessions": "2",
+      "activeUsers": "2",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "2"
     }
   ]
 }
