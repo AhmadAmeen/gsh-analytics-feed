@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-26T11:59:37.877Z",
+  "generatedAt": "2026-10-26T22:21:37.188Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "77",
-      "activeUsers": "71",
-      "avgSessionDurationSec": "63.302327636363643",
-      "engagementRate": "0.14285714285714285",
-      "pageViews": "116"
+      "sessions": "79",
+      "activeUsers": "73",
+      "avgSessionDurationSec": "61.859918949367092",
+      "engagementRate": "0.15189873417721519",
+      "pageViews": "119"
     },
     {
       "landingPage": "/blog/ck3-dlc-guide",
@@ -27,10 +27,18 @@
     },
     {
       "landingPage": "/blog/ck3-china-guide-mandate-of-heaven",
+      "sessions": "10",
+      "activeUsers": "10",
+      "avgSessionDurationSec": "2.6809083",
+      "engagementRate": "0.2",
+      "pageViews": "10"
+    },
+    {
+      "landingPage": "/blog/eu5-army-composition",
       "sessions": "9",
       "activeUsers": "9",
-      "avgSessionDurationSec": "2.978787",
-      "engagementRate": "0.22222222222222221",
+      "avgSessionDurationSec": "13.466618333333335",
+      "engagementRate": "0.1111111111111111",
       "pageViews": "9"
     },
     {
@@ -47,14 +55,6 @@
       "activeUsers": "7",
       "avgSessionDurationSec": "1.8153795714285714",
       "engagementRate": "0",
-      "pageViews": "7"
-    },
-    {
-      "landingPage": "/blog/eu5-army-composition",
-      "sessions": "7",
-      "activeUsers": "7",
-      "avgSessionDurationSec": "17.314223571428574",
-      "engagementRate": "0.14285714285714285",
       "pageViews": "7"
     },
     {
@@ -96,6 +96,22 @@
       "avgSessionDurationSec": "1.1400385",
       "engagementRate": "0",
       "pageViews": "6"
+    },
+    {
+      "landingPage": "/blog/best-eu5-starting-nation",
+      "sessions": "5",
+      "activeUsers": "5",
+      "avgSessionDurationSec": "3.5022046000000002",
+      "engagementRate": "0.2",
+      "pageViews": "5"
+    },
+    {
+      "landingPage": "/blog/ck3-best-starting-character",
+      "sessions": "5",
+      "activeUsers": "5",
+      "avgSessionDurationSec": "168.355366",
+      "engagementRate": "0.6",
+      "pageViews": "5"
     },
     {
       "landingPage": "/blog/eu5-new-players-path",
@@ -152,22 +168,6 @@
       "avgSessionDurationSec": "33.992024",
       "engagementRate": "0.33333333333333331",
       "pageViews": "5"
-    },
-    {
-      "landingPage": "/blog/best-eu5-starting-nation",
-      "sessions": "3",
-      "activeUsers": "3",
-      "avgSessionDurationSec": "5.8370076666666675",
-      "engagementRate": "0.33333333333333331",
-      "pageViews": "3"
-    },
-    {
-      "landingPage": "/blog/ck3-best-starting-character",
-      "sessions": "3",
-      "activeUsers": "3",
-      "avgSessionDurationSec": "110.02163733333333",
-      "engagementRate": "0.33333333333333331",
-      "pageViews": "3"
     },
     {
       "landingPage": "/blog/ck3-elder-traits-explained",
