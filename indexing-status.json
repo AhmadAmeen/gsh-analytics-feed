@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-25T20:36:39.049Z",
+  "generatedAt": "2026-10-26T12:09:19.327Z",
   "checked": 86,
-  "indexed": 55,
+  "indexed": 56,
   "crawledNotIndexed": 3,
   "discoveredNotIndexed": 0,
-  "unknownToGoogle": 28,
+  "unknownToGoogle": 27,
   "other": 0,
   "errors": 0,
   "rows": [
@@ -390,8 +390,8 @@
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/newsletter/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "status": "Submitted and indexed",
+      "category": "indexed"
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/privacy/",
