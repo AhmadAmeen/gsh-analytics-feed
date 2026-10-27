@@ -1,86 +1,86 @@
 {
-  "generatedAt": "2026-10-27T11:20:38.347Z",
+  "generatedAt": "2026-10-27T21:52:19.743Z",
   "rows": [
     {
       "page": "/blog/eu5-new-players-path/",
-      "sessions": "24",
-      "activeUsers": "20",
-      "avgSessionDurationSec": "390.78490804166671",
-      "userEngagementDurationSec": "23761",
-      "engagedSessions": "19",
-      "pageViews": "37"
-    },
-    {
-      "page": "/blog/ck3-best-starting-character/",
-      "sessions": "107",
-      "activeUsers": "94",
-      "avgSessionDurationSec": "96.480922831775715",
-      "userEngagementDurationSec": "3978",
-      "engagedSessions": "62",
-      "pageViews": "104"
-    },
-    {
-      "page": "/blog/ck3-china-guide-mandate-of-heaven/",
-      "sessions": "35",
-      "activeUsers": "28",
-      "avgSessionDurationSec": "101.330798",
-      "userEngagementDurationSec": "3144",
-      "engagedSessions": "16",
-      "pageViews": "33"
+      "sessions": "32",
+      "activeUsers": "25",
+      "avgSessionDurationSec": "342.13168146875",
+      "userEngagementDurationSec": "24006",
+      "engagedSessions": "24",
+      "pageViews": "46"
     },
     {
       "page": "/blog/eu5-subjects-guide/",
-      "sessions": "29",
-      "activeUsers": "28",
-      "avgSessionDurationSec": "124.3837239310345",
-      "userEngagementDurationSec": "2963",
-      "engagedSessions": "19",
-      "pageViews": "30"
+      "sessions": "34",
+      "activeUsers": "33",
+      "avgSessionDurationSec": "143.26102970588238",
+      "userEngagementDurationSec": "4223",
+      "engagedSessions": "24",
+      "pageViews": "35"
+    },
+    {
+      "page": "/blog/ck3-best-starting-character/",
+      "sessions": "109",
+      "activeUsers": "96",
+      "avgSessionDurationSec": "96.869083036697248",
+      "userEngagementDurationSec": "4182",
+      "engagedSessions": "63",
+      "pageViews": "106"
+    },
+    {
+      "page": "/blog/ck3-china-guide-mandate-of-heaven/",
+      "sessions": "36",
+      "activeUsers": "29",
+      "avgSessionDurationSec": "98.5160536111111",
+      "userEngagementDurationSec": "3144",
+      "engagedSessions": "16",
+      "pageViews": "34"
     },
     {
       "page": "/blog/eu5-most-profitable-buildings/",
-      "sessions": "34",
-      "activeUsers": "27",
-      "avgSessionDurationSec": "93.101438147058829",
-      "userEngagementDurationSec": "2788",
-      "engagedSessions": "18",
-      "pageViews": "36"
-    },
-    {
-      "page": "/blog/best-eu4-dlc/",
-      "sessions": "41",
-      "activeUsers": "33",
-      "avgSessionDurationSec": "212.91798129268295",
-      "userEngagementDurationSec": "2643",
-      "engagedSessions": "25",
+      "sessions": "39",
+      "activeUsers": "29",
+      "avgSessionDurationSec": "92.23153602564102",
+      "userEngagementDurationSec": "3018",
+      "engagedSessions": "21",
       "pageViews": "40"
     },
     {
       "page": "/blog/eu5-army-composition/",
-      "sessions": "104",
-      "activeUsers": "78",
-      "avgSessionDurationSec": "83.637648509615389",
-      "userEngagementDurationSec": "2636",
-      "engagedSessions": "48",
-      "pageViews": "108"
+      "sessions": "109",
+      "activeUsers": "82",
+      "avgSessionDurationSec": "82.427656100917446",
+      "userEngagementDurationSec": "2919",
+      "engagedSessions": "51",
+      "pageViews": "112"
     },
     {
       "page": "/blog/ck3-dlc-guide/",
-      "sessions": "61",
-      "activeUsers": "56",
-      "avgSessionDurationSec": "157.57296503278687",
-      "userEngagementDurationSec": "2603",
-      "engagedSessions": "34",
-      "pageViews": "62"
+      "sessions": "63",
+      "activeUsers": "58",
+      "avgSessionDurationSec": "178.81866776190475",
+      "userEngagementDurationSec": "2756",
+      "engagedSessions": "36",
+      "pageViews": "64"
+    },
+    {
+      "page": "/blog/best-eu4-dlc/",
+      "sessions": "42",
+      "activeUsers": "33",
+      "avgSessionDurationSec": "207.84850554761908",
+      "userEngagementDurationSec": "2643",
+      "engagedSessions": "25",
+      "pageViews": "41"
     },
     {
       "page": "/blog/best-eu5-starting-nation/",
-      "sessions": "50",
-      "activeUsers": "46",
-      "avgSessionDurationSec": "156.89361362",
-      "userEngagementDurationSec": "2290",
-      "engagedSessions": "35",
-      "pageViews": "52"
+      "sessions": "52",
+      "activeUsers": "48",
+      "avgSessionDurationSec": "153.15397038461538",
+      "userEngagementDurationSec": "2406",
+      "engagedSessions": "37",
+      "pageViews": "55"
     },
     {
       "page": "/blog/eu4-trade-companies-explained/",
@@ -93,30 +93,39 @@
     },
     {
       "page": "/tools/eu4-trade-map/",
-      "sessions": "30",
-      "activeUsers": "20",
-      "avgSessionDurationSec": "247.16745863333333",
-      "userEngagementDurationSec": "1987",
-      "engagedSessions": "24",
-      "pageViews": "30"
+      "sessions": "31",
+      "activeUsers": "21",
+      "avgSessionDurationSec": "253.71062932258064",
+      "userEngagementDurationSec": "2007",
+      "engagedSessions": "25",
+      "pageViews": "31"
     },
     {
       "page": "/blog/eu5-naval-warfare/",
-      "sessions": "22",
-      "activeUsers": "19",
-      "avgSessionDurationSec": "138.60580427272728",
-      "userEngagementDurationSec": "1855",
-      "engagedSessions": "9",
-      "pageViews": "19"
+      "sessions": "29",
+      "activeUsers": "26",
+      "avgSessionDurationSec": "110.53110196551724",
+      "userEngagementDurationSec": "1890",
+      "engagedSessions": "15",
+      "pageViews": "26"
     },
     {
       "page": "/blog/eu4-trade-node-map/",
-      "sessions": "25",
-      "activeUsers": "18",
-      "avgSessionDurationSec": "54.369569680000005",
-      "userEngagementDurationSec": "1641",
-      "engagedSessions": "18",
-      "pageViews": "28"
+      "sessions": "26",
+      "activeUsers": "19",
+      "avgSessionDurationSec": "52.806677500000006",
+      "userEngagementDurationSec": "1655",
+      "engagedSessions": "19",
+      "pageViews": "29"
+    },
+    {
+      "page": "/blog/eu5-loans-government-bonds/",
+      "sessions": "22",
+      "activeUsers": "19",
+      "avgSessionDurationSec": "125.84504836363635",
+      "userEngagementDurationSec": "1535",
+      "engagedSessions": "14",
+      "pageViews": "23"
     },
     {
       "page": "/blog/eu5-1-4-cardinals-crusades-religious-orders/",
@@ -138,12 +147,12 @@
     },
     {
       "page": "/blog/ck3-intrigue-guide/",
-      "sessions": "26",
-      "activeUsers": "24",
-      "avgSessionDurationSec": "116.9930895",
-      "userEngagementDurationSec": "1384",
+      "sessions": "27",
+      "activeUsers": "25",
+      "avgSessionDurationSec": "112.66005351851852",
+      "userEngagementDurationSec": "1385",
       "engagedSessions": "20",
-      "pageViews": "25"
+      "pageViews": "26"
     },
     {
       "page": "/blog/eu5-political-influence/",
@@ -156,12 +165,12 @@
     },
     {
       "page": "/",
-      "sessions": "122",
-      "activeUsers": "102",
-      "avgSessionDurationSec": "42.271584557377047",
+      "sessions": "123",
+      "activeUsers": "103",
+      "avgSessionDurationSec": "42.020913894308947",
       "userEngagementDurationSec": "1307",
-      "engagedSessions": "40",
-      "pageViews": "135"
+      "engagedSessions": "41",
+      "pageViews": "136"
     },
     {
       "page": "/blog/eu4-government-reforms/",
@@ -183,21 +192,12 @@
     },
     {
       "page": "/blog/eu5-trade-guide/",
-      "sessions": "17",
-      "activeUsers": "16",
-      "avgSessionDurationSec": "113.47689552941176",
+      "sessions": "19",
+      "activeUsers": "17",
+      "avgSessionDurationSec": "107.61006515789474",
       "userEngagementDurationSec": "947",
-      "engagedSessions": "11",
-      "pageViews": "22"
-    },
-    {
-      "page": "/blog/eu5-loans-government-bonds/",
-      "sessions": "18",
-      "activeUsers": "16",
-      "avgSessionDurationSec": "115.01705399999999",
-      "userEngagementDurationSec": "920",
-      "engagedSessions": "10",
-      "pageViews": "19"
+      "engagedSessions": "13",
+      "pageViews": "24"
     },
     {
       "page": "/blog/eu4-estates-crownland-privileges/",
@@ -216,6 +216,24 @@
       "userEngagementDurationSec": "868",
       "engagedSessions": "13",
       "pageViews": "21"
+    },
+    {
+      "page": "/blog/eu5-economy-basics/",
+      "sessions": "8",
+      "activeUsers": "7",
+      "avgSessionDurationSec": "142.358063625",
+      "userEngagementDurationSec": "868",
+      "engagedSessions": "8",
+      "pageViews": "11"
+    },
+    {
+      "page": "/blog/eu5-estates-guide/",
+      "sessions": "16",
+      "activeUsers": "11",
+      "avgSessionDurationSec": "75.761453437500009",
+      "userEngagementDurationSec": "726",
+      "engagedSessions": "9",
+      "pageViews": "16"
     },
     {
       "page": "/blog/ck3-succession-laws/",
@@ -237,12 +255,12 @@
     },
     {
       "page": "/category/eu5/",
-      "sessions": "28",
-      "activeUsers": "26",
-      "avgSessionDurationSec": "49.819585321428569",
-      "userEngagementDurationSec": "567",
-      "engagedSessions": "26",
-      "pageViews": "43"
+      "sessions": "29",
+      "activeUsers": "27",
+      "avgSessionDurationSec": "58.366025275862071",
+      "userEngagementDurationSec": "586",
+      "engagedSessions": "27",
+      "pageViews": "44"
     },
     {
       "page": "/blog/ck3-renown-prestige-guide/",
@@ -252,15 +270,6 @@
       "userEngagementDurationSec": "547",
       "engagedSessions": "13",
       "pageViews": "21"
-    },
-    {
-      "page": "/blog/eu5-estates-guide/",
-      "sessions": "15",
-      "activeUsers": "10",
-      "avgSessionDurationSec": "68.8138976",
-      "userEngagementDurationSec": "547",
-      "engagedSessions": "8",
-      "pageViews": "15"
     },
     {
       "page": "/blog/eu5-update-1-4-rio-salado/",
@@ -290,15 +299,6 @@
       "pageViews": "5"
     },
     {
-      "page": "/blog/eu5-economy-basics/",
-      "sessions": "4",
-      "activeUsers": "4",
-      "avgSessionDurationSec": "170.51696525",
-      "userEngagementDurationSec": "431",
-      "engagedSessions": "4",
-      "pageViews": "8"
-    },
-    {
       "page": "/tools/ck3-start-selector/",
       "sessions": "5",
       "activeUsers": "5",
@@ -315,6 +315,24 @@
       "userEngagementDurationSec": "389",
       "engagedSessions": "3",
       "pageViews": "5"
+    },
+    {
+      "page": "/tools/eu5-army-simulator/",
+      "sessions": "9",
+      "activeUsers": "9",
+      "avgSessionDurationSec": "49.113666888888893",
+      "userEngagementDurationSec": "373",
+      "engagedSessions": "8",
+      "pageViews": "11"
+    },
+    {
+      "page": "/blog/eu5-cabinet-courtiers-explained/",
+      "sessions": "4",
+      "activeUsers": "4",
+      "avgSessionDurationSec": "91.221401",
+      "userEngagementDurationSec": "360",
+      "engagedSessions": "3",
+      "pageViews": "6"
     },
     {
       "page": "/blog/eu5-1-4-trade-tariffs-economy/",
@@ -344,12 +362,12 @@
       "pageViews": "3"
     },
     {
-      "page": "/tools/eu5-army-simulator/",
+      "page": "/blog/eu5-culture-religion-tolerance/",
       "sessions": "8",
       "activeUsers": "8",
-      "avgSessionDurationSec": "40.078392875",
-      "userEngagementDurationSec": "253",
-      "engagedSessions": "7",
+      "avgSessionDurationSec": "41.531297375",
+      "userEngagementDurationSec": "287",
+      "engagedSessions": "6",
       "pageViews": "10"
     },
     {
@@ -362,24 +380,6 @@
       "pageViews": "5"
     },
     {
-      "page": "/blog/eu5-culture-religion-tolerance/",
-      "sessions": "6",
-      "activeUsers": "6",
-      "avgSessionDurationSec": "49.085934666666667",
-      "userEngagementDurationSec": "252",
-      "engagedSessions": "4",
-      "pageViews": "8"
-    },
-    {
-      "page": "/blog/eu5-cabinet-courtiers-explained/",
-      "sessions": "3",
-      "activeUsers": "3",
-      "avgSessionDurationSec": "84.341937666666666",
-      "userEngagementDurationSec": "249",
-      "engagedSessions": "2",
-      "pageViews": "5"
-    },
-    {
       "page": "/blog/ck3-best-religion/",
       "sessions": "9",
       "activeUsers": "9",
@@ -387,6 +387,24 @@
       "userEngagementDurationSec": "241",
       "engagedSessions": "7",
       "pageViews": "10"
+    },
+    {
+      "page": "/blog/eu5-unrest-estates/",
+      "sessions": "6",
+      "activeUsers": "6",
+      "avgSessionDurationSec": "40.228688666666663",
+      "userEngagementDurationSec": "240",
+      "engagedSessions": "3",
+      "pageViews": "6"
+    },
+    {
+      "page": "/blog/eu5-societal-values-explained/",
+      "sessions": "5",
+      "activeUsers": "5",
+      "avgSessionDurationSec": "43.989586399999993",
+      "userEngagementDurationSec": "216",
+      "engagedSessions": "4",
+      "pageViews": "5"
     },
     {
       "page": "/tools/eu5-siege-simulator/",
@@ -398,6 +416,15 @@
       "pageViews": "3"
     },
     {
+      "page": "/blog/eu5-government-types-explained/",
+      "sessions": "5",
+      "activeUsers": "5",
+      "avgSessionDurationSec": "47.870300199999996",
+      "userEngagementDurationSec": "214",
+      "engagedSessions": "3",
+      "pageViews": "7"
+    },
+    {
       "page": "/blog/eu5-estate-private-armies/",
       "sessions": "9",
       "activeUsers": "9",
@@ -407,40 +434,13 @@
       "pageViews": "9"
     },
     {
-      "page": "/blog/eu5-government-types-explained/",
-      "sessions": "5",
-      "activeUsers": "5",
-      "avgSessionDurationSec": "38.648562600000005",
-      "userEngagementDurationSec": "191",
-      "engagedSessions": "3",
-      "pageViews": "5"
-    },
-    {
-      "page": "/blog/eu5-unrest-estates/",
-      "sessions": "5",
-      "activeUsers": "5",
-      "avgSessionDurationSec": "36.2063206",
-      "userEngagementDurationSec": "180",
-      "engagedSessions": "2",
-      "pageViews": "5"
-    },
-    {
-      "page": "/blog/eu5-societal-values-explained/",
-      "sessions": "4",
-      "activeUsers": "4",
-      "avgSessionDurationSec": "45.839476999999995",
-      "userEngagementDurationSec": "180",
-      "engagedSessions": "3",
-      "pageViews": "4"
-    },
-    {
       "page": "/category/ck3/",
-      "sessions": "13",
-      "activeUsers": "10",
-      "avgSessionDurationSec": "37.881915230769231",
-      "userEngagementDurationSec": "178",
-      "engagedSessions": "11",
-      "pageViews": "15"
+      "sessions": "14",
+      "activeUsers": "11",
+      "avgSessionDurationSec": "35.339396642857146",
+      "userEngagementDurationSec": "179",
+      "engagedSessions": "12",
+      "pageViews": "16"
     },
     {
       "page": "/category/eu4/",
