@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-26T22:21:37.188Z",
+  "generatedAt": "2026-10-27T11:20:39.736Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "79",
-      "activeUsers": "73",
-      "avgSessionDurationSec": "61.859918949367092",
-      "engagementRate": "0.15189873417721519",
-      "pageViews": "119"
+      "sessions": "78",
+      "activeUsers": "72",
+      "avgSessionDurationSec": "62.652994833333338",
+      "engagementRate": "0.15384615384615385",
+      "pageViews": "118"
     },
     {
       "landingPage": "/blog/ck3-dlc-guide",
@@ -27,11 +27,11 @@
     },
     {
       "landingPage": "/blog/ck3-china-guide-mandate-of-heaven",
-      "sessions": "10",
+      "sessions": "11",
       "activeUsers": "10",
-      "avgSessionDurationSec": "2.6809083",
-      "engagementRate": "0.2",
-      "pageViews": "10"
+      "avgSessionDurationSec": "2.4371893636363637",
+      "engagementRate": "0.18181818181818182",
+      "pageViews": "11"
     },
     {
       "landingPage": "/blog/eu5-army-composition",
@@ -63,14 +63,6 @@
       "activeUsers": "6",
       "avgSessionDurationSec": "1.9245694999999998",
       "engagementRate": "0",
-      "pageViews": "6"
-    },
-    {
-      "landingPage": "/blog/eu4-government-reforms",
-      "sessions": "6",
-      "activeUsers": "6",
-      "avgSessionDurationSec": "2.464859",
-      "engagementRate": "0.16666666666666666",
       "pageViews": "6"
     },
     {
@@ -190,6 +182,14 @@
       "sessions": "3",
       "activeUsers": "3",
       "avgSessionDurationSec": "0.95264966666666673",
+      "engagementRate": "0",
+      "pageViews": "3"
+    },
+    {
+      "landingPage": "/blog/eu4-government-reforms",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "0.078946666666666665",
       "engagementRate": "0",
       "pageViews": "3"
     },
