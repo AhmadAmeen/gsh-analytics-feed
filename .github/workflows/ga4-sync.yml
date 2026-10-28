@@ -46,7 +46,7 @@ jobs:
         run: |
           git config user.name "GA4 Report Bot"
           git config user.email "actions@github.com"
-          git add ga4-page-report.json ga4-channel-report.json ga4-direct-landing-report.json ga4-direct-browser-report.json ga4-amazon-clicks.json gsc-queries-report.json indexing-status.json
+          git add ga4-page-report.json ga4-channel-report.json ga4-direct-landing-report.json ga4-direct-browser-report.json ga4-amazon-clicks.json ga4-go-clicks.json gsc-queries-report.json indexing-status.json
           if git diff --quiet --cached; then
             echo "No changes to commit"
           else

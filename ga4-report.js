@@ -208,6 +208,52 @@ async function getAmazonClicksReport() {
   }
 }
 
+// QR scans for the Blood & Crown promo: every scan lands on /go/blood-crown/
+// (GA4-tracked redirect page, 1.2s then Amazon). A redirect page has ~zero
+// engagement time so it never appears in the top-50 page report — it needs
+// its own exact-match report. 28d window = all scans since the page went
+// live (Oct 27, 2026). Same isolated try/catch pattern as the Amazon report.
+async function getGoPageReport() {
+  try {
+    const [response] = await analyticsDataClient.runReport({
+      property: `properties/${PROPERTY_ID}`,
+      dateRanges: DATE_RANGES,
+      dimensions: [{ name: 'pagePath' }],
+      metrics: [
+        { name: 'screenPageViews' },
+        { name: 'sessions' },
+        { name: 'activeUsers' },
+      ],
+      dimensionFilter: {
+        filter: {
+          fieldName: 'pagePath',
+          stringFilter: { matchType: 'EXACT', value: '/go/blood-crown/' },
+        },
+      },
+      limit: 10,
+    });
+
+    const rows = (response.rows || []).map((row) => ({
+      page: row.dimensionValues[0].value,
+      pageViews: row.metricValues[0].value,
+      sessions: row.metricValues[1].value,
+      activeUsers: row.metricValues[2].value,
+    }));
+
+    writeReport('ga4-go-clicks.json', rows);
+    return rows;
+  } catch (err) {
+    console.error('Go page report failed (continuing):', err.message || err);
+    const out = {
+      generatedAt: new Date().toISOString(),
+      error: String((err && err.message) || err),
+      rows: [],
+    };
+    fs.writeFileSync('ga4-go-clicks.json', JSON.stringify(out, null, 2));
+    return [];
+  }
+}
+
 async function main() {
   const pageRows = await getPageEngagementReport();
   const channelRows = await getChannelReport();
@@ -233,6 +279,14 @@ async function main() {
     console.log('  (none recorded)');
   } else {
     amazonClickRows.forEach((r) => console.log(`  ${r.page} -> ${r.linkUrl}: ${r.clicks} clicks`));
+  }
+
+  const goRows = await getGoPageReport();
+  console.log('--- /go/blood-crown/ QR scans (28d) ---');
+  if (goRows.length === 0) {
+    console.log('  (none recorded)');
+  } else {
+    goRows.forEach((r) => console.log(`  ${r.page}: ${r.pageViews} views, ${r.sessions} sessions`));
   }
 }
 
