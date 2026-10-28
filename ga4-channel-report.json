@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-27T21:52:20.222Z",
+  "generatedAt": "2026-10-28T06:01:39.310Z",
   "rows": [
     {
       "channel": "Organic Search",
-      "sessions": "644",
-      "engagedSessions": "389",
-      "engagementRate": "0.60403726708074534",
-      "avgSessionDurationSec": "182.31460408074534"
+      "sessions": "669",
+      "engagedSessions": "400",
+      "engagementRate": "0.59790732436472349",
+      "avgSessionDurationSec": "186.32515045142006"
     },
     {
       "channel": "Direct",
-      "sessions": "301",
-      "engagedSessions": "44",
-      "engagementRate": "0.1461794019933555",
-      "avgSessionDurationSec": "49.606437465116279"
+      "sessions": "312",
+      "engagedSessions": "46",
+      "engagementRate": "0.14743589743589744",
+      "avgSessionDurationSec": "49.007652650641027"
     },
     {
       "channel": "Organic Social",
@@ -41,14 +41,14 @@
       "sessions": "18",
       "engagedSessions": "15",
       "engagementRate": "0.83333333333333337",
-      "avgSessionDurationSec": "375.16648211111107"
+      "avgSessionDurationSec": "502.93461005555554"
     },
     {
       "channel": "Unassigned",
-      "sessions": "6",
+      "sessions": "7",
       "engagedSessions": "0",
       "engagementRate": "0",
-      "avgSessionDurationSec": "550.84657083333332"
+      "avgSessionDurationSec": "29.554825714285716"
     }
   ]
 }
