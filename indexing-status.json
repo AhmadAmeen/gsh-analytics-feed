@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-28T06:11:00.791Z",
-  "checked": 86,
+  "generatedAt": "2026-10-28T12:04:03.865Z",
+  "checked": 87,
   "indexed": 56,
   "crawledNotIndexed": 3,
   "discoveredNotIndexed": 0,
-  "unknownToGoogle": 27,
+  "unknownToGoogle": 28,
   "other": 0,
   "errors": 0,
   "rows": [
@@ -270,6 +270,11 @@
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/eu5-parliament-explained/",
+      "status": "URL is unknown to Google",
+      "category": "unknownToGoogle"
+    },
+    {
+      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-patch-1-4-rio-salado-patch-notes/",
       "status": "URL is unknown to Google",
       "category": "unknownToGoogle"
     },

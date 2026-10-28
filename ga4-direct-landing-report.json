@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-28T06:01:39.798Z",
+  "generatedAt": "2026-10-28T11:54:19.914Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "79",
-      "activeUsers": "73",
-      "avgSessionDurationSec": "61.859918949367092",
-      "engagementRate": "0.15189873417721519",
-      "pageViews": "119"
+      "sessions": "78",
+      "activeUsers": "72",
+      "avgSessionDurationSec": "62.652994833333338",
+      "engagementRate": "0.15384615384615385",
+      "pageViews": "118"
     },
     {
       "landingPage": "/blog/ck3-dlc-guide",
