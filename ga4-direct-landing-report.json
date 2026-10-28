@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-28T11:54:19.914Z",
+  "generatedAt": "2026-10-28T22:16:01.915Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "78",
-      "activeUsers": "72",
-      "avgSessionDurationSec": "62.652994833333338",
-      "engagementRate": "0.15384615384615385",
-      "pageViews": "118"
+      "sessions": "80",
+      "activeUsers": "74",
+      "avgSessionDurationSec": "61.086669962500004",
+      "engagementRate": "0.15",
+      "pageViews": "120"
     },
     {
       "landingPage": "/blog/ck3-dlc-guide",
@@ -58,6 +58,22 @@
       "pageViews": "7"
     },
     {
+      "landingPage": "/blog/best-paradox-grand-strategy-game-for-beginners",
+      "sessions": "7",
+      "activeUsers": "7",
+      "avgSessionDurationSec": "2.0358867142857142",
+      "engagementRate": "0",
+      "pageViews": "7"
+    },
+    {
+      "landingPage": "/blog/ck3-best-starting-character",
+      "sessions": "7",
+      "activeUsers": "7",
+      "avgSessionDurationSec": "120.25383285714285",
+      "engagementRate": "0.42857142857142855",
+      "pageViews": "7"
+    },
+    {
       "landingPage": "/blog/eu4-trade-power-merchants-steering",
       "sessions": "7",
       "activeUsers": "7",
@@ -69,9 +85,9 @@
       "landingPage": "/blog/eu5-new-players-path",
       "sessions": "7",
       "activeUsers": "7",
-      "avgSessionDurationSec": "349.68992971428571",
+      "avgSessionDurationSec": "419.94620128571427",
       "engagementRate": "0.2857142857142857",
-      "pageViews": "15"
+      "pageViews": "17"
     },
     {
       "landingPage": "/blog/best-eu5-starting-nation",
@@ -79,22 +95,6 @@
       "activeUsers": "6",
       "avgSessionDurationSec": "2.992694333333334",
       "engagementRate": "0.16666666666666666",
-      "pageViews": "6"
-    },
-    {
-      "landingPage": "/blog/best-paradox-grand-strategy-game-for-beginners",
-      "sessions": "6",
-      "activeUsers": "6",
-      "avgSessionDurationSec": "1.9245694999999998",
-      "engagementRate": "0",
-      "pageViews": "6"
-    },
-    {
-      "landingPage": "/blog/ck3-best-starting-character",
-      "sessions": "6",
-      "activeUsers": "6",
-      "avgSessionDurationSec": "140.29613833333335",
-      "engagementRate": "0.5",
       "pageViews": "6"
     },
     {
@@ -226,20 +226,20 @@
       "pageViews": "3"
     },
     {
+      "landingPage": "/blog/eu5-trade-guide",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "95.408332666666681",
+      "engagementRate": "0.33333333333333331",
+      "pageViews": "5"
+    },
+    {
       "landingPage": "/eu5-1-4-rio-salado-update",
       "sessions": "3",
       "activeUsers": "3",
       "avgSessionDurationSec": "4.0251410000000005",
       "engagementRate": "0",
       "pageViews": "3"
-    },
-    {
-      "landingPage": "(not set)",
-      "sessions": "2",
-      "activeUsers": "1",
-      "avgSessionDurationSec": "1051.2407795",
-      "engagementRate": "0.5",
-      "pageViews": "0"
     }
   ]
 }

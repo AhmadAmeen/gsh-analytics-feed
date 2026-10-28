@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-28T12:04:03.865Z",
+  "generatedAt": "2026-10-28T22:25:55.432Z",
   "checked": 87,
-  "indexed": 56,
+  "indexed": 57,
   "crawledNotIndexed": 3,
   "discoveredNotIndexed": 0,
-  "unknownToGoogle": 28,
+  "unknownToGoogle": 27,
   "other": 0,
   "errors": 0,
   "rows": [
@@ -275,8 +275,8 @@
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/eu5-patch-1-4-rio-salado-patch-notes/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "status": "Submitted and indexed",
+      "category": "indexed"
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/eu5-political-influence/",
