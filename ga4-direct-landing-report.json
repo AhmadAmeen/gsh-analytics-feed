@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-29T12:02:12.611Z",
+  "generatedAt": "2026-10-29T22:29:13.188Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "80",
-      "activeUsers": "74",
-      "avgSessionDurationSec": "61.086669962500004",
-      "engagementRate": "0.15",
-      "pageViews": "120"
+      "sessions": "82",
+      "activeUsers": "76",
+      "avgSessionDurationSec": "59.59675118292683",
+      "engagementRate": "0.14634146341463414",
+      "pageViews": "122"
     },
     {
       "landingPage": "/blog/ck3-dlc-guide",
@@ -50,6 +50,14 @@
       "pageViews": "10"
     },
     {
+      "landingPage": "/blog/ck3-best-starting-character",
+      "sessions": "8",
+      "activeUsers": "8",
+      "avgSessionDurationSec": "119.98183850000001",
+      "engagementRate": "0.5",
+      "pageViews": "12"
+    },
+    {
       "landingPage": "/blog",
       "sessions": "7",
       "activeUsers": "7",
@@ -63,14 +71,6 @@
       "activeUsers": "7",
       "avgSessionDurationSec": "2.0358867142857142",
       "engagementRate": "0",
-      "pageViews": "7"
-    },
-    {
-      "landingPage": "/blog/ck3-best-starting-character",
-      "sessions": "7",
-      "activeUsers": "7",
-      "avgSessionDurationSec": "120.25383285714285",
-      "engagementRate": "0.42857142857142855",
       "pageViews": "7"
     },
     {
@@ -88,6 +88,14 @@
       "avgSessionDurationSec": "3.305179",
       "engagementRate": "0.14285714285714285",
       "pageViews": "7"
+    },
+    {
+      "landingPage": "/blog/eu5-subjects-guide",
+      "sessions": "7",
+      "activeUsers": "7",
+      "avgSessionDurationSec": "305.6007767142857",
+      "engagementRate": "0.42857142857142855",
+      "pageViews": "10"
     },
     {
       "landingPage": "/blog/best-eu5-starting-nation",
@@ -128,14 +136,6 @@
       "avgSessionDurationSec": "1.1400385",
       "engagementRate": "0",
       "pageViews": "6"
-    },
-    {
-      "landingPage": "/blog/eu5-subjects-guide",
-      "sessions": "5",
-      "activeUsers": "5",
-      "avgSessionDurationSec": "427.8410874",
-      "engagementRate": "0.6",
-      "pageViews": "8"
     },
     {
       "landingPage": "/blog/best-eu4-dlc",
@@ -186,6 +186,14 @@
       "pageViews": "5"
     },
     {
+      "landingPage": "/blog/paradox-games-prestige-explained",
+      "sessions": "4",
+      "activeUsers": "4",
+      "avgSessionDurationSec": "0.31077825",
+      "engagementRate": "0",
+      "pageViews": "4"
+    },
+    {
       "landingPage": "/eu4/trade-companies",
       "sessions": "4",
       "activeUsers": "4",
@@ -218,28 +226,20 @@
       "pageViews": "3"
     },
     {
+      "landingPage": "/blog/eu5-expeditions-explained",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "0.38442766666666667",
+      "engagementRate": "0",
+      "pageViews": "3"
+    },
+    {
       "landingPage": "/blog/eu5-loans-government-bonds",
       "sessions": "3",
       "activeUsers": "3",
       "avgSessionDurationSec": "1.5869636666666667",
       "engagementRate": "0.33333333333333331",
       "pageViews": "5"
-    },
-    {
-      "landingPage": "/blog/eu5-pop-system",
-      "sessions": "3",
-      "activeUsers": "3",
-      "avgSessionDurationSec": "0",
-      "engagementRate": "0",
-      "pageViews": "3"
-    },
-    {
-      "landingPage": "/eu5-1-4-rio-salado-update",
-      "sessions": "3",
-      "activeUsers": "3",
-      "avgSessionDurationSec": "4.0251410000000005",
-      "engagementRate": "0",
-      "pageViews": "3"
     }
   ]
 }
