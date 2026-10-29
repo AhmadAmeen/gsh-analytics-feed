@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T22:16:01.915Z",
+  "generatedAt": "2026-10-29T12:02:12.611Z",
   "rows": [
     {
       "landingPage": "/",
@@ -35,11 +35,11 @@
     },
     {
       "landingPage": "/blog/eu5-army-composition",
-      "sessions": "10",
-      "activeUsers": "10",
-      "avgSessionDurationSec": "16.161517",
-      "engagementRate": "0.2",
-      "pageViews": "10"
+      "sessions": "9",
+      "activeUsers": "9",
+      "avgSessionDurationSec": "17.808742111111112",
+      "engagementRate": "0.22222222222222221",
+      "pageViews": "9"
     },
     {
       "landingPage": "/blog/eu5-political-influence",
@@ -82,12 +82,12 @@
       "pageViews": "7"
     },
     {
-      "landingPage": "/blog/eu5-new-players-path",
+      "landingPage": "/blog/eu5-1-4-cardinals-crusades-religious-orders",
       "sessions": "7",
       "activeUsers": "7",
-      "avgSessionDurationSec": "419.94620128571427",
-      "engagementRate": "0.2857142857142857",
-      "pageViews": "17"
+      "avgSessionDurationSec": "3.305179",
+      "engagementRate": "0.14285714285714285",
+      "pageViews": "7"
     },
     {
       "landingPage": "/blog/best-eu5-starting-nation",
@@ -104,6 +104,22 @@
       "avgSessionDurationSec": "74.902394833333332",
       "engagementRate": "0.16666666666666666",
       "pageViews": "6"
+    },
+    {
+      "landingPage": "/blog/eu5-new-players-path",
+      "sessions": "6",
+      "activeUsers": "6",
+      "avgSessionDurationSec": "489.515869",
+      "engagementRate": "0.33333333333333331",
+      "pageViews": "16"
+    },
+    {
+      "landingPage": "/blog/eu5-trade-guide",
+      "sessions": "6",
+      "activeUsers": "6",
+      "avgSessionDurationSec": "47.70416633333334",
+      "engagementRate": "0.16666666666666666",
+      "pageViews": "8"
     },
     {
       "landingPage": "/blog/paradox-dlc-release-schedule-2026",
@@ -130,14 +146,6 @@
       "pageViews": "6"
     },
     {
-      "landingPage": "/blog/ck3-intrigue-guide",
-      "sessions": "4",
-      "activeUsers": "4",
-      "avgSessionDurationSec": "77.47510625",
-      "engagementRate": "0.25",
-      "pageViews": "4"
-    },
-    {
       "landingPage": "/blog/eu4-government-reforms",
       "sessions": "4",
       "activeUsers": "4",
@@ -151,14 +159,6 @@
       "activeUsers": "4",
       "avgSessionDurationSec": "2.12245725",
       "engagementRate": "0",
-      "pageViews": "4"
-    },
-    {
-      "landingPage": "/blog/eu5-1-4-cardinals-crusades-religious-orders",
-      "sessions": "4",
-      "activeUsers": "4",
-      "avgSessionDurationSec": "4.96437275",
-      "engagementRate": "0.25",
       "pageViews": "4"
     },
     {
@@ -202,6 +202,14 @@
       "pageViews": "3"
     },
     {
+      "landingPage": "/blog/ck3-intrigue-guide",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "0.67437466666666668",
+      "engagementRate": "0",
+      "pageViews": "3"
+    },
+    {
       "landingPage": "/blog/ck3-succession-laws",
       "sessions": "3",
       "activeUsers": "3",
@@ -224,14 +232,6 @@
       "avgSessionDurationSec": "0",
       "engagementRate": "0",
       "pageViews": "3"
-    },
-    {
-      "landingPage": "/blog/eu5-trade-guide",
-      "sessions": "3",
-      "activeUsers": "3",
-      "avgSessionDurationSec": "95.408332666666681",
-      "engagementRate": "0.33333333333333331",
-      "pageViews": "5"
     },
     {
       "landingPage": "/eu5-1-4-rio-salado-update",

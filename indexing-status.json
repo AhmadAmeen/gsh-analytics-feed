@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-28T22:25:55.432Z",
+  "generatedAt": "2026-10-29T12:11:59.036Z",
   "checked": 87,
-  "indexed": 57,
+  "indexed": 58,
   "crawledNotIndexed": 3,
   "discoveredNotIndexed": 0,
-  "unknownToGoogle": 27,
+  "unknownToGoogle": 26,
   "other": 0,
   "errors": 0,
   "rows": [
@@ -260,8 +260,8 @@
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/eu5-naval-warfare/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "status": "Submitted and indexed",
+      "category": "indexed"
     },
     {
       "url": "https://grand-strategy-hub.pages.dev/blog/eu5-new-players-path/",
