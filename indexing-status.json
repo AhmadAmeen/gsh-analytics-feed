@@ -1,447 +1,447 @@
 {
-  "generatedAt": "2026-10-30T12:05:51.424Z",
+  "generatedAt": "2026-10-30T21:59:22.971Z",
   "checked": 87,
-  "indexed": 58,
-  "crawledNotIndexed": 3,
+  "indexed": 0,
+  "crawledNotIndexed": 0,
   "discoveredNotIndexed": 0,
-  "unknownToGoogle": 26,
+  "unknownToGoogle": 0,
   "other": 0,
-  "errors": 0,
+  "errors": 87,
   "rows": [
     {
-      "url": "https://grand-strategy-hub.pages.dev/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/about/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/about/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/best-eu4-dlc/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/best-eu4-dlc/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/best-eu4-mods-2026/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/best-eu4-mods-2026/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/best-eu5-starting-nation/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/best-eu5-starting-nation/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/best-paradox-grand-strategy-game-for-beginners/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/best-paradox-grand-strategy-game-for-beginners/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/ck3-best-religion/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/ck3-best-religion/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/ck3-best-starting-character/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/ck3-best-starting-character/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/ck3-by-god-alone/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/ck3-by-god-alone/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/ck3-china-guide-mandate-of-heaven/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/ck3-china-guide-mandate-of-heaven/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/ck3-culture-faith-mechanics/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/ck3-culture-faith-mechanics/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/ck3-dlc-guide/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/ck3-dlc-guide/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/ck3-elder-traits-explained/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "url": "https://grand-strategy-hub.com/blog/ck3-elder-traits-explained/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/ck3-intrigue-guide/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/ck3-intrigue-guide/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/ck3-keep-track-of-your-dynasty/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/ck3-keep-track-of-your-dynasty/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/ck3-renown-prestige-guide/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/ck3-renown-prestige-guide/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/ck3-silk-and-silver-merchants/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "url": "https://grand-strategy-hub.com/blog/ck3-silk-and-silver-merchants/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/ck3-silk-and-silver-preview/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "url": "https://grand-strategy-hub.com/blog/ck3-silk-and-silver-preview/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/ck3-small-county-survival-guide/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/ck3-small-county-survival-guide/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/ck3-succession-laws/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/ck3-succession-laws/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/clausewitz-engine-explained/",
-      "status": "Crawled - currently not indexed",
-      "category": "crawledNotIndexed"
+      "url": "https://grand-strategy-hub.com/blog/clausewitz-engine-explained/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu4-achievement-guide/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/eu4-achievement-guide/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu4-beginner-mistakes/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/eu4-beginner-mistakes/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu4-custom-nation-guide/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/eu4-custom-nation-guide/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu4-estates-crownland-privileges/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "url": "https://grand-strategy-hub.com/blog/eu4-estates-crownland-privileges/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu4-government-reforms/",
-      "status": "Crawled - currently not indexed",
-      "category": "crawledNotIndexed"
+      "url": "https://grand-strategy-hub.com/blog/eu4-government-reforms/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu4-holy-roman-emperor-guide/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/eu4-holy-roman-emperor-guide/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu4-trade-companies-explained/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/eu4-trade-companies-explained/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu4-trade-node-map/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/eu4-trade-node-map/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu4-trade-power-merchants-steering/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/eu4-trade-power-merchants-steering/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-1-4-cardinals-crusades-religious-orders/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/eu5-1-4-cardinals-crusades-religious-orders/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-1-4-combat-siege-changes/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "url": "https://grand-strategy-hub.com/blog/eu5-1-4-combat-siege-changes/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-1-4-open-beta-date-roadmap/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "url": "https://grand-strategy-hub.com/blog/eu5-1-4-open-beta-date-roadmap/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-1-4-trade-tariffs-economy/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "url": "https://grand-strategy-hub.com/blog/eu5-1-4-trade-tariffs-economy/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-ages-explained/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "url": "https://grand-strategy-hub.com/blog/eu5-ages-explained/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-army-composition/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/eu5-army-composition/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-cabinet-courtiers-explained/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "url": "https://grand-strategy-hub.com/blog/eu5-cabinet-courtiers-explained/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-combat-explained/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "url": "https://grand-strategy-hub.com/blog/eu5-combat-explained/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-culture-religion-tolerance/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "url": "https://grand-strategy-hub.com/blog/eu5-culture-religion-tolerance/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-decisions-content-tab/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "url": "https://grand-strategy-hub.com/blog/eu5-decisions-content-tab/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-diplomacy-guide/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/eu5-diplomacy-guide/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-economy-basics/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "url": "https://grand-strategy-hub.com/blog/eu5-economy-basics/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-estate-private-armies/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "url": "https://grand-strategy-hub.com/blog/eu5-estate-private-armies/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-estates-guide/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/eu5-estates-guide/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-expeditions-explained/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "url": "https://grand-strategy-hub.com/blog/eu5-expeditions-explained/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-government-types-explained/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "url": "https://grand-strategy-hub.com/blog/eu5-government-types-explained/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-institutions-explained/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "url": "https://grand-strategy-hub.com/blog/eu5-institutions-explained/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-loans-government-bonds/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/eu5-loans-government-bonds/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-most-profitable-buildings/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/eu5-most-profitable-buildings/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-naval-warfare/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/eu5-naval-warfare/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-new-players-path/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/eu5-new-players-path/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-parliament-explained/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "url": "https://grand-strategy-hub.com/blog/eu5-parliament-explained/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-patch-1-4-rio-salado-patch-notes/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/eu5-patch-1-4-rio-salado-patch-notes/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-political-influence/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/eu5-political-influence/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-pop-system/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/eu5-pop-system/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-sieges-explained/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "url": "https://grand-strategy-hub.com/blog/eu5-sieges-explained/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-situations-explained/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "url": "https://grand-strategy-hub.com/blog/eu5-situations-explained/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-societal-values-explained/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "url": "https://grand-strategy-hub.com/blog/eu5-societal-values-explained/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-subjects-guide/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/eu5-subjects-guide/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-trade-guide/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/eu5-trade-guide/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-unrest-estates/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/eu5-unrest-estates/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-update-1-4-rio-salado/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "url": "https://grand-strategy-hub.com/blog/eu5-update-1-4-rio-salado/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/eu5-vs-eu4-differences/",
-      "status": "Crawled - currently not indexed",
-      "category": "crawledNotIndexed"
+      "url": "https://grand-strategy-hub.com/blog/eu5-vs-eu4-differences/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/gearup-booster-review/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/gearup-booster-review/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/is-eu4-still-worth-playing/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/is-eu4-still-worth-playing/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/paradox-dlc-release-schedule-2026/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/paradox-dlc-release-schedule-2026/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/blog/paradox-games-prestige-explained/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/blog/paradox-games-prestige-explained/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/category/ck3/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/category/ck3/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/category/comparisons/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/category/comparisons/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/category/eu4/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/category/eu4/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/category/eu5/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/category/eu5/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/category/reviews/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/category/reviews/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/contact/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/contact/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/disclosure/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/disclosure/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/history-videos/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "url": "https://grand-strategy-hub.com/history-videos/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/links/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "url": "https://grand-strategy-hub.com/links/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/newsletter/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/newsletter/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/privacy/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/privacy/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/quiz/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/quiz/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/start-here/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/start-here/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/tools/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/tools/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/tools/ck3-start-selector/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/tools/ck3-start-selector/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/tools/eu4-trade-map/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "url": "https://grand-strategy-hub.com/tools/eu4-trade-map/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/tools/eu5-army-simulator/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/tools/eu5-army-simulator/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/tools/eu5-siege-simulator/",
-      "status": "Submitted and indexed",
-      "category": "indexed"
+      "url": "https://grand-strategy-hub.com/tools/eu5-siege-simulator/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     },
     {
-      "url": "https://grand-strategy-hub.pages.dev/videos/",
-      "status": "URL is unknown to Google",
-      "category": "unknownToGoogle"
+      "url": "https://grand-strategy-hub.com/videos/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
     }
   ]
 }
