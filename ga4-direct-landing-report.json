@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-10-31T21:04:18.197Z",
+  "generatedAt": "2026-11-01T12:26:38.250Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "106",
-      "activeUsers": "102",
-      "avgSessionDurationSec": "51.756386905660378",
-      "engagementRate": "0.11320754716981132",
-      "pageViews": "150"
+      "sessions": "102",
+      "activeUsers": "97",
+      "avgSessionDurationSec": "53.764976352941183",
+      "engagementRate": "0.11764705882352941",
+      "pageViews": "146"
     },
     {
       "landingPage": "/blog/ck3-dlc-guide",
       "sessions": "13",
       "activeUsers": "13",
-      "avgSessionDurationSec": "0.71348138461538457",
-      "engagementRate": "0.076923076923076927",
-      "pageViews": "14"
+      "avgSessionDurationSec": "33.610525461538458",
+      "engagementRate": "0.15384615384615385",
+      "pageViews": "15"
     },
     {
       "landingPage": "/blog/ck3-china-guide-mandate-of-heaven",
@@ -26,28 +26,20 @@
       "pageViews": "12"
     },
     {
-      "landingPage": "/blog/eu4-trade-companies-explained",
-      "sessions": "11",
-      "activeUsers": "11",
-      "avgSessionDurationSec": "1.391069181818182",
-      "engagementRate": "0.090909090909090912",
-      "pageViews": "11"
-    },
-    {
-      "landingPage": "/blog/best-paradox-grand-strategy-game-for-beginners",
-      "sessions": "9",
-      "activeUsers": "9",
-      "avgSessionDurationSec": "1.5834674444444445",
-      "engagementRate": "0",
-      "pageViews": "9"
-    },
-    {
       "landingPage": "/blog/ck3-best-starting-character",
+      "sessions": "10",
+      "activeUsers": "10",
+      "avgSessionDurationSec": "95.9854708",
+      "engagementRate": "0.4",
+      "pageViews": "14"
+    },
+    {
+      "landingPage": "/blog/eu4-trade-companies-explained",
       "sessions": "9",
       "activeUsers": "9",
-      "avgSessionDurationSec": "106.65052311111111",
-      "engagementRate": "0.44444444444444442",
-      "pageViews": "13"
+      "avgSessionDurationSec": "1.7001956666666667",
+      "engagementRate": "0.1111111111111111",
+      "pageViews": "9"
     },
     {
       "landingPage": "/blog/eu5-army-composition",
@@ -64,6 +56,14 @@
       "avgSessionDurationSec": "238.07268622222222",
       "engagementRate": "0.33333333333333331",
       "pageViews": "12"
+    },
+    {
+      "landingPage": "/blog/best-paradox-grand-strategy-game-for-beginners",
+      "sessions": "8",
+      "activeUsers": "8",
+      "avgSessionDurationSec": "1.621159625",
+      "engagementRate": "0",
+      "pageViews": "8"
     },
     {
       "landingPage": "/blog/best-eu5-starting-nation",
@@ -90,6 +90,14 @@
       "pageViews": "7"
     },
     {
+      "landingPage": "/blog/best-eu4-mods-2026",
+      "sessions": "6",
+      "activeUsers": "6",
+      "avgSessionDurationSec": "65.9063445",
+      "engagementRate": "0.33333333333333331",
+      "pageViews": "10"
+    },
+    {
       "landingPage": "/blog/eu5-1-4-cardinals-crusades-religious-orders",
       "sessions": "6",
       "activeUsers": "6",
@@ -98,20 +106,36 @@
       "pageViews": "6"
     },
     {
-      "landingPage": "/blog/eu5-political-influence",
+      "landingPage": "/blog/eu5-1-4-trade-tariffs-economy",
       "sessions": "6",
       "activeUsers": "6",
-      "avgSessionDurationSec": "3.9443041666666665",
+      "avgSessionDurationSec": "3.1972616666666673",
       "engagementRate": "0.16666666666666666",
       "pageViews": "7"
     },
     {
       "landingPage": "/blog/eu5-new-players-path",
+      "sessions": "6",
+      "activeUsers": "6",
+      "avgSessionDurationSec": "489.33677199999994",
+      "engagementRate": "0.33333333333333331",
+      "pageViews": "16"
+    },
+    {
+      "landingPage": "/blog/paradox-dlc-release-schedule-2026",
+      "sessions": "6",
+      "activeUsers": "6",
+      "avgSessionDurationSec": "1.1400385",
+      "engagementRate": "0",
+      "pageViews": "6"
+    },
+    {
+      "landingPage": "/blog/eu5-political-influence",
       "sessions": "5",
       "activeUsers": "5",
-      "avgSessionDurationSec": "587.2041264",
-      "engagementRate": "0.4",
-      "pageViews": "15"
+      "avgSessionDurationSec": "4.2588361999999993",
+      "engagementRate": "0.2",
+      "pageViews": "6"
     },
     {
       "landingPage": "/blog/eu5-pop-system",
@@ -130,14 +154,6 @@
       "pageViews": "7"
     },
     {
-      "landingPage": "/blog/paradox-dlc-release-schedule-2026",
-      "sessions": "5",
-      "activeUsers": "5",
-      "avgSessionDurationSec": "1.3680462",
-      "engagementRate": "0",
-      "pageViews": "5"
-    },
-    {
       "landingPage": "/blog/best-eu4-dlc",
       "sessions": "4",
       "activeUsers": "2",
@@ -146,26 +162,10 @@
       "pageViews": "6"
     },
     {
-      "landingPage": "/blog/best-eu4-mods-2026",
-      "sessions": "4",
-      "activeUsers": "4",
-      "avgSessionDurationSec": "84.88160425",
-      "engagementRate": "0.25",
-      "pageViews": "8"
-    },
-    {
       "landingPage": "/blog/eu4-trade-power-merchants-steering",
       "sessions": "4",
       "activeUsers": "4",
       "avgSessionDurationSec": "0.08059025",
-      "engagementRate": "0",
-      "pageViews": "4"
-    },
-    {
-      "landingPage": "/blog/eu5-1-4-trade-tariffs-economy",
-      "sessions": "4",
-      "activeUsers": "4",
-      "avgSessionDurationSec": "2.69253525",
       "engagementRate": "0",
       "pageViews": "4"
     },
@@ -178,12 +178,12 @@
       "pageViews": "5"
     },
     {
-      "landingPage": "/eu4/trade-companies",
+      "landingPage": "/category/eu5",
       "sessions": "4",
       "activeUsers": "4",
-      "avgSessionDurationSec": "0",
-      "engagementRate": "0",
-      "pageViews": "4"
+      "avgSessionDurationSec": "15.745634",
+      "engagementRate": "0.25",
+      "pageViews": "8"
     },
     {
       "landingPage": "/history-videos",

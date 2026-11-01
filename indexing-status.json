@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-31T21:04:55.151Z",
-  "checked": 87,
+  "generatedAt": "2026-11-01T12:27:15.732Z",
+  "checked": 88,
   "indexed": 0,
   "crawledNotIndexed": 0,
   "discoveredNotIndexed": 0,
   "unknownToGoogle": 0,
   "other": 0,
-  "errors": 87,
+  "errors": 88,
   "rows": [
     {
       "url": "https://grand-strategy-hub.com/",
@@ -35,6 +35,11 @@
     },
     {
       "url": "https://grand-strategy-hub.com/blog/best-eu5-starting-nation/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
+    },
+    {
+      "url": "https://grand-strategy-hub.com/blog/best-nations-eu5-1-4/",
       "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
       "category": "error"
     },
