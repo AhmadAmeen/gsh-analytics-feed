@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-03T13:22:51.543Z",
+  "generatedAt": "2026-11-03T22:57:06.280Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "131",
-      "activeUsers": "126",
-      "avgSessionDurationSec": "44.772958175572519",
-      "engagementRate": "0.11450381679389313",
-      "pageViews": "179"
+      "sessions": "132",
+      "activeUsers": "127",
+      "avgSessionDurationSec": "44.433769098484852",
+      "engagementRate": "0.11363636363636363",
+      "pageViews": "180"
     },
     {
       "landingPage": "/blog/ck3-china-guide-mandate-of-heaven",
@@ -90,6 +90,14 @@
       "pageViews": "9"
     },
     {
+      "landingPage": "(not set)",
+      "sessions": "7",
+      "activeUsers": "5",
+      "avgSessionDurationSec": "471.80058128571426",
+      "engagementRate": "0.2857142857142857",
+      "pageViews": "0"
+    },
+    {
       "landingPage": "/blog/eu4-trade-companies-explained",
       "sessions": "6",
       "activeUsers": "6",
@@ -114,12 +122,12 @@
       "pageViews": "16"
     },
     {
-      "landingPage": "(not set)",
-      "sessions": "5",
+      "landingPage": "/newsletter",
+      "sessions": "6",
       "activeUsers": "4",
-      "avgSessionDurationSec": "420.49631179999994",
-      "engagementRate": "0.2",
-      "pageViews": "0"
+      "avgSessionDurationSec": "261.62364983333333",
+      "engagementRate": "0.5",
+      "pageViews": "7"
     },
     {
       "landingPage": "/blog/eu4-government-reforms",
@@ -154,6 +162,14 @@
       "pageViews": "9"
     },
     {
+      "landingPage": "/blog/eu5-patch-1-4-rio-salado-patch-notes",
+      "sessions": "5",
+      "activeUsers": "5",
+      "avgSessionDurationSec": "0.51238400000000006",
+      "engagementRate": "0",
+      "pageViews": "5"
+    },
+    {
       "landingPage": "/blog/eu5-pop-system",
       "sessions": "5",
       "activeUsers": "5",
@@ -168,14 +184,6 @@
       "avgSessionDurationSec": "56.771930200000007",
       "engagementRate": "0.2",
       "pageViews": "7"
-    },
-    {
-      "landingPage": "/newsletter",
-      "sessions": "5",
-      "activeUsers": "4",
-      "avgSessionDurationSec": "4.061132",
-      "engagementRate": "0.4",
-      "pageViews": "5"
     },
     {
       "landingPage": "/blog/best-eu4-dlc",
@@ -230,14 +238,6 @@
       "sessions": "3",
       "activeUsers": "3",
       "avgSessionDurationSec": "0.67437466666666668",
-      "engagementRate": "0",
-      "pageViews": "3"
-    },
-    {
-      "landingPage": "/blog/eu4-trade-node-map",
-      "sessions": "3",
-      "activeUsers": "3",
-      "avgSessionDurationSec": "0",
       "engagementRate": "0",
       "pageViews": "3"
     }
