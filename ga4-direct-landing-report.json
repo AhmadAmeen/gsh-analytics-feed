@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-03T00:36:46.137Z",
+  "generatedAt": "2026-11-03T13:22:51.543Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "125",
-      "activeUsers": "120",
-      "avgSessionDurationSec": "46.852693544000005",
-      "engagementRate": "0.12",
-      "pageViews": "173"
+      "sessions": "131",
+      "activeUsers": "126",
+      "avgSessionDurationSec": "44.772958175572519",
+      "engagementRate": "0.11450381679389313",
+      "pageViews": "179"
     },
     {
       "landingPage": "/blog/ck3-china-guide-mandate-of-heaven",
@@ -26,20 +26,20 @@
       "pageViews": "15"
     },
     {
+      "landingPage": "/blog/ck3-best-starting-character",
+      "sessions": "11",
+      "activeUsers": "11",
+      "avgSessionDurationSec": "87.2595189090909",
+      "engagementRate": "0.36363636363636365",
+      "pageViews": "15"
+    },
+    {
       "landingPage": "/blog/eu5-estate-private-armies",
       "sessions": "11",
       "activeUsers": "11",
       "avgSessionDurationSec": "16.780973",
       "engagementRate": "0.18181818181818182",
       "pageViews": "11"
-    },
-    {
-      "landingPage": "/blog/ck3-best-starting-character",
-      "sessions": "10",
-      "activeUsers": "10",
-      "avgSessionDurationSec": "95.9854708",
-      "engagementRate": "0.4",
-      "pageViews": "14"
     },
     {
       "landingPage": "/blog/eu5-army-composition",
@@ -59,11 +59,11 @@
     },
     {
       "landingPage": "/blog/best-eu4-mods-2026",
-      "sessions": "8",
-      "activeUsers": "8",
-      "avgSessionDurationSec": "49.746848375",
-      "engagementRate": "0.25",
-      "pageViews": "12"
+      "sessions": "9",
+      "activeUsers": "9",
+      "avgSessionDurationSec": "44.219420777777778",
+      "engagementRate": "0.22222222222222221",
+      "pageViews": "13"
     },
     {
       "landingPage": "/blog/best-eu5-starting-nation",
@@ -85,17 +85,9 @@
       "landingPage": "/blog/eu5-most-profitable-buildings",
       "sessions": "8",
       "activeUsers": "8",
-      "avgSessionDurationSec": "77.5101295",
+      "avgSessionDurationSec": "77.510129499999991",
       "engagementRate": "0.25",
       "pageViews": "9"
-    },
-    {
-      "landingPage": "/blog/eu4-government-reforms",
-      "sessions": "6",
-      "activeUsers": "5",
-      "avgSessionDurationSec": "1.0452266666666665",
-      "engagementRate": "0",
-      "pageViews": "6"
     },
     {
       "landingPage": "/blog/eu4-trade-companies-explained",
@@ -114,14 +106,6 @@
       "pageViews": "6"
     },
     {
-      "landingPage": "/blog/eu5-1-4-trade-tariffs-economy",
-      "sessions": "6",
-      "activeUsers": "6",
-      "avgSessionDurationSec": "3.1972616666666673",
-      "engagementRate": "0.16666666666666666",
-      "pageViews": "7"
-    },
-    {
       "landingPage": "/blog/eu5-new-players-path",
       "sessions": "6",
       "activeUsers": "6",
@@ -136,6 +120,22 @@
       "avgSessionDurationSec": "420.49631179999994",
       "engagementRate": "0.2",
       "pageViews": "0"
+    },
+    {
+      "landingPage": "/blog/eu4-government-reforms",
+      "sessions": "5",
+      "activeUsers": "4",
+      "avgSessionDurationSec": "1.2542719999999998",
+      "engagementRate": "0",
+      "pageViews": "5"
+    },
+    {
+      "landingPage": "/blog/eu5-1-4-trade-tariffs-economy",
+      "sessions": "5",
+      "activeUsers": "5",
+      "avgSessionDurationSec": "3.3465604",
+      "engagementRate": "0.2",
+      "pageViews": "6"
     },
     {
       "landingPage": "/blog/eu5-loans-government-bonds",
@@ -168,14 +168,6 @@
       "avgSessionDurationSec": "56.771930200000007",
       "engagementRate": "0.2",
       "pageViews": "7"
-    },
-    {
-      "landingPage": "/blog/paradox-dlc-release-schedule-2026",
-      "sessions": "5",
-      "activeUsers": "5",
-      "avgSessionDurationSec": "1.0054774",
-      "engagementRate": "0",
-      "pageViews": "5"
     },
     {
       "landingPage": "/newsletter",
@@ -238,6 +230,14 @@
       "sessions": "3",
       "activeUsers": "3",
       "avgSessionDurationSec": "0.67437466666666668",
+      "engagementRate": "0",
+      "pageViews": "3"
+    },
+    {
+      "landingPage": "/blog/eu4-trade-node-map",
+      "sessions": "3",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "0",
       "engagementRate": "0",
       "pageViews": "3"
     }
