@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-04T23:16:18.762Z",
+  "generatedAt": "2026-11-05T13:48:00.866Z",
   "rows": [
     {
       "landingPage": "/",
       "sessions": "134",
-      "activeUsers": "129",
-      "avgSessionDurationSec": "43.849911917910447",
-      "engagementRate": "0.11940298507462686",
-      "pageViews": "183"
+      "activeUsers": "130",
+      "avgSessionDurationSec": "42.78890589552239",
+      "engagementRate": "0.11194029850746269",
+      "pageViews": "172"
     },
     {
       "landingPage": "/blog/ck3-china-guide-mandate-of-heaven",
@@ -26,20 +26,36 @@
       "pageViews": "15"
     },
     {
+      "landingPage": "/blog/eu5-army-composition",
+      "sessions": "12",
+      "activeUsers": "12",
+      "avgSessionDurationSec": "13.360928666666666",
+      "engagementRate": "0.16666666666666666",
+      "pageViews": "12"
+    },
+    {
+      "landingPage": "/blog/eu5-subjects-guide",
+      "sessions": "12",
+      "activeUsers": "11",
+      "avgSessionDurationSec": "183.75411725",
+      "engagementRate": "0.33333333333333331",
+      "pageViews": "16"
+    },
+    {
+      "landingPage": "/blog/best-eu4-mods-2026",
+      "sessions": "11",
+      "activeUsers": "11",
+      "avgSessionDurationSec": "36.179526090909093",
+      "engagementRate": "0.18181818181818182",
+      "pageViews": "15"
+    },
+    {
       "landingPage": "/blog/ck3-best-starting-character",
       "sessions": "11",
       "activeUsers": "11",
       "avgSessionDurationSec": "87.2595189090909",
       "engagementRate": "0.36363636363636365",
       "pageViews": "15"
-    },
-    {
-      "landingPage": "/blog/eu5-army-composition",
-      "sessions": "11",
-      "activeUsers": "11",
-      "avgSessionDurationSec": "14.575558545454545",
-      "engagementRate": "0.18181818181818182",
-      "pageViews": "11"
     },
     {
       "landingPage": "/blog/eu5-estate-private-armies",
@@ -50,20 +66,12 @@
       "pageViews": "11"
     },
     {
-      "landingPage": "/blog/eu5-subjects-guide",
-      "sessions": "11",
-      "activeUsers": "11",
-      "avgSessionDurationSec": "194.78674327272728",
-      "engagementRate": "0.27272727272727271",
-      "pageViews": "14"
-    },
-    {
-      "landingPage": "/blog/best-eu4-mods-2026",
+      "landingPage": "/blog/eu5-most-profitable-buildings",
       "sessions": "10",
       "activeUsers": "10",
-      "avgSessionDurationSec": "39.7974787",
+      "avgSessionDurationSec": "62.876256299999987",
       "engagementRate": "0.2",
-      "pageViews": "14"
+      "pageViews": "11"
     },
     {
       "landingPage": "(not set)",
@@ -90,12 +98,20 @@
       "pageViews": "8"
     },
     {
-      "landingPage": "/blog/eu5-most-profitable-buildings",
+      "landingPage": "/blog/eu5-1-4-trade-tariffs-economy",
       "sessions": "8",
       "activeUsers": "8",
-      "avgSessionDurationSec": "77.510129499999991",
-      "engagementRate": "0.25",
+      "avgSessionDurationSec": "2.591952125",
+      "engagementRate": "0.125",
       "pageViews": "9"
+    },
+    {
+      "landingPage": "/blog/eu5-patch-1-4-rio-salado-patch-notes",
+      "sessions": "8",
+      "activeUsers": "8",
+      "avgSessionDurationSec": "1.4047983750000002",
+      "engagementRate": "0",
+      "pageViews": "8"
     },
     {
       "landingPage": "/blog/eu5-new-players-path",
@@ -122,14 +138,6 @@
       "pageViews": "6"
     },
     {
-      "landingPage": "/blog/eu5-1-4-trade-tariffs-economy",
-      "sessions": "6",
-      "activeUsers": "6",
-      "avgSessionDurationSec": "3.455936166666667",
-      "engagementRate": "0.16666666666666666",
-      "pageViews": "7"
-    },
-    {
       "landingPage": "/blog/eu5-loans-government-bonds",
       "sessions": "6",
       "activeUsers": "6",
@@ -154,6 +162,14 @@
       "pageViews": "7"
     },
     {
+      "landingPage": "/blog/ck3-intrigue-guide",
+      "sessions": "5",
+      "activeUsers": "5",
+      "avgSessionDurationSec": "0.9333376",
+      "engagementRate": "0",
+      "pageViews": "5"
+    },
+    {
       "landingPage": "/blog/eu4-government-reforms",
       "sessions": "5",
       "activeUsers": "4",
@@ -170,14 +186,6 @@
       "pageViews": "9"
     },
     {
-      "landingPage": "/blog/eu5-patch-1-4-rio-salado-patch-notes",
-      "sessions": "5",
-      "activeUsers": "5",
-      "avgSessionDurationSec": "0.51238400000000006",
-      "engagementRate": "0",
-      "pageViews": "5"
-    },
-    {
       "landingPage": "/blog/eu5-pop-system",
       "sessions": "5",
       "activeUsers": "5",
@@ -192,14 +200,6 @@
       "avgSessionDurationSec": "25.494018",
       "engagementRate": "0.25",
       "pageViews": "6"
-    },
-    {
-      "landingPage": "/blog/ck3-intrigue-guide",
-      "sessions": "4",
-      "activeUsers": "4",
-      "avgSessionDurationSec": "1.166672",
-      "engagementRate": "0",
-      "pageViews": "4"
     },
     {
       "landingPage": "/blog/eu4-achievement-guide",
