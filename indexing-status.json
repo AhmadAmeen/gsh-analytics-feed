@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-05T13:48:41.854Z",
-  "checked": 88,
+  "generatedAt": "2026-11-05T23:20:35.973Z",
+  "checked": 89,
   "indexed": 0,
   "crawledNotIndexed": 0,
   "discoveredNotIndexed": 0,
   "unknownToGoogle": 0,
   "other": 0,
-  "errors": 88,
+  "errors": 89,
   "rows": [
     {
       "url": "https://grand-strategy-hub.com/",
@@ -185,6 +185,11 @@
     },
     {
       "url": "https://grand-strategy-hub.com/blog/eu5-1-4-trade-tariffs-economy/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
+    },
+    {
+      "url": "https://grand-strategy-hub.com/blog/eu5-across-the-pillars-worth-it/",
       "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
       "category": "error"
     },

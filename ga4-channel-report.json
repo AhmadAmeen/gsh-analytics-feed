@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-11-05T13:48:00.374Z",
+  "generatedAt": "2026-11-05T23:19:53.634Z",
   "rows": [
     {
       "channel": "Organic Search",
-      "sessions": "1036",
-      "engagedSessions": "623",
-      "engagementRate": "0.60135135135135132",
-      "avgSessionDurationSec": "193.47763447297297"
+      "sessions": "1063",
+      "engagedSessions": "645",
+      "engagementRate": "0.60677328316086543",
+      "avgSessionDurationSec": "205.83576795108183"
     },
     {
       "channel": "Direct",
-      "sessions": "419",
-      "engagedSessions": "60",
-      "engagementRate": "0.14319809069212411",
-      "avgSessionDurationSec": "55.243421782816235"
+      "sessions": "428",
+      "engagedSessions": "61",
+      "engagementRate": "0.1425233644859813",
+      "avgSessionDurationSec": "54.168544642523358"
     },
     {
       "channel": "Organic Social",
-      "sessions": "140",
-      "engagedSessions": "59",
-      "engagementRate": "0.42142857142857143",
-      "avgSessionDurationSec": "23.262125535714286"
+      "sessions": "143",
+      "engagedSessions": "60",
+      "engagementRate": "0.41958041958041958",
+      "avgSessionDurationSec": "33.540437433566431"
     },
     {
       "channel": "AI Assistant",
@@ -31,10 +31,10 @@
     },
     {
       "channel": "Referral",
-      "sessions": "26",
-      "engagedSessions": "22",
-      "engagementRate": "0.84615384615384615",
-      "avgSessionDurationSec": "415.08043465384617"
+      "sessions": "30",
+      "engagedSessions": "23",
+      "engagementRate": "0.76666666666666672",
+      "avgSessionDurationSec": "370.1207101"
     },
     {
       "channel": "Organic Video",
@@ -45,10 +45,10 @@
     },
     {
       "channel": "Unassigned",
-      "sessions": "17",
+      "sessions": "11",
       "engagedSessions": "1",
-      "engagementRate": "0.058823529411764705",
-      "avgSessionDurationSec": "300.67338682352937"
+      "engagementRate": "0.090909090909090912",
+      "avgSessionDurationSec": "68.028594636363636"
     }
   ]
 }
