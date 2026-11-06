@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-05T23:19:54.143Z",
+  "generatedAt": "2026-11-06T13:31:46.468Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "137",
-      "activeUsers": "133",
-      "avgSessionDurationSec": "41.851922554744526",
-      "engagementRate": "0.10948905109489052",
-      "pageViews": "175"
+      "sessions": "136",
+      "activeUsers": "132",
+      "avgSessionDurationSec": "40.615762617647057",
+      "engagementRate": "0.10294117647058823",
+      "pageViews": "167"
     },
     {
       "landingPage": "/blog/ck3-china-guide-mandate-of-heaven",
@@ -27,11 +27,11 @@
     },
     {
       "landingPage": "/blog/eu5-army-composition",
-      "sessions": "12",
-      "activeUsers": "12",
-      "avgSessionDurationSec": "13.360928666666666",
-      "engagementRate": "0.16666666666666666",
-      "pageViews": "12"
+      "sessions": "13",
+      "activeUsers": "13",
+      "avgSessionDurationSec": "62.144149461538454",
+      "engagementRate": "0.23076923076923078",
+      "pageViews": "14"
     },
     {
       "landingPage": "/blog/eu5-estate-private-armies",
@@ -58,20 +58,28 @@
       "pageViews": "15"
     },
     {
-      "landingPage": "/blog/ck3-best-starting-character",
-      "sessions": "11",
-      "activeUsers": "11",
-      "avgSessionDurationSec": "87.2595189090909",
-      "engagementRate": "0.36363636363636365",
-      "pageViews": "15"
-    },
-    {
       "landingPage": "/blog/eu5-most-profitable-buildings",
       "sessions": "10",
       "activeUsers": "10",
       "avgSessionDurationSec": "62.8762563",
       "engagementRate": "0.2",
       "pageViews": "11"
+    },
+    {
+      "landingPage": "/blog/ck3-best-starting-character",
+      "sessions": "9",
+      "activeUsers": "9",
+      "avgSessionDurationSec": "106.65052311111111",
+      "engagementRate": "0.44444444444444442",
+      "pageViews": "13"
+    },
+    {
+      "landingPage": "/blog/eu5-patch-1-4-rio-salado-patch-notes",
+      "sessions": "9",
+      "activeUsers": "9",
+      "avgSessionDurationSec": "1.2487096666666666",
+      "engagementRate": "0",
+      "pageViews": "9"
     },
     {
       "landingPage": "(not set)",
@@ -106,12 +114,12 @@
       "pageViews": "9"
     },
     {
-      "landingPage": "/blog/eu5-patch-1-4-rio-salado-patch-notes",
-      "sessions": "8",
-      "activeUsers": "8",
-      "avgSessionDurationSec": "1.404798375",
-      "engagementRate": "0",
-      "pageViews": "8"
+      "landingPage": "/blog/eu5-1-4-cardinals-crusades-religious-orders",
+      "sessions": "7",
+      "activeUsers": "7",
+      "avgSessionDurationSec": "2.5308341428571426",
+      "engagementRate": "0.14285714285714285",
+      "pageViews": "7"
     },
     {
       "landingPage": "/blog/eu5-new-players-path",
@@ -122,18 +130,18 @@
       "pageViews": "19"
     },
     {
+      "landingPage": "/blog/eu5-trade-guide",
+      "sessions": "7",
+      "activeUsers": "7",
+      "avgSessionDurationSec": "40.551378714285718",
+      "engagementRate": "0.14285714285714285",
+      "pageViews": "9"
+    },
+    {
       "landingPage": "/blog/eu4-trade-companies-explained",
       "sessions": "6",
       "activeUsers": "6",
       "avgSessionDurationSec": "2.5502935",
-      "engagementRate": "0.16666666666666666",
-      "pageViews": "6"
-    },
-    {
-      "landingPage": "/blog/eu5-1-4-cardinals-crusades-religious-orders",
-      "sessions": "6",
-      "activeUsers": "6",
-      "avgSessionDurationSec": "2.952639833333333",
       "engagementRate": "0.16666666666666666",
       "pageViews": "6"
     },
@@ -146,12 +154,20 @@
       "pageViews": "8"
     },
     {
-      "landingPage": "/blog/eu5-trade-guide",
+      "landingPage": "/blog/eu5-naval-warfare",
       "sessions": "6",
       "activeUsers": "6",
-      "avgSessionDurationSec": "47.30994183333334",
-      "engagementRate": "0.16666666666666666",
-      "pageViews": "8"
+      "avgSessionDurationSec": "157.68102683333333",
+      "engagementRate": "0.33333333333333331",
+      "pageViews": "10"
+    },
+    {
+      "landingPage": "/blog/eu5-pop-system",
+      "sessions": "6",
+      "activeUsers": "6",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "6"
     },
     {
       "landingPage": "/newsletter",
@@ -178,18 +194,10 @@
       "pageViews": "5"
     },
     {
-      "landingPage": "/blog/eu5-naval-warfare",
+      "landingPage": "/blog/eu4-trade-power-merchants-steering",
       "sessions": "5",
       "activeUsers": "5",
-      "avgSessionDurationSec": "189.21723219999998",
-      "engagementRate": "0.4",
-      "pageViews": "9"
-    },
-    {
-      "landingPage": "/blog/eu5-pop-system",
-      "sessions": "5",
-      "activeUsers": "5",
-      "avgSessionDurationSec": "0",
+      "avgSessionDurationSec": "0.064472200000000007",
       "engagementRate": "0",
       "pageViews": "5"
     },
@@ -214,14 +222,6 @@
       "sessions": "4",
       "activeUsers": "4",
       "avgSessionDurationSec": "2.1573305",
-      "engagementRate": "0",
-      "pageViews": "4"
-    },
-    {
-      "landingPage": "/blog/eu4-trade-power-merchants-steering",
-      "sessions": "4",
-      "activeUsers": "4",
-      "avgSessionDurationSec": "0.08059025",
       "engagementRate": "0",
       "pageViews": "4"
     },
