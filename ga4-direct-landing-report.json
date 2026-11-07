@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-07T12:12:41.876Z",
+  "generatedAt": "2026-11-07T21:29:54.921Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "141",
-      "activeUsers": "137",
-      "avgSessionDurationSec": "39.19586675886525",
-      "engagementRate": "0.099290780141843976",
-      "pageViews": "172"
+      "sessions": "145",
+      "activeUsers": "141",
+      "avgSessionDurationSec": "38.114601468965517",
+      "engagementRate": "0.096551724137931033",
+      "pageViews": "176"
     },
     {
       "landingPage": "/blog/ck3-dlc-guide",
@@ -18,20 +18,20 @@
       "pageViews": "16"
     },
     {
+      "landingPage": "/blog/eu5-army-composition",
+      "sessions": "14",
+      "activeUsers": "14",
+      "avgSessionDurationSec": "57.705281642857138",
+      "engagementRate": "0.21428571428571427",
+      "pageViews": "15"
+    },
+    {
       "landingPage": "/blog/ck3-china-guide-mandate-of-heaven",
       "sessions": "13",
       "activeUsers": "13",
       "avgSessionDurationSec": "2.0622371538461541",
       "engagementRate": "0.15384615384615385",
       "pageViews": "13"
-    },
-    {
-      "landingPage": "/blog/eu5-army-composition",
-      "sessions": "13",
-      "activeUsers": "13",
-      "avgSessionDurationSec": "62.144149461538454",
-      "engagementRate": "0.23076923076923078",
-      "pageViews": "14"
     },
     {
       "landingPage": "/blog/eu5-estate-private-armies",
@@ -98,20 +98,20 @@
       "pageViews": "0"
     },
     {
+      "landingPage": "/blog/best-eu5-starting-nation",
+      "sessions": "8",
+      "activeUsers": "8",
+      "avgSessionDurationSec": "2.2445207500000004",
+      "engagementRate": "0.125",
+      "pageViews": "8"
+    },
+    {
       "landingPage": "/blog/best-paradox-grand-strategy-game-for-beginners",
       "sessions": "8",
       "activeUsers": "8",
       "avgSessionDurationSec": "1.621159625",
       "engagementRate": "0",
       "pageViews": "8"
-    },
-    {
-      "landingPage": "/blog/best-eu5-starting-nation",
-      "sessions": "7",
-      "activeUsers": "7",
-      "avgSessionDurationSec": "2.5651665714285721",
-      "engagementRate": "0.14285714285714285",
-      "pageViews": "7"
     },
     {
       "landingPage": "/blog/eu5-1-4-cardinals-crusades-religious-orders",
@@ -202,6 +202,14 @@
       "pageViews": "5"
     },
     {
+      "landingPage": "/category/eu5",
+      "sessions": "5",
+      "activeUsers": "5",
+      "avgSessionDurationSec": "12.596507200000001",
+      "engagementRate": "0.2",
+      "pageViews": "9"
+    },
+    {
       "landingPage": "/blog/best-eu4-dlc",
       "sessions": "4",
       "activeUsers": "2",
@@ -232,14 +240,6 @@
       "avgSessionDurationSec": "5.32354525",
       "engagementRate": "0.25",
       "pageViews": "5"
-    },
-    {
-      "landingPage": "/blog/paradox-games-prestige-explained",
-      "sessions": "4",
-      "activeUsers": "4",
-      "avgSessionDurationSec": "0",
-      "engagementRate": "0",
-      "pageViews": "4"
     }
   ]
 }

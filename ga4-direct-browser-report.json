@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-07T12:12:42.384Z",
+  "generatedAt": "2026-11-07T21:29:55.403Z",
   "rows": [
     {
       "browser": "Chrome",
-      "sessions": "322",
-      "activeUsers": "306",
-      "avgSessionDurationSec": "47.833278124223604",
+      "sessions": "331",
+      "activeUsers": "315",
+      "avgSessionDurationSec": "46.53267539577039",
       "engagedSessions": "34",
-      "engagementRate": "0.10559006211180125"
+      "engagementRate": "0.1027190332326284"
     },
     {
       "browser": "Safari",
@@ -34,20 +34,20 @@
       "engagementRate": "0.21428571428571427"
     },
     {
+      "browser": "Samsung Internet",
+      "sessions": "8",
+      "activeUsers": "6",
+      "avgSessionDurationSec": "24.976074625000003",
+      "engagedSessions": "2",
+      "engagementRate": "0.25"
+    },
+    {
       "browser": "(not set)",
       "sessions": "7",
       "activeUsers": "7",
       "avgSessionDurationSec": "0",
       "engagedSessions": "0",
       "engagementRate": "0"
-    },
-    {
-      "browser": "Samsung Internet",
-      "sessions": "7",
-      "activeUsers": "5",
-      "avgSessionDurationSec": "28.544085285714289",
-      "engagedSessions": "2",
-      "engagementRate": "0.2857142857142857"
     },
     {
       "browser": "Android Webview",
