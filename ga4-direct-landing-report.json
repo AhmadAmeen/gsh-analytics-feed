@@ -1,13 +1,21 @@
 {
-  "generatedAt": "2026-11-06T22:45:51.494Z",
+  "generatedAt": "2026-11-07T12:12:41.876Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "138",
-      "activeUsers": "134",
-      "avgSessionDurationSec": "40.047950818840576",
-      "engagementRate": "0.10144927536231885",
-      "pageViews": "169"
+      "sessions": "141",
+      "activeUsers": "137",
+      "avgSessionDurationSec": "39.19586675886525",
+      "engagementRate": "0.099290780141843976",
+      "pageViews": "172"
+    },
+    {
+      "landingPage": "/blog/ck3-dlc-guide",
+      "sessions": "14",
+      "activeUsers": "14",
+      "avgSessionDurationSec": "31.527179428571429",
+      "engagementRate": "0.14285714285714285",
+      "pageViews": "16"
     },
     {
       "landingPage": "/blog/ck3-china-guide-mandate-of-heaven",
@@ -16,14 +24,6 @@
       "avgSessionDurationSec": "2.0622371538461541",
       "engagementRate": "0.15384615384615385",
       "pageViews": "13"
-    },
-    {
-      "landingPage": "/blog/ck3-dlc-guide",
-      "sessions": "13",
-      "activeUsers": "13",
-      "avgSessionDurationSec": "33.952347076923076",
-      "engagementRate": "0.15384615384615385",
-      "pageViews": "15"
     },
     {
       "landingPage": "/blog/eu5-army-composition",
@@ -58,14 +58,6 @@
       "pageViews": "15"
     },
     {
-      "landingPage": "/blog/eu5-most-profitable-buildings",
-      "sessions": "10",
-      "activeUsers": "10",
-      "avgSessionDurationSec": "62.8762563",
-      "engagementRate": "0.2",
-      "pageViews": "11"
-    },
-    {
       "landingPage": "/blog/ck3-best-starting-character",
       "sessions": "9",
       "activeUsers": "9",
@@ -82,10 +74,18 @@
       "pageViews": "10"
     },
     {
+      "landingPage": "/blog/eu5-most-profitable-buildings",
+      "sessions": "9",
+      "activeUsers": "9",
+      "avgSessionDurationSec": "69.862507",
+      "engagementRate": "0.22222222222222221",
+      "pageViews": "10"
+    },
+    {
       "landingPage": "/blog/eu5-patch-1-4-rio-salado-patch-notes",
       "sessions": "9",
       "activeUsers": "9",
-      "avgSessionDurationSec": "1.2487096666666666",
+      "avgSessionDurationSec": "1.6790561111111111",
       "engagementRate": "0",
       "pageViews": "9"
     },
@@ -98,20 +98,20 @@
       "pageViews": "0"
     },
     {
-      "landingPage": "/blog/best-eu5-starting-nation",
-      "sessions": "8",
-      "activeUsers": "8",
-      "avgSessionDurationSec": "2.2445207500000004",
-      "engagementRate": "0.125",
-      "pageViews": "8"
-    },
-    {
       "landingPage": "/blog/best-paradox-grand-strategy-game-for-beginners",
       "sessions": "8",
       "activeUsers": "8",
       "avgSessionDurationSec": "1.621159625",
       "engagementRate": "0",
       "pageViews": "8"
+    },
+    {
+      "landingPage": "/blog/best-eu5-starting-nation",
+      "sessions": "7",
+      "activeUsers": "7",
+      "avgSessionDurationSec": "2.5651665714285721",
+      "engagementRate": "0.14285714285714285",
+      "pageViews": "7"
     },
     {
       "landingPage": "/blog/eu5-1-4-cardinals-crusades-religious-orders",
