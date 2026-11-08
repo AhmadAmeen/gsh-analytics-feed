@@ -1,29 +1,37 @@
 {
-  "generatedAt": "2026-11-08T12:32:24.262Z",
+  "generatedAt": "2026-11-08T21:44:32.675Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "145",
-      "activeUsers": "139",
-      "avgSessionDurationSec": "45.336899689655169",
-      "engagementRate": "0.096551724137931033",
-      "pageViews": "175"
-    },
-    {
-      "landingPage": "/blog/ck3-dlc-guide",
-      "sessions": "14",
-      "activeUsers": "14",
-      "avgSessionDurationSec": "31.527179428571429",
-      "engagementRate": "0.14285714285714285",
-      "pageViews": "16"
+      "sessions": "146",
+      "activeUsers": "140",
+      "avgSessionDurationSec": "45.047679109589033",
+      "engagementRate": "0.0958904109589041",
+      "pageViews": "176"
     },
     {
       "landingPage": "/blog/eu5-army-composition",
-      "sessions": "14",
-      "activeUsers": "14",
-      "avgSessionDurationSec": "57.705281642857138",
-      "engagementRate": "0.21428571428571427",
-      "pageViews": "15"
+      "sessions": "16",
+      "activeUsers": "16",
+      "avgSessionDurationSec": "50.492121437499996",
+      "engagementRate": "0.1875",
+      "pageViews": "17"
+    },
+    {
+      "landingPage": "/blog/ck3-dlc-guide",
+      "sessions": "15",
+      "activeUsers": "15",
+      "avgSessionDurationSec": "29.425367466666668",
+      "engagementRate": "0.13333333333333333",
+      "pageViews": "17"
+    },
+    {
+      "landingPage": "/blog/eu5-estate-private-armies",
+      "sessions": "13",
+      "activeUsers": "13",
+      "avgSessionDurationSec": "17.22576823076923",
+      "engagementRate": "0.30769230769230771",
+      "pageViews": "14"
     },
     {
       "landingPage": "/blog/ck3-china-guide-mandate-of-heaven",
@@ -31,14 +39,6 @@
       "activeUsers": "12",
       "avgSessionDurationSec": "2.23409025",
       "engagementRate": "0.16666666666666666",
-      "pageViews": "12"
-    },
-    {
-      "landingPage": "/blog/eu5-estate-private-armies",
-      "sessions": "12",
-      "activeUsers": "12",
-      "avgSessionDurationSec": "17.758730083333333",
-      "engagementRate": "0.25",
       "pageViews": "12"
     },
     {
@@ -114,12 +114,44 @@
       "pageViews": "8"
     },
     {
+      "landingPage": "/blog/eu5-new-players-path",
+      "sessions": "8",
+      "activeUsers": "8",
+      "avgSessionDurationSec": "426.795832125",
+      "engagementRate": "0.5",
+      "pageViews": "26"
+    },
+    {
+      "landingPage": "/blog/eu5-trade-guide",
+      "sessions": "8",
+      "activeUsers": "8",
+      "avgSessionDurationSec": "37.590663875000004",
+      "engagementRate": "0.25",
+      "pageViews": "10"
+    },
+    {
+      "landingPage": "/blog/eu4-government-reforms",
+      "sessions": "7",
+      "activeUsers": "5",
+      "avgSessionDurationSec": "0.89590857142857139",
+      "engagementRate": "0",
+      "pageViews": "7"
+    },
+    {
       "landingPage": "/blog/eu5-1-4-cardinals-crusades-religious-orders",
       "sessions": "7",
       "activeUsers": "7",
       "avgSessionDurationSec": "2.5308341428571426",
       "engagementRate": "0.14285714285714285",
       "pageViews": "7"
+    },
+    {
+      "landingPage": "/blog/eu5-loans-government-bonds",
+      "sessions": "7",
+      "activeUsers": "7",
+      "avgSessionDurationSec": "133.2914785714286",
+      "engagementRate": "0.2857142857142857",
+      "pageViews": "12"
     },
     {
       "landingPage": "/blog/eu5-naval-warfare",
@@ -130,26 +162,10 @@
       "pageViews": "13"
     },
     {
-      "landingPage": "/blog/eu5-new-players-path",
-      "sessions": "7",
-      "activeUsers": "7",
-      "avgSessionDurationSec": "467.84151228571426",
-      "engagementRate": "0.42857142857142855",
-      "pageViews": "19"
-    },
-    {
-      "landingPage": "/blog/eu5-trade-guide",
-      "sessions": "7",
-      "activeUsers": "7",
-      "avgSessionDurationSec": "40.551378714285718",
-      "engagementRate": "0.14285714285714285",
-      "pageViews": "9"
-    },
-    {
-      "landingPage": "/blog/eu4-government-reforms",
+      "landingPage": "/blog/eu4-achievement-guide",
       "sessions": "6",
       "activeUsers": "5",
-      "avgSessionDurationSec": "1.0452266666666665",
+      "avgSessionDurationSec": "0",
       "engagementRate": "0",
       "pageViews": "6"
     },
@@ -162,20 +178,20 @@
       "pageViews": "6"
     },
     {
-      "landingPage": "/blog/eu5-loans-government-bonds",
-      "sessions": "6",
-      "activeUsers": "6",
-      "avgSessionDurationSec": "1.2954906666666668",
-      "engagementRate": "0.16666666666666666",
-      "pageViews": "8"
-    },
-    {
       "landingPage": "/blog/eu5-pop-system",
       "sessions": "6",
       "activeUsers": "6",
       "avgSessionDurationSec": "0",
       "engagementRate": "0",
       "pageViews": "6"
+    },
+    {
+      "landingPage": "/category/eu5",
+      "sessions": "6",
+      "activeUsers": "6",
+      "avgSessionDurationSec": "10.497089333333333",
+      "engagementRate": "0.16666666666666666",
+      "pageViews": "10"
     },
     {
       "landingPage": "/newsletter",
@@ -186,18 +202,18 @@
       "pageViews": "7"
     },
     {
-      "landingPage": "/blog/ck3-intrigue-guide",
+      "landingPage": "/blog/ck3-culture-faith-mechanics",
       "sessions": "5",
       "activeUsers": "5",
-      "avgSessionDurationSec": "0.9333376",
+      "avgSessionDurationSec": "0",
       "engagementRate": "0",
       "pageViews": "5"
     },
     {
-      "landingPage": "/blog/eu4-achievement-guide",
+      "landingPage": "/blog/ck3-intrigue-guide",
       "sessions": "5",
-      "activeUsers": "4",
-      "avgSessionDurationSec": "0",
+      "activeUsers": "5",
+      "avgSessionDurationSec": "0.9333376",
       "engagementRate": "0",
       "pageViews": "5"
     },
@@ -210,12 +226,12 @@
       "pageViews": "5"
     },
     {
-      "landingPage": "/category/eu5",
+      "landingPage": "/tools/eu4-trade-map",
       "sessions": "5",
       "activeUsers": "5",
-      "avgSessionDurationSec": "12.596507200000001",
-      "engagementRate": "0.2",
-      "pageViews": "9"
+      "avgSessionDurationSec": "1.1043318",
+      "engagementRate": "0",
+      "pageViews": "5"
     },
     {
       "landingPage": "/blog/best-eu4-dlc",
@@ -224,22 +240,6 @@
       "avgSessionDurationSec": "25.494018",
       "engagementRate": "0.25",
       "pageViews": "6"
-    },
-    {
-      "landingPage": "/blog/best-nations-eu5-1-4",
-      "sessions": "4",
-      "activeUsers": "4",
-      "avgSessionDurationSec": "0",
-      "engagementRate": "0",
-      "pageViews": "4"
-    },
-    {
-      "landingPage": "/blog/ck3-culture-faith-mechanics",
-      "sessions": "4",
-      "activeUsers": "4",
-      "avgSessionDurationSec": "0",
-      "engagementRate": "0",
-      "pageViews": "4"
     }
   ]
 }
