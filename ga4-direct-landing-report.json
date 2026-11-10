@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-10T14:02:01.697Z",
+  "generatedAt": "2026-11-10T22:54:02.315Z",
   "rows": [
     {
       "landingPage": "/",
       "sessions": "148",
       "activeUsers": "141",
-      "avgSessionDurationSec": "38.392610554054052",
+      "avgSessionDurationSec": "38.392610554054059",
       "engagementRate": "0.0945945945945946",
       "pageViews": "170"
     },
@@ -74,20 +74,20 @@
       "pageViews": "15"
     },
     {
+      "landingPage": "/blog/eu5-naval-warfare",
+      "sessions": "11",
+      "activeUsers": "11",
+      "avgSessionDurationSec": "400.84021618181816",
+      "engagementRate": "0.36363636363636365",
+      "pageViews": "20"
+    },
+    {
       "landingPage": "/blog/eu5-1-4-trade-tariffs-economy",
       "sessions": "10",
       "activeUsers": "10",
       "avgSessionDurationSec": "94.46894",
       "engagementRate": "0.3",
       "pageViews": "11"
-    },
-    {
-      "landingPage": "/blog/eu5-naval-warfare",
-      "sessions": "10",
-      "activeUsers": "10",
-      "avgSessionDurationSec": "440.9242378",
-      "engagementRate": "0.4",
-      "pageViews": "19"
     },
     {
       "landingPage": "/blog/eu5-new-players-path",
@@ -98,12 +98,20 @@
       "pageViews": "22"
     },
     {
+      "landingPage": "(not set)",
+      "sessions": "9",
+      "activeUsers": "7",
+      "avgSessionDurationSec": "133.34767655555555",
+      "engagementRate": "0.1111111111111111",
+      "pageViews": "0"
+    },
+    {
       "landingPage": "/blog/best-eu5-starting-nation",
       "sessions": "9",
       "activeUsers": "9",
-      "avgSessionDurationSec": "18.397262222222221",
+      "avgSessionDurationSec": "67.277541222222226",
       "engagementRate": "0.33333333333333331",
-      "pageViews": "11"
+      "pageViews": "16"
     },
     {
       "landingPage": "/blog/best-paradox-grand-strategy-game-for-beginners",
@@ -122,14 +130,6 @@
       "pageViews": "10"
     },
     {
-      "landingPage": "(not set)",
-      "sessions": "8",
-      "activeUsers": "7",
-      "avgSessionDurationSec": "150.016136125",
-      "engagementRate": "0.125",
-      "pageViews": "0"
-    },
-    {
       "landingPage": "/blog/eu4-government-reforms",
       "sessions": "8",
       "activeUsers": "6",
@@ -144,6 +144,22 @@
       "avgSessionDurationSec": "37.590663875000004",
       "engagementRate": "0.25",
       "pageViews": "10"
+    },
+    {
+      "landingPage": "/category/eu5",
+      "sessions": "8",
+      "activeUsers": "8",
+      "avgSessionDurationSec": "87.334588125",
+      "engagementRate": "0.375",
+      "pageViews": "16"
+    },
+    {
+      "landingPage": "/tools/eu4-trade-map",
+      "sessions": "8",
+      "activeUsers": "7",
+      "avgSessionDurationSec": "56.580101625",
+      "engagementRate": "0.25",
+      "pageViews": "9"
     },
     {
       "landingPage": "/blog/eu4-trade-companies-explained",
@@ -178,28 +194,12 @@
       "pageViews": "7"
     },
     {
-      "landingPage": "/category/eu5",
-      "sessions": "7",
-      "activeUsers": "7",
-      "avgSessionDurationSec": "86.067454428571423",
-      "engagementRate": "0.2857142857142857",
-      "pageViews": "13"
-    },
-    {
       "landingPage": "/newsletter",
       "sessions": "7",
       "activeUsers": "5",
-      "avgSessionDurationSec": "226.95745157142861",
+      "avgSessionDurationSec": "226.95745157142855",
       "engagementRate": "0.5714285714285714",
       "pageViews": "9"
-    },
-    {
-      "landingPage": "/tools/eu4-trade-map",
-      "sessions": "7",
-      "activeUsers": "6",
-      "avgSessionDurationSec": "64.662973285714287",
-      "engagementRate": "0.2857142857142857",
-      "pageViews": "8"
     },
     {
       "landingPage": "/blog/eu4-achievement-guide",
@@ -221,15 +221,15 @@
       "landingPage": "/blog/eu5-political-influence",
       "sessions": "6",
       "activeUsers": "6",
-      "avgSessionDurationSec": "11.925444999999998",
+      "avgSessionDurationSec": "432.96563366666663",
       "engagementRate": "0.5",
-      "pageViews": "7"
+      "pageViews": "12"
     },
     {
       "landingPage": "/blog/best-eu4-dlc",
       "sessions": "5",
       "activeUsers": "3",
-      "avgSessionDurationSec": "23.7443008",
+      "avgSessionDurationSec": "23.744300799999998",
       "engagementRate": "0.4",
       "pageViews": "8"
     },
