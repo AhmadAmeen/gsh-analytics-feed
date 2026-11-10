@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-09T14:49:52.102Z",
+  "generatedAt": "2026-11-10T01:13:52.652Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "147",
-      "activeUsers": "140",
-      "avgSessionDurationSec": "44.741232312925163",
-      "engagementRate": "0.095238095238095233",
-      "pageViews": "177"
+      "sessions": "152",
+      "activeUsers": "144",
+      "avgSessionDurationSec": "60.702107",
+      "engagementRate": "0.10526315789473684",
+      "pageViews": "185"
     },
     {
       "landingPage": "/blog/eu5-army-composition",
-      "sessions": "17",
-      "activeUsers": "17",
-      "avgSessionDurationSec": "47.52199664705882",
-      "engagementRate": "0.17647058823529413",
-      "pageViews": "18"
+      "sessions": "18",
+      "activeUsers": "18",
+      "avgSessionDurationSec": "45.986565833333337",
+      "engagementRate": "0.22222222222222221",
+      "pageViews": "22"
     },
     {
       "landingPage": "/blog/ck3-dlc-guide",
@@ -42,6 +42,14 @@
       "pageViews": "12"
     },
     {
+      "landingPage": "/blog/eu5-subjects-guide",
+      "sessions": "12",
+      "activeUsers": "11",
+      "avgSessionDurationSec": "184.71743800000002",
+      "engagementRate": "0.41666666666666669",
+      "pageViews": "16"
+    },
+    {
       "landingPage": "/blog/best-eu4-mods-2026",
       "sessions": "11",
       "activeUsers": "11",
@@ -50,12 +58,12 @@
       "pageViews": "15"
     },
     {
-      "landingPage": "/blog/eu5-subjects-guide",
+      "landingPage": "/blog/eu5-patch-1-4-rio-salado-patch-notes",
       "sessions": "11",
-      "activeUsers": "10",
-      "avgSessionDurationSec": "200.459037",
-      "engagementRate": "0.36363636363636365",
-      "pageViews": "15"
+      "activeUsers": "11",
+      "avgSessionDurationSec": "2.9887740909090907",
+      "engagementRate": "0.090909090909090912",
+      "pageViews": "12"
     },
     {
       "landingPage": "/blog/ck3-best-starting-character",
@@ -77,17 +85,41 @@
       "landingPage": "/blog/eu5-naval-warfare",
       "sessions": "10",
       "activeUsers": "10",
-      "avgSessionDurationSec": "179.4213307",
+      "avgSessionDurationSec": "440.9242378",
       "engagementRate": "0.4",
-      "pageViews": "17"
+      "pageViews": "19"
     },
     {
-      "landingPage": "/blog/eu5-patch-1-4-rio-salado-patch-notes",
+      "landingPage": "/blog/eu5-new-players-path",
       "sessions": "10",
       "activeUsers": "10",
-      "avgSessionDurationSec": "1.5111504999999998",
+      "avgSessionDurationSec": "348.9979647",
+      "engagementRate": "0.5",
+      "pageViews": "28"
+    },
+    {
+      "landingPage": "(not set)",
+      "sessions": "9",
+      "activeUsers": "7",
+      "avgSessionDurationSec": "366.95600766666666",
+      "engagementRate": "0.22222222222222221",
+      "pageViews": "0"
+    },
+    {
+      "landingPage": "/blog/best-eu5-starting-nation",
+      "sessions": "9",
+      "activeUsers": "9",
+      "avgSessionDurationSec": "18.397262222222221",
+      "engagementRate": "0.33333333333333331",
+      "pageViews": "11"
+    },
+    {
+      "landingPage": "/blog/best-paradox-grand-strategy-game-for-beginners",
+      "sessions": "9",
+      "activeUsers": "9",
+      "avgSessionDurationSec": "2.1475996666666664",
       "engagementRate": "0",
-      "pageViews": "10"
+      "pageViews": "9"
     },
     {
       "landingPage": "/blog/eu5-most-profitable-buildings",
@@ -98,28 +130,12 @@
       "pageViews": "10"
     },
     {
-      "landingPage": "/blog/eu5-new-players-path",
-      "sessions": "9",
-      "activeUsers": "9",
-      "avgSessionDurationSec": "379.374073",
-      "engagementRate": "0.44444444444444442",
-      "pageViews": "27"
-    },
-    {
-      "landingPage": "(not set)",
+      "landingPage": "/blog/eu4-government-reforms",
       "sessions": "8",
       "activeUsers": "6",
-      "avgSessionDurationSec": "412.825508625",
-      "engagementRate": "0.25",
-      "pageViews": "0"
-    },
-    {
-      "landingPage": "/blog/best-paradox-grand-strategy-game-for-beginners",
-      "sessions": "8",
-      "activeUsers": "8",
-      "avgSessionDurationSec": "1.621159625",
-      "engagementRate": "0",
-      "pageViews": "8"
+      "avgSessionDurationSec": "3.0935550000000003",
+      "engagementRate": "0.125",
+      "pageViews": "9"
     },
     {
       "landingPage": "/blog/eu5-trade-guide",
@@ -128,22 +144,6 @@
       "avgSessionDurationSec": "37.590663875000004",
       "engagementRate": "0.25",
       "pageViews": "10"
-    },
-    {
-      "landingPage": "/blog/best-eu5-starting-nation",
-      "sessions": "7",
-      "activeUsers": "7",
-      "avgSessionDurationSec": "2.3938781428571434",
-      "engagementRate": "0.14285714285714285",
-      "pageViews": "7"
-    },
-    {
-      "landingPage": "/blog/eu4-government-reforms",
-      "sessions": "7",
-      "activeUsers": "5",
-      "avgSessionDurationSec": "0.89590857142857139",
-      "engagementRate": "0",
-      "pageViews": "7"
     },
     {
       "landingPage": "/blog/eu5-1-4-cardinals-crusades-religious-orders",
@@ -157,9 +157,49 @@
       "landingPage": "/blog/eu5-loans-government-bonds",
       "sessions": "7",
       "activeUsers": "7",
-      "avgSessionDurationSec": "133.2914785714286",
+      "avgSessionDurationSec": "133.29147857142857",
       "engagementRate": "0.2857142857142857",
       "pageViews": "12"
+    },
+    {
+      "landingPage": "/blog/eu5-pop-system",
+      "sessions": "7",
+      "activeUsers": "7",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "7"
+    },
+    {
+      "landingPage": "/category/eu5",
+      "sessions": "7",
+      "activeUsers": "7",
+      "avgSessionDurationSec": "86.067454428571423",
+      "engagementRate": "0.2857142857142857",
+      "pageViews": "13"
+    },
+    {
+      "landingPage": "/newsletter",
+      "sessions": "7",
+      "activeUsers": "5",
+      "avgSessionDurationSec": "226.95745157142861",
+      "engagementRate": "0.5714285714285714",
+      "pageViews": "9"
+    },
+    {
+      "landingPage": "/tools/eu4-trade-map",
+      "sessions": "7",
+      "activeUsers": "6",
+      "avgSessionDurationSec": "64.662973285714287",
+      "engagementRate": "0.2857142857142857",
+      "pageViews": "8"
+    },
+    {
+      "landingPage": "/blog/best-eu4-dlc",
+      "sessions": "6",
+      "activeUsers": "4",
+      "avgSessionDurationSec": "19.786917333333335",
+      "engagementRate": "0.33333333333333331",
+      "pageViews": "9"
     },
     {
       "landingPage": "/blog/eu4-achievement-guide",
@@ -186,35 +226,11 @@
       "pageViews": "6"
     },
     {
-      "landingPage": "/blog/eu5-pop-system",
-      "sessions": "6",
-      "activeUsers": "6",
-      "avgSessionDurationSec": "0",
-      "engagementRate": "0",
-      "pageViews": "6"
-    },
-    {
-      "landingPage": "/category/eu5",
-      "sessions": "6",
-      "activeUsers": "6",
-      "avgSessionDurationSec": "10.497089333333333",
-      "engagementRate": "0.16666666666666666",
-      "pageViews": "10"
-    },
-    {
-      "landingPage": "/newsletter",
-      "sessions": "6",
-      "activeUsers": "4",
-      "avgSessionDurationSec": "261.62364983333333",
-      "engagementRate": "0.5",
-      "pageViews": "7"
-    },
-    {
-      "landingPage": "/tools/eu4-trade-map",
-      "sessions": "6",
+      "landingPage": "/blog/best-nations-eu5-1-4",
+      "sessions": "5",
       "activeUsers": "5",
-      "avgSessionDurationSec": "0.92027649999999994",
-      "engagementRate": "0",
+      "avgSessionDurationSec": "3.550893",
+      "engagementRate": "0.2",
       "pageViews": "6"
     },
     {
@@ -224,22 +240,6 @@
       "avgSessionDurationSec": "0",
       "engagementRate": "0",
       "pageViews": "5"
-    },
-    {
-      "landingPage": "/blog/ck3-intrigue-guide",
-      "sessions": "5",
-      "activeUsers": "5",
-      "avgSessionDurationSec": "0.9333376",
-      "engagementRate": "0",
-      "pageViews": "5"
-    },
-    {
-      "landingPage": "/blog/best-eu4-dlc",
-      "sessions": "4",
-      "activeUsers": "2",
-      "avgSessionDurationSec": "25.494018",
-      "engagementRate": "0.25",
-      "pageViews": "6"
     }
   ]
 }
