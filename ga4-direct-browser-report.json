@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-11-10T22:54:02.774Z",
+  "generatedAt": "2026-11-11T13:19:12.606Z",
   "rows": [
     {
       "browser": "Chrome",
-      "sessions": "388",
-      "activeUsers": "369",
-      "avgSessionDurationSec": "41.873671487113405",
-      "engagedSessions": "57",
-      "engagementRate": "0.14690721649484537"
+      "sessions": "397",
+      "activeUsers": "374",
+      "avgSessionDurationSec": "42.819143090680093",
+      "engagedSessions": "61",
+      "engagementRate": "0.15365239294710328"
     },
     {
       "browser": "Safari",
-      "sessions": "63",
-      "activeUsers": "55",
-      "avgSessionDurationSec": "95.589532015873019",
+      "sessions": "62",
+      "activeUsers": "54",
+      "avgSessionDurationSec": "97.131298661290316",
       "engagedSessions": "13",
-      "engagementRate": "0.20634920634920634"
+      "engagementRate": "0.20967741935483872"
     },
     {
       "browser": "Edge",
-      "sessions": "34",
-      "activeUsers": "28",
-      "avgSessionDurationSec": "147.3591995",
+      "sessions": "33",
+      "activeUsers": "27",
+      "avgSessionDurationSec": "151.82462978787879",
       "engagedSessions": "11",
-      "engagementRate": "0.3235294117647059"
+      "engagementRate": "0.33333333333333331"
     },
     {
       "browser": "Firefox",
@@ -35,8 +35,8 @@
     },
     {
       "browser": "(not set)",
-      "sessions": "12",
-      "activeUsers": "12",
+      "sessions": "13",
+      "activeUsers": "13",
       "avgSessionDurationSec": "0",
       "engagedSessions": "0",
       "engagementRate": "0"
@@ -51,11 +51,19 @@
     },
     {
       "browser": "Android Webview",
+      "sessions": "5",
+      "activeUsers": "4",
+      "avgSessionDurationSec": "218.71252639999997",
+      "engagedSessions": "2",
+      "engagementRate": "0.4"
+    },
+    {
+      "browser": "Safari (in-app)",
       "sessions": "4",
       "activeUsers": "4",
-      "avgSessionDurationSec": "273.390658",
-      "engagedSessions": "2",
-      "engagementRate": "0.5"
+      "avgSessionDurationSec": "0",
+      "engagedSessions": "0",
+      "engagementRate": "0"
     },
     {
       "browser": "Opera",
@@ -64,14 +72,6 @@
       "avgSessionDurationSec": "27.062184333333335",
       "engagedSessions": "1",
       "engagementRate": "0.33333333333333331"
-    },
-    {
-      "browser": "Safari (in-app)",
-      "sessions": "3",
-      "activeUsers": "3",
-      "avgSessionDurationSec": "0",
-      "engagedSessions": "0",
-      "engagementRate": "0"
     }
   ]
 }
