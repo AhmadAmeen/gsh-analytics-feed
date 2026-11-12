@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T14:23:50.732Z",
+  "generatedAt": "2026-11-12T23:15:57.872Z",
   "rows": [
     {
       "landingPage": "/",
@@ -19,11 +19,11 @@
     },
     {
       "landingPage": "/blog/eu5-naval-warfare",
-      "sessions": "14",
+      "sessions": "15",
       "activeUsers": "12",
-      "avgSessionDurationSec": "314.94588414285715",
-      "engagementRate": "0.2857142857142857",
-      "pageViews": "23"
+      "avgSessionDurationSec": "293.94949186666668",
+      "engagementRate": "0.26666666666666666",
+      "pageViews": "24"
     },
     {
       "landingPage": "/blog/eu5-estate-private-armies",
@@ -74,6 +74,14 @@
       "pageViews": "15"
     },
     {
+      "landingPage": "/blog/ck3-dlc-guide",
+      "sessions": "11",
+      "activeUsers": "11",
+      "avgSessionDurationSec": "39.965587636363637",
+      "engagementRate": "0.18181818181818182",
+      "pageViews": "13"
+    },
+    {
       "landingPage": "/blog/eu5-most-profitable-buildings",
       "sessions": "11",
       "activeUsers": "11",
@@ -96,14 +104,6 @@
       "avgSessionDurationSec": "120.0129089",
       "engagementRate": "0.1",
       "pageViews": "0"
-    },
-    {
-      "landingPage": "/blog/ck3-dlc-guide",
-      "sessions": "10",
-      "activeUsers": "10",
-      "avgSessionDurationSec": "43.9621464",
-      "engagementRate": "0.2",
-      "pageViews": "12"
     },
     {
       "landingPage": "/blog/eu5-1-4-trade-tariffs-economy",
@@ -138,20 +138,20 @@
       "pageViews": "16"
     },
     {
+      "landingPage": "/blog/best-paradox-grand-strategy-game-for-beginners",
+      "sessions": "9",
+      "activeUsers": "9",
+      "avgSessionDurationSec": "2.001155666666667",
+      "engagementRate": "0",
+      "pageViews": "9"
+    },
+    {
       "landingPage": "/blog/eu4-government-reforms",
       "sessions": "9",
       "activeUsers": "7",
       "avgSessionDurationSec": "2.7498266666666669",
       "engagementRate": "0.1111111111111111",
       "pageViews": "10"
-    },
-    {
-      "landingPage": "/blog/best-paradox-grand-strategy-game-for-beginners",
-      "sessions": "8",
-      "activeUsers": "8",
-      "avgSessionDurationSec": "2.251300125",
-      "engagementRate": "0",
-      "pageViews": "8"
     },
     {
       "landingPage": "/blog/eu4-trade-companies-explained",
@@ -194,6 +194,14 @@
       "pageViews": "7"
     },
     {
+      "landingPage": "/blog/paradox-games-prestige-explained",
+      "sessions": "7",
+      "activeUsers": "7",
+      "avgSessionDurationSec": "2.3228681428571427",
+      "engagementRate": "0.14285714285714285",
+      "pageViews": "7"
+    },
+    {
       "landingPage": "/blog/eu4-achievement-guide",
       "sessions": "6",
       "activeUsers": "5",
@@ -232,14 +240,6 @@
       "avgSessionDurationSec": "23.744300799999998",
       "engagementRate": "0.4",
       "pageViews": "8"
-    },
-    {
-      "landingPage": "/blog/best-nations-eu5-1-4",
-      "sessions": "5",
-      "activeUsers": "5",
-      "avgSessionDurationSec": "3.550893",
-      "engagementRate": "0.2",
-      "pageViews": "6"
     }
   ]
 }
