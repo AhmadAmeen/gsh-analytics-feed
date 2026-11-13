@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-12T23:15:57.872Z",
+  "generatedAt": "2026-11-13T23:18:03.459Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "156",
-      "activeUsers": "147",
-      "avgSessionDurationSec": "37.616273032051282",
-      "engagementRate": "0.10256410256410256",
-      "pageViews": "180"
+      "sessions": "154",
+      "activeUsers": "145",
+      "avgSessionDurationSec": "38.104796058441558",
+      "engagementRate": "0.1038961038961039",
+      "pageViews": "178"
     },
     {
       "landingPage": "/blog/eu5-army-composition",
@@ -19,27 +19,27 @@
     },
     {
       "landingPage": "/blog/eu5-naval-warfare",
-      "sessions": "15",
+      "sessions": "17",
       "activeUsers": "12",
-      "avgSessionDurationSec": "293.94949186666668",
-      "engagementRate": "0.26666666666666666",
-      "pageViews": "24"
+      "avgSessionDurationSec": "259.36719870588234",
+      "engagementRate": "0.23529411764705882",
+      "pageViews": "26"
     },
     {
-      "landingPage": "/blog/eu5-estate-private-armies",
-      "sessions": "13",
-      "activeUsers": "13",
-      "avgSessionDurationSec": "17.22576823076923",
-      "engagementRate": "0.30769230769230771",
+      "landingPage": "/blog/ck3-dlc-guide",
+      "sessions": "12",
+      "activeUsers": "12",
+      "avgSessionDurationSec": "37.627829333333331",
+      "engagementRate": "0.25",
       "pageViews": "14"
     },
     {
-      "landingPage": "/blog/ck3-china-guide-mandate-of-heaven",
+      "landingPage": "/blog/eu5-estate-private-armies",
       "sessions": "12",
       "activeUsers": "12",
-      "avgSessionDurationSec": "2.23409025",
-      "engagementRate": "0.16666666666666666",
-      "pageViews": "12"
+      "avgSessionDurationSec": "18.499004083333336",
+      "engagementRate": "0.33333333333333331",
+      "pageViews": "13"
     },
     {
       "landingPage": "/blog/eu5-patch-1-4-rio-salado-patch-notes",
@@ -74,14 +74,6 @@
       "pageViews": "15"
     },
     {
-      "landingPage": "/blog/ck3-dlc-guide",
-      "sessions": "11",
-      "activeUsers": "11",
-      "avgSessionDurationSec": "39.965587636363637",
-      "engagementRate": "0.18181818181818182",
-      "pageViews": "13"
-    },
-    {
       "landingPage": "/blog/eu5-most-profitable-buildings",
       "sessions": "11",
       "activeUsers": "11",
@@ -106,11 +98,11 @@
       "pageViews": "0"
     },
     {
-      "landingPage": "/blog/eu5-1-4-trade-tariffs-economy",
+      "landingPage": "/blog/eu4-government-reforms",
       "sessions": "10",
-      "activeUsers": "10",
-      "avgSessionDurationSec": "94.46894",
-      "engagementRate": "0.3",
+      "activeUsers": "8",
+      "avgSessionDurationSec": "2.474844",
+      "engagementRate": "0.1",
       "pageViews": "11"
     },
     {
@@ -141,17 +133,33 @@
       "landingPage": "/blog/best-paradox-grand-strategy-game-for-beginners",
       "sessions": "9",
       "activeUsers": "9",
-      "avgSessionDurationSec": "2.001155666666667",
-      "engagementRate": "0",
+      "avgSessionDurationSec": "2.6649095555555555",
+      "engagementRate": "0.1111111111111111",
       "pageViews": "9"
     },
     {
-      "landingPage": "/blog/eu4-government-reforms",
+      "landingPage": "/blog/eu5-1-4-trade-tariffs-economy",
       "sessions": "9",
-      "activeUsers": "7",
-      "avgSessionDurationSec": "2.7498266666666669",
-      "engagementRate": "0.1111111111111111",
+      "activeUsers": "9",
+      "avgSessionDurationSec": "104.74573277777777",
+      "engagementRate": "0.33333333333333331",
       "pageViews": "10"
+    },
+    {
+      "landingPage": "/blog/eu5-trade-guide",
+      "sessions": "9",
+      "activeUsers": "9",
+      "avgSessionDurationSec": "33.41392344444445",
+      "engagementRate": "0.22222222222222221",
+      "pageViews": "11"
+    },
+    {
+      "landingPage": "/blog/ck3-china-guide-mandate-of-heaven",
+      "sessions": "8",
+      "activeUsers": "8",
+      "avgSessionDurationSec": "1.384144125",
+      "engagementRate": "0.125",
+      "pageViews": "8"
     },
     {
       "landingPage": "/blog/eu4-trade-companies-explained",
@@ -168,14 +176,6 @@
       "avgSessionDurationSec": "2.214479875",
       "engagementRate": "0.125",
       "pageViews": "8"
-    },
-    {
-      "landingPage": "/blog/eu5-trade-guide",
-      "sessions": "8",
-      "activeUsers": "8",
-      "avgSessionDurationSec": "37.590663875000004",
-      "engagementRate": "0.25",
-      "pageViews": "10"
     },
     {
       "landingPage": "/newsletter",
@@ -202,6 +202,30 @@
       "pageViews": "7"
     },
     {
+      "landingPage": "/history-videos",
+      "sessions": "7",
+      "activeUsers": "7",
+      "avgSessionDurationSec": "5.9918632857142864",
+      "engagementRate": "0.2857142857142857",
+      "pageViews": "8"
+    },
+    {
+      "landingPage": "/blog/best-eu4-dlc",
+      "sessions": "6",
+      "activeUsers": "4",
+      "avgSessionDurationSec": "19.786917333333331",
+      "engagementRate": "0.33333333333333331",
+      "pageViews": "9"
+    },
+    {
+      "landingPage": "/blog/ck3-intrigue-guide",
+      "sessions": "6",
+      "activeUsers": "6",
+      "avgSessionDurationSec": "0.77778133333333332",
+      "engagementRate": "0",
+      "pageViews": "6"
+    },
+    {
       "landingPage": "/blog/eu4-achievement-guide",
       "sessions": "6",
       "activeUsers": "5",
@@ -216,30 +240,6 @@
       "avgSessionDurationSec": "0.053726833333333335",
       "engagementRate": "0",
       "pageViews": "6"
-    },
-    {
-      "landingPage": "/blog/eu5-political-influence",
-      "sessions": "6",
-      "activeUsers": "6",
-      "avgSessionDurationSec": "432.96563366666663",
-      "engagementRate": "0.5",
-      "pageViews": "12"
-    },
-    {
-      "landingPage": "/history-videos",
-      "sessions": "6",
-      "activeUsers": "6",
-      "avgSessionDurationSec": "4.8395476666666664",
-      "engagementRate": "0.16666666666666666",
-      "pageViews": "7"
-    },
-    {
-      "landingPage": "/blog/best-eu4-dlc",
-      "sessions": "5",
-      "activeUsers": "3",
-      "avgSessionDurationSec": "23.744300799999998",
-      "engagementRate": "0.4",
-      "pageViews": "8"
     }
   ]
 }
