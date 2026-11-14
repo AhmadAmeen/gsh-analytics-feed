@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T12:47:43.526Z",
+  "generatedAt": "2026-11-14T22:01:23.446Z",
   "rows": [
     {
       "landingPage": "/",
@@ -26,20 +26,20 @@
       "pageViews": "33"
     },
     {
+      "landingPage": "/blog/eu5-1-4-trade-tariffs-economy",
+      "sessions": "13",
+      "activeUsers": "13",
+      "avgSessionDurationSec": "73.523271769230774",
+      "engagementRate": "0.23076923076923078",
+      "pageViews": "14"
+    },
+    {
       "landingPage": "/blog/ck3-best-starting-character",
       "sessions": "12",
       "activeUsers": "12",
       "avgSessionDurationSec": "80.385669833333324",
       "engagementRate": "0.33333333333333331",
       "pageViews": "16"
-    },
-    {
-      "landingPage": "/blog/eu5-1-4-trade-tariffs-economy",
-      "sessions": "12",
-      "activeUsers": "12",
-      "avgSessionDurationSec": "78.956861916666668",
-      "engagementRate": "0.25",
-      "pageViews": "13"
     },
     {
       "landingPage": "/blog/eu5-patch-1-4-rio-salado-patch-notes",
@@ -130,6 +130,14 @@
       "pageViews": "9"
     },
     {
+      "landingPage": "/blog/eu5-most-profitable-buildings",
+      "sessions": "9",
+      "activeUsers": "9",
+      "avgSessionDurationSec": "225.60481055555556",
+      "engagementRate": "0.44444444444444442",
+      "pageViews": "11"
+    },
+    {
       "landingPage": "/category/eu5",
       "sessions": "9",
       "activeUsers": "9",
@@ -152,14 +160,6 @@
       "avgSessionDurationSec": "1.912720125",
       "engagementRate": "0.125",
       "pageViews": "8"
-    },
-    {
-      "landingPage": "/blog/eu5-most-profitable-buildings",
-      "sessions": "8",
-      "activeUsers": "8",
-      "avgSessionDurationSec": "153.714098",
-      "engagementRate": "0.375",
-      "pageViews": "9"
     },
     {
       "landingPage": "/newsletter",
