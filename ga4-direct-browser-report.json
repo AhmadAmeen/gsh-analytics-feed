@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-11-13T23:18:03.807Z",
+  "generatedAt": "2026-11-14T12:47:43.911Z",
   "rows": [
     {
       "browser": "Chrome",
-      "sessions": "425",
-      "activeUsers": "394",
-      "avgSessionDurationSec": "40.800311882352936",
-      "engagedSessions": "64",
-      "engagementRate": "0.15058823529411763"
+      "sessions": "405",
+      "activeUsers": "376",
+      "avgSessionDurationSec": "44.654945288888882",
+      "engagedSessions": "63",
+      "engagementRate": "0.15555555555555556"
     },
     {
       "browser": "Safari",
-      "sessions": "60",
-      "activeUsers": "52",
-      "avgSessionDurationSec": "100.36900861666666",
-      "engagedSessions": "13",
-      "engagementRate": "0.21666666666666667"
+      "sessions": "63",
+      "activeUsers": "55",
+      "avgSessionDurationSec": "96.972797920634918",
+      "engagedSessions": "14",
+      "engagementRate": "0.22222222222222221"
     },
     {
       "browser": "Edge",
-      "sessions": "35",
-      "activeUsers": "27",
-      "avgSessionDurationSec": "143.14893665714285",
+      "sessions": "32",
+      "activeUsers": "26",
+      "avgSessionDurationSec": "156.56914946875",
       "engagedSessions": "11",
-      "engagementRate": "0.31428571428571428"
+      "engagementRate": "0.34375"
     },
     {
       "browser": "Firefox",
@@ -35,8 +35,8 @@
     },
     {
       "browser": "(not set)",
-      "sessions": "13",
-      "activeUsers": "13",
+      "sessions": "15",
+      "activeUsers": "15",
       "avgSessionDurationSec": "0",
       "engagedSessions": "0",
       "engagementRate": "0"
@@ -67,19 +67,19 @@
     },
     {
       "browser": "Opera",
-      "sessions": "3",
-      "activeUsers": "3",
-      "avgSessionDurationSec": "27.062184333333335",
-      "engagedSessions": "1",
-      "engagementRate": "0.33333333333333331"
+      "sessions": "2",
+      "activeUsers": "2",
+      "avgSessionDurationSec": "0",
+      "engagedSessions": "0",
+      "engagementRate": "0"
     },
     {
       "browser": "YaBrowser",
-      "sessions": "2",
-      "activeUsers": "2",
-      "avgSessionDurationSec": "90.793342",
+      "sessions": "1",
+      "activeUsers": "1",
+      "avgSessionDurationSec": "181.586684",
       "engagedSessions": "1",
-      "engagementRate": "0.5"
+      "engagementRate": "1"
     }
   ]
 }

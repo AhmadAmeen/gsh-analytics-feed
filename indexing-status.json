@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-13T23:18:40.977Z",
-  "checked": 89,
+  "generatedAt": "2026-11-14T12:48:21.942Z",
+  "checked": 90,
   "indexed": 0,
   "crawledNotIndexed": 0,
   "discoveredNotIndexed": 0,
   "unknownToGoogle": 0,
   "other": 0,
-  "errors": 89,
+  "errors": 90,
   "rows": [
     {
       "url": "https://grand-strategy-hub.com/",
@@ -315,6 +315,11 @@
     },
     {
       "url": "https://grand-strategy-hub.com/blog/eu5-subjects-guide/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
+    },
+    {
+      "url": "https://grand-strategy-hub.com/blog/eu5-tariffs-guide/",
       "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
       "category": "error"
     },

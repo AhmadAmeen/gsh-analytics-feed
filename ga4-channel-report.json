@@ -1,47 +1,40 @@
 {
-  "generatedAt": "2026-11-13T23:18:03.016Z",
+  "generatedAt": "2026-11-14T12:47:43.038Z",
   "rows": [
     {
       "channel": "Organic Search",
-      "sessions": "1435",
-      "engagedSessions": "811",
-      "engagementRate": "0.56515679442508715",
-      "avgSessionDurationSec": "174.7495746891986"
+      "sessions": "1346",
+      "engagedSessions": "756",
+      "engagementRate": "0.56166419019316494",
+      "avgSessionDurationSec": "179.07063493313521"
     },
     {
       "channel": "Direct",
-      "sessions": "571",
-      "engagedSessions": "99",
-      "engagementRate": "0.1733800350262697",
-      "avgSessionDurationSec": "55.159775180385289"
+      "sessions": "551",
+      "engagedSessions": "98",
+      "engagementRate": "0.17785843920145192",
+      "avgSessionDurationSec": "58.52506555172414"
     },
     {
       "channel": "Organic Social",
-      "sessions": "167",
-      "engagedSessions": "59",
-      "engagementRate": "0.3532934131736527",
-      "avgSessionDurationSec": "71.269563982035947"
+      "sessions": "164",
+      "engagedSessions": "57",
+      "engagementRate": "0.34756097560975607",
+      "avgSessionDurationSec": "71.1902880914634"
     },
     {
       "channel": "AI Assistant",
-      "sessions": "44",
-      "engagedSessions": "26",
-      "engagementRate": "0.59090909090909094",
-      "avgSessionDurationSec": "295.42796050000004"
+      "sessions": "39",
+      "engagedSessions": "23",
+      "engagementRate": "0.58974358974358976",
+      "avgSessionDurationSec": "327.55070079487177"
     },
     {
       "channel": "Referral",
-      "sessions": "34",
-      "engagedSessions": "27",
-      "engagementRate": "0.79411764705882348",
-      "avgSessionDurationSec": "467.64894097058823"
-    },
-    {
-      "channel": "Unassigned",
-      "sessions": "26",
-      "engagedSessions": "1",
-      "engagementRate": "0.038461538461538464",
-      "avgSessionDurationSec": "104.69609507692306"
+      "sessions": "33",
+      "engagedSessions": "24",
+      "engagementRate": "0.72727272727272729",
+      "avgSessionDurationSec": "447.517997939394"
     },
     {
       "channel": "Organic Video",
@@ -49,6 +42,13 @@
       "engagedSessions": "4",
       "engagementRate": "0.21052631578947367",
       "avgSessionDurationSec": "325.284412"
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": "14",
+      "engagedSessions": "1",
+      "engagementRate": "0.071428571428571425",
+      "avgSessionDurationSec": "140.2149032142857"
     },
     {
       "channel": "Cross-network",
