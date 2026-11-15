@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-14T22:02:03.850Z",
-  "checked": 90,
+  "generatedAt": "2026-11-15T13:15:06.692Z",
+  "checked": 91,
   "indexed": 0,
   "crawledNotIndexed": 0,
   "discoveredNotIndexed": 0,
   "unknownToGoogle": 0,
   "other": 0,
-  "errors": 90,
+  "errors": 91,
   "rows": [
     {
       "url": "https://grand-strategy-hub.com/",
@@ -185,6 +185,11 @@
     },
     {
       "url": "https://grand-strategy-hub.com/blog/eu5-1-4-trade-tariffs-economy/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
+    },
+    {
+      "url": "https://grand-strategy-hub.com/blog/eu5-achievements-guide/",
       "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
       "category": "error"
     },
