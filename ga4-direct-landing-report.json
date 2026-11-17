@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-17T01:39:10.709Z",
+  "generatedAt": "2026-11-17T15:17:21.613Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "156",
-      "activeUsers": "147",
-      "avgSessionDurationSec": "48.621997993589744",
-      "engagementRate": "0.10256410256410256",
-      "pageViews": "180"
+      "sessions": "152",
+      "activeUsers": "143",
+      "avgSessionDurationSec": "49.818245736842108",
+      "engagementRate": "0.098684210526315791",
+      "pageViews": "175"
     },
     {
       "landingPage": "/blog/eu5-naval-warfare",
@@ -19,11 +19,11 @@
     },
     {
       "landingPage": "/blog/eu5-army-composition",
-      "sessions": "19",
-      "activeUsers": "19",
-      "avgSessionDurationSec": "37.573560052631571",
-      "engagementRate": "0.15789473684210525",
-      "pageViews": "23"
+      "sessions": "17",
+      "activeUsers": "17",
+      "avgSessionDurationSec": "41.993978882352934",
+      "engagementRate": "0.17647058823529413",
+      "pageViews": "21"
     },
     {
       "landingPage": "/blog/eu5-1-4-trade-tariffs-economy",
@@ -42,6 +42,14 @@
       "pageViews": "0"
     },
     {
+      "landingPage": "/blog/ck3-dlc-guide",
+      "sessions": "14",
+      "activeUsers": "14",
+      "avgSessionDurationSec": "32.725284928571426",
+      "engagementRate": "0.2857142857142857",
+      "pageViews": "17"
+    },
+    {
       "landingPage": "/blog/eu5-estate-private-armies",
       "sessions": "13",
       "activeUsers": "13",
@@ -56,14 +64,6 @@
       "avgSessionDurationSec": "80.385669833333324",
       "engagementRate": "0.33333333333333331",
       "pageViews": "16"
-    },
-    {
-      "landingPage": "/blog/ck3-dlc-guide",
-      "sessions": "12",
-      "activeUsers": "12",
-      "avgSessionDurationSec": "38.179499083333333",
-      "engagementRate": "0.33333333333333331",
-      "pageViews": "15"
     },
     {
       "landingPage": "/blog/eu5-most-profitable-buildings",
@@ -186,14 +186,6 @@
       "pageViews": "7"
     },
     {
-      "landingPage": "/blog/eu4-trade-companies-explained",
-      "sessions": "7",
-      "activeUsers": "7",
-      "avgSessionDurationSec": "2.1859658571428571",
-      "engagementRate": "0.14285714285714285",
-      "pageViews": "7"
-    },
-    {
       "landingPage": "/blog/paradox-games-prestige-explained",
       "sessions": "7",
       "activeUsers": "7",
@@ -240,6 +232,14 @@
       "avgSessionDurationSec": "462.66051233333332",
       "engagementRate": "0.66666666666666663",
       "pageViews": "12"
+    },
+    {
+      "landingPage": "/blog/eu5-pop-system",
+      "sessions": "6",
+      "activeUsers": "6",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "6"
     }
   ]
 }

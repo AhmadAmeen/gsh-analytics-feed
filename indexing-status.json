@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-17T01:39:51.434Z",
-  "checked": 91,
+  "generatedAt": "2026-11-17T15:18:05.293Z",
+  "checked": 93,
   "indexed": 0,
   "crawledNotIndexed": 0,
   "discoveredNotIndexed": 0,
   "unknownToGoogle": 0,
   "other": 0,
-  "errors": 91,
+  "errors": 93,
   "rows": [
     {
       "url": "https://grand-strategy-hub.com/",
@@ -95,6 +95,11 @@
     },
     {
       "url": "https://grand-strategy-hub.com/blog/ck3-renown-prestige-guide/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
+    },
+    {
+      "url": "https://grand-strategy-hub.com/blog/ck3-silk-and-silver-launch-day/",
       "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
       "category": "error"
     },
@@ -210,6 +215,11 @@
     },
     {
       "url": "https://grand-strategy-hub.com/blog/eu5-cabinet-courtiers-explained/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
+    },
+    {
+      "url": "https://grand-strategy-hub.com/blog/eu5-casus-belli-guide/",
       "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
       "category": "error"
     },
