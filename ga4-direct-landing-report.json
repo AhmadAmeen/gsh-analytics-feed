@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-17T15:17:21.613Z",
+  "generatedAt": "2026-11-18T00:37:09.343Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "152",
-      "activeUsers": "143",
-      "avgSessionDurationSec": "49.818245736842108",
-      "engagementRate": "0.098684210526315791",
-      "pageViews": "175"
+      "sessions": "155",
+      "activeUsers": "146",
+      "avgSessionDurationSec": "48.93738895483871",
+      "engagementRate": "0.1032258064516129",
+      "pageViews": "179"
     },
     {
       "landingPage": "/blog/eu5-naval-warfare",
@@ -19,17 +19,17 @@
     },
     {
       "landingPage": "/blog/eu5-army-composition",
-      "sessions": "17",
-      "activeUsers": "17",
-      "avgSessionDurationSec": "41.993978882352934",
-      "engagementRate": "0.17647058823529413",
-      "pageViews": "21"
+      "sessions": "19",
+      "activeUsers": "19",
+      "avgSessionDurationSec": "39.342093631578948",
+      "engagementRate": "0.26315789473684209",
+      "pageViews": "23"
     },
     {
       "landingPage": "/blog/eu5-1-4-trade-tariffs-economy",
       "sessions": "15",
       "activeUsers": "15",
-      "avgSessionDurationSec": "99.54032273333334",
+      "avgSessionDurationSec": "99.540322733333326",
       "engagementRate": "0.26666666666666666",
       "pageViews": "25"
     },
@@ -50,20 +50,20 @@
       "pageViews": "17"
     },
     {
+      "landingPage": "/blog/ck3-best-starting-character",
+      "sessions": "13",
+      "activeUsers": "13",
+      "avgSessionDurationSec": "74.202156769230768",
+      "engagementRate": "0.30769230769230771",
+      "pageViews": "17"
+    },
+    {
       "landingPage": "/blog/eu5-estate-private-armies",
       "sessions": "13",
       "activeUsers": "13",
       "avgSessionDurationSec": "113.79474261538462",
       "engagementRate": "0.30769230769230771",
       "pageViews": "14"
-    },
-    {
-      "landingPage": "/blog/ck3-best-starting-character",
-      "sessions": "12",
-      "activeUsers": "12",
-      "avgSessionDurationSec": "80.385669833333324",
-      "engagementRate": "0.33333333333333331",
-      "pageViews": "16"
     },
     {
       "landingPage": "/blog/eu5-most-profitable-buildings",
@@ -157,7 +157,7 @@
       "landingPage": "/blog/best-nations-eu5-1-4",
       "sessions": "8",
       "activeUsers": "8",
-      "avgSessionDurationSec": "176.37968462500004",
+      "avgSessionDurationSec": "176.379684625",
       "engagementRate": "0.375",
       "pageViews": "12"
     },
@@ -186,6 +186,14 @@
       "pageViews": "7"
     },
     {
+      "landingPage": "/blog/eu5-pop-system",
+      "sessions": "7",
+      "activeUsers": "7",
+      "avgSessionDurationSec": "0",
+      "engagementRate": "0",
+      "pageViews": "7"
+    },
+    {
       "landingPage": "/blog/paradox-games-prestige-explained",
       "sessions": "7",
       "activeUsers": "7",
@@ -210,6 +218,14 @@
       "pageViews": "9"
     },
     {
+      "landingPage": "/blog/ck3-best-religion",
+      "sessions": "6",
+      "activeUsers": "6",
+      "avgSessionDurationSec": "4.4586056666666671",
+      "engagementRate": "0.16666666666666666",
+      "pageViews": "6"
+    },
+    {
       "landingPage": "/blog/eu4-achievement-guide",
       "sessions": "6",
       "activeUsers": "5",
@@ -224,22 +240,6 @@
       "avgSessionDurationSec": "155.32571433333334",
       "engagementRate": "0.33333333333333331",
       "pageViews": "11"
-    },
-    {
-      "landingPage": "/blog/eu5-political-influence",
-      "sessions": "6",
-      "activeUsers": "6",
-      "avgSessionDurationSec": "462.66051233333332",
-      "engagementRate": "0.66666666666666663",
-      "pageViews": "12"
-    },
-    {
-      "landingPage": "/blog/eu5-pop-system",
-      "sessions": "6",
-      "activeUsers": "6",
-      "avgSessionDurationSec": "0",
-      "engagementRate": "0",
-      "pageViews": "6"
     }
   ]
 }

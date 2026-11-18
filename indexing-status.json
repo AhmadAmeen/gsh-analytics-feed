@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-17T15:18:05.293Z",
-  "checked": 93,
+  "generatedAt": "2026-11-18T00:37:48.575Z",
+  "checked": 94,
   "indexed": 0,
   "crawledNotIndexed": 0,
   "discoveredNotIndexed": 0,
   "unknownToGoogle": 0,
   "other": 0,
-  "errors": 93,
+  "errors": 94,
   "rows": [
     {
       "url": "https://grand-strategy-hub.com/",
@@ -110,6 +110,11 @@
     },
     {
       "url": "https://grand-strategy-hub.com/blog/ck3-silk-and-silver-preview/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
+    },
+    {
+      "url": "https://grand-strategy-hub.com/blog/ck3-silk-and-silver-worth-it/",
       "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
       "category": "error"
     },
