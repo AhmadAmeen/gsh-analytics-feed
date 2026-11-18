@@ -1,33 +1,33 @@
 {
-  "generatedAt": "2026-11-18T00:37:08.669Z",
+  "generatedAt": "2026-11-18T14:52:59.786Z",
   "rows": [
     {
       "channel": "Organic Search",
-      "sessions": "1462",
-      "engagedSessions": "801",
-      "engagementRate": "0.54787961696306431",
-      "avgSessionDurationSec": "177.25736"
+      "sessions": "1447",
+      "engagedSessions": "788",
+      "engagementRate": "0.544574982722875",
+      "avgSessionDurationSec": "176.28189327850725"
     },
     {
       "channel": "Direct",
-      "sessions": "609",
-      "engagedSessions": "108",
-      "engagementRate": "0.17733990147783252",
-      "avgSessionDurationSec": "66.3994318538588"
+      "sessions": "607",
+      "engagedSessions": "107",
+      "engagementRate": "0.17627677100494235",
+      "avgSessionDurationSec": "66.339045813838553"
     },
     {
       "channel": "Organic Social",
-      "sessions": "181",
+      "sessions": "185",
       "engagedSessions": "65",
-      "engagementRate": "0.35911602209944754",
-      "avgSessionDurationSec": "67.847890552486191"
+      "engagementRate": "0.35135135135135137",
+      "avgSessionDurationSec": "66.380909135135127"
     },
     {
       "channel": "AI Assistant",
-      "sessions": "53",
-      "engagedSessions": "29",
-      "engagementRate": "0.54716981132075471",
-      "avgSessionDurationSec": "287.56591626415093"
+      "sessions": "47",
+      "engagedSessions": "28",
+      "engagementRate": "0.5957446808510638",
+      "avgSessionDurationSec": "329.60724427659574"
     },
     {
       "channel": "Referral",
@@ -41,7 +41,7 @@
       "sessions": "23",
       "engagedSessions": "6",
       "engagementRate": "0.2608695652173913",
-      "avgSessionDurationSec": "325.11543847826084"
+      "avgSessionDurationSec": "280.92531595652173"
     },
     {
       "channel": "Unassigned",

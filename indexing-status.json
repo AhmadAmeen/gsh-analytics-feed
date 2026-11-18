@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-18T00:37:48.575Z",
-  "checked": 94,
+  "generatedAt": "2026-11-18T14:53:40.065Z",
+  "checked": 96,
   "indexed": 0,
   "crawledNotIndexed": 0,
   "discoveredNotIndexed": 0,
   "unknownToGoogle": 0,
   "other": 0,
-  "errors": 94,
+  "errors": 96,
   "rows": [
     {
       "url": "https://grand-strategy-hub.com/",
@@ -84,6 +84,11 @@
       "category": "error"
     },
     {
+      "url": "https://grand-strategy-hub.com/blog/ck3-how-to-play-merchant-silk-and-silver/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
+    },
+    {
       "url": "https://grand-strategy-hub.com/blog/ck3-intrigue-guide/",
       "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
       "category": "error"
@@ -110,6 +115,11 @@
     },
     {
       "url": "https://grand-strategy-hub.com/blog/ck3-silk-and-silver-preview/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
+    },
+    {
+      "url": "https://grand-strategy-hub.com/blog/ck3-silk-and-silver-republics/",
       "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
       "category": "error"
     },

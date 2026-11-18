@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-18T00:37:14.609Z",
+  "generatedAt": "2026-11-18T14:53:04.857Z",
   "totals": {
     "clicks": 230,
-    "impressions": 13255,
-    "ctr": 0.01735194266314598,
-    "position": 7.982119954734062
+    "impressions": 13354,
+    "ctr": 0.01722330387898757,
+    "position": 7.982327392541561
   },
-  "rowCount": 1593,
+  "rowCount": 1603,
   "rows": [
     {
       "query": "eu5 army composition",
@@ -100,9 +100,9 @@
       "query": "eu5 trade guide",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu5-trade-guide/",
       "clicks": 4,
-      "impressions": 96,
-      "ctr": 0.041666666666666664,
-      "position": 7.885416666666667
+      "impressions": 100,
+      "ctr": 0.04,
+      "position": 7.87
     },
     {
       "query": "europa universalis 5 guide",
@@ -292,9 +292,9 @@
       "query": "eu5 navy guide",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu5-naval-warfare/",
       "clicks": 2,
-      "impressions": 14,
-      "ctr": 0.14285714285714285,
-      "position": 5.428571428571429
+      "impressions": 15,
+      "ctr": 0.13333333333333333,
+      "position": 5.4
     },
     {
       "query": "eu5 strategy",
@@ -836,9 +836,9 @@
       "query": "eu5 holy orders",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu5-1-4-cardinals-crusades-religious-orders/",
       "clicks": 1,
-      "impressions": 30,
-      "ctr": 0.03333333333333333,
-      "position": 7.233333333333333
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 7.25
     },
     {
       "query": "eu5 meiou and taxes",
@@ -876,9 +876,9 @@
       "query": "eu5 religious orders",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu5-1-4-cardinals-crusades-religious-orders/",
       "clicks": 1,
-      "impressions": 122,
-      "ctr": 0.00819672131147541,
-      "position": 7.680327868852459
+      "impressions": 127,
+      "ctr": 0.007874015748031496,
+      "position": 7.700787401574803
     },
     {
       "query": "eu5 rio salado",
@@ -2241,6 +2241,14 @@
       "position": 9
     },
     {
+      "query": "ck3 character",
+      "page": "https://grand-strategy-hub.pages.dev/blog/ck3-best-starting-character/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
       "query": "ck3 characters",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-best-starting-character/",
       "clicks": 0,
@@ -2439,6 +2447,14 @@
       "impressions": 4,
       "ctr": 0,
       "position": 4.75
+    },
+    {
+      "query": "ck3 dlc ranked 2026",
+      "page": "https://grand-strategy-hub.pages.dev/blog/paradox-dlc-release-schedule-2026/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
     },
     {
       "query": "ck3 dlc ranking",
@@ -2708,9 +2724,9 @@
       "query": "ck3 forced partition",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-succession-laws/",
       "clicks": 0,
-      "impressions": 13,
+      "impressions": 14,
       "ctr": 0,
-      "position": 8.76923076923077
+      "position": 8.857142857142858
     },
     {
       "query": "ck3 full dlc",
@@ -2964,9 +2980,9 @@
       "query": "ck3 inheritance laws",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-succession-laws/",
       "clicks": 0,
-      "impressions": 17,
+      "impressions": 18,
       "ctr": 0,
-      "position": 9.058823529411764
+      "position": 9
     },
     {
       "query": "ck3 interesting starts",
@@ -3052,9 +3068,9 @@
       "query": "ck3 laws",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-succession-laws/",
       "clicks": 0,
-      "impressions": 13,
+      "impressions": 18,
       "ctr": 0,
-      "position": 9.307692307692308
+      "position": 8.833333333333332
     },
     {
       "query": "ck3 legacy tier list",
@@ -3505,6 +3521,14 @@
       "position": 8
     },
     {
+      "query": "ck3 should i adopt special succession type",
+      "page": "https://grand-strategy-hub.pages.dev/blog/ck3-succession-laws/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
       "query": "ck3 splendor",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-renown-prestige-guide/",
       "clicks": 0,
@@ -3524,15 +3548,15 @@
       "query": "ck3 succession",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-succession-laws/",
       "clicks": 0,
-      "impressions": 7,
+      "impressions": 9,
       "ctr": 0,
-      "position": 9.571428571428571
+      "position": 9.555555555555555
     },
     {
       "query": "ck3 succession crisis",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-succession-laws/",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
       "position": 10
     },
@@ -3564,9 +3588,9 @@
       "query": "ck3 succession laws",
       "page": "https://grand-strategy-hub.pages.dev/blog/ck3-succession-laws/",
       "clicks": 0,
-      "impressions": 77,
+      "impressions": 81,
       "ctr": 0,
-      "position": 10.012987012987013
+      "position": 9.975308641975309
     },
     {
       "query": "ck3 succession laws guide",
@@ -3983,30 +4007,6 @@
       "impressions": 2,
       "ctr": 0,
       "position": 16
-    },
-    {
-      "query": "crusader kings 3 dlc tier list",
-      "page": "https://grand-strategy-hub.pages.dev/blog/ck3-dlc-guide/",
-      "clicks": 0,
-      "impressions": 9,
-      "ctr": 0,
-      "position": 8
-    },
-    {
-      "query": "crusader kings 3 dlc worth it",
-      "page": "https://grand-strategy-hub.pages.dev/blog/ck3-dlc-guide/",
-      "clicks": 0,
-      "impressions": 3,
-      "ctr": 0,
-      "position": 7.333333333333333
-    },
-    {
-      "query": "crusader kings 3 dlcs",
-      "page": "https://grand-strategy-hub.pages.dev/blog/ck3-dlc-guide/",
-      "clicks": 0,
-      "impressions": 17,
-      "ctr": 0,
-      "position": 11
     }
   ]
 }

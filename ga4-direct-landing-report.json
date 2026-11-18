@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-18T00:37:09.343Z",
+  "generatedAt": "2026-11-18T14:53:00.370Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "155",
-      "activeUsers": "146",
-      "avgSessionDurationSec": "48.93738895483871",
-      "engagementRate": "0.1032258064516129",
-      "pageViews": "179"
+      "sessions": "149",
+      "activeUsers": "141",
+      "avgSessionDurationSec": "47.207174348993284",
+      "engagementRate": "0.093959731543624164",
+      "pageViews": "170"
     },
     {
       "landingPage": "/blog/eu5-naval-warfare",
-      "sessions": "26",
+      "sessions": "27",
       "activeUsers": "13",
-      "avgSessionDurationSec": "225.59915234615386",
-      "engagementRate": "0.19230769230769232",
-      "pageViews": "42"
+      "avgSessionDurationSec": "217.24362818518517",
+      "engagementRate": "0.18518518518518517",
+      "pageViews": "43"
     },
     {
       "landingPage": "/blog/eu5-army-composition",
@@ -27,11 +27,11 @@
     },
     {
       "landingPage": "/blog/eu5-1-4-trade-tariffs-economy",
-      "sessions": "15",
-      "activeUsers": "15",
-      "avgSessionDurationSec": "99.540322733333326",
-      "engagementRate": "0.26666666666666666",
-      "pageViews": "25"
+      "sessions": "16",
+      "activeUsers": "16",
+      "avgSessionDurationSec": "93.319052562499991",
+      "engagementRate": "0.25",
+      "pageViews": "26"
     },
     {
       "landingPage": "(not set)",
@@ -42,20 +42,20 @@
       "pageViews": "0"
     },
     {
-      "landingPage": "/blog/ck3-dlc-guide",
-      "sessions": "14",
-      "activeUsers": "14",
-      "avgSessionDurationSec": "32.725284928571426",
-      "engagementRate": "0.2857142857142857",
-      "pageViews": "17"
-    },
-    {
       "landingPage": "/blog/ck3-best-starting-character",
       "sessions": "13",
       "activeUsers": "13",
       "avgSessionDurationSec": "74.202156769230768",
       "engagementRate": "0.30769230769230771",
       "pageViews": "17"
+    },
+    {
+      "landingPage": "/blog/ck3-dlc-guide",
+      "sessions": "13",
+      "activeUsers": "13",
+      "avgSessionDurationSec": "35.171987153846153",
+      "engagementRate": "0.23076923076923078",
+      "pageViews": "15"
     },
     {
       "landingPage": "/blog/eu5-estate-private-armies",
@@ -82,6 +82,14 @@
       "pageViews": "13"
     },
     {
+      "landingPage": "/tools/eu4-trade-map",
+      "sessions": "12",
+      "activeUsers": "8",
+      "avgSessionDurationSec": "73.00368925",
+      "engagementRate": "0.33333333333333331",
+      "pageViews": "13"
+    },
+    {
       "landingPage": "/blog/best-eu4-mods-2026",
       "sessions": "11",
       "activeUsers": "11",
@@ -96,14 +104,6 @@
       "avgSessionDurationSec": "201.25350390909091",
       "engagementRate": "0.45454545454545453",
       "pageViews": "15"
-    },
-    {
-      "landingPage": "/tools/eu4-trade-map",
-      "sessions": "11",
-      "activeUsers": "8",
-      "avgSessionDurationSec": "45.683735090909096",
-      "engagementRate": "0.27272727272727271",
-      "pageViews": "12"
     },
     {
       "landingPage": "/blog/best-paradox-grand-strategy-game-for-beginners",
