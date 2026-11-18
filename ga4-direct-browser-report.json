@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-18T14:53:00.987Z",
+  "generatedAt": "2026-11-18T23:56:25.549Z",
   "rows": [
     {
       "browser": "Chrome",
-      "sessions": "454",
-      "activeUsers": "407",
-      "avgSessionDurationSec": "54.021089766519829",
-      "engagedSessions": "68",
-      "engagementRate": "0.14977973568281938"
+      "sessions": "459",
+      "activeUsers": "409",
+      "avgSessionDurationSec": "55.402501156862748",
+      "engagedSessions": "69",
+      "engagementRate": "0.15032679738562091"
     },
     {
       "browser": "Safari",
-      "sessions": "62",
-      "activeUsers": "54",
-      "avgSessionDurationSec": "98.897615209677426",
+      "sessions": "63",
+      "activeUsers": "55",
+      "avgSessionDurationSec": "97.327811793650781",
       "engagedSessions": "15",
-      "engagementRate": "0.24193548387096775"
+      "engagementRate": "0.23809523809523808"
     },
     {
       "browser": "Edge",
@@ -29,7 +29,7 @@
       "browser": "Firefox",
       "sessions": "18",
       "activeUsers": "17",
-      "avgSessionDurationSec": "80.136408055555563",
+      "avgSessionDurationSec": "80.136408055555549",
       "engagedSessions": "5",
       "engagementRate": "0.27777777777777779"
     },
