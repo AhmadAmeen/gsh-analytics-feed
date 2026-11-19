@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-18T23:57:11.488Z",
-  "checked": 96,
+  "generatedAt": "2026-11-19T14:59:56.840Z",
+  "checked": 97,
   "indexed": 0,
   "crawledNotIndexed": 0,
   "discoveredNotIndexed": 0,
   "unknownToGoogle": 0,
   "other": 0,
-  "errors": 96,
+  "errors": 97,
   "rows": [
     {
       "url": "https://grand-strategy-hub.com/",
@@ -100,6 +100,11 @@
     },
     {
       "url": "https://grand-strategy-hub.com/blog/ck3-renown-prestige-guide/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
+    },
+    {
+      "url": "https://grand-strategy-hub.com/blog/ck3-republic-doge-guide/",
       "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
       "category": "error"
     },
