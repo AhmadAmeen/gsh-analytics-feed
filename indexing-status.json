@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-20T00:21:31.660Z",
-  "checked": 99,
+  "generatedAt": "2026-11-20T14:42:31.328Z",
+  "checked": 100,
   "indexed": 0,
   "crawledNotIndexed": 0,
   "discoveredNotIndexed": 0,
   "unknownToGoogle": 0,
   "other": 0,
-  "errors": 99,
+  "errors": 100,
   "rows": [
     {
       "url": "https://grand-strategy-hub.com/",
@@ -140,6 +140,11 @@
     },
     {
       "url": "https://grand-strategy-hub.com/blog/ck3-succession-laws/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
+    },
+    {
+      "url": "https://grand-strategy-hub.com/blog/ck3-update-1-21-free-vs-paid/",
       "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
       "category": "error"
     },

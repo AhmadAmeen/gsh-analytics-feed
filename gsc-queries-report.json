@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-20T00:20:52.764Z",
+  "generatedAt": "2026-11-20T14:41:54.852Z",
   "totals": {
     "clicks": 223,
-    "impressions": 12688,
-    "ctr": 0.017575662042875157,
-    "position": 7.968395334174023
+    "impressions": 12719,
+    "ctr": 0.017532824907618524,
+    "position": 7.967764761380612
   },
-  "rowCount": 1570,
+  "rowCount": 1572,
   "rows": [
     {
       "query": "eu5 army composition",
@@ -284,9 +284,9 @@
       "query": "eu5 navy guide",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu5-naval-warfare/",
       "clicks": 2,
-      "impressions": 15,
-      "ctr": 0.13333333333333333,
-      "position": 5.4
+      "impressions": 16,
+      "ctr": 0.125,
+      "position": 5.375
     },
     {
       "query": "eu5 strategy",
@@ -836,17 +836,17 @@
       "query": "eu5 navy composition",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu5-naval-warfare/",
       "clicks": 1,
-      "impressions": 51,
-      "ctr": 0.0196078431372549,
-      "position": 5.901960784313726
+      "impressions": 55,
+      "ctr": 0.01818181818181818,
+      "position": 5.8545454545454545
     },
     {
       "query": "eu5 religious orders",
       "page": "https://grand-strategy-hub.pages.dev/blog/eu5-1-4-cardinals-crusades-religious-orders/",
       "clicks": 1,
-      "impressions": 134,
-      "ctr": 0.007462686567164179,
-      "position": 7.813432835820896
+      "impressions": 135,
+      "ctr": 0.007407407407407408,
+      "position": 7.822222222222222
     },
     {
       "query": "eu5 rio salado",
