@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-11-20T14:41:49.401Z",
+  "generatedAt": "2026-11-20T23:43:46.506Z",
   "rows": [
     {
       "channel": "Organic Search",
-      "sessions": "1436",
-      "engagedSessions": "778",
-      "engagementRate": "0.541782729805014",
-      "avgSessionDurationSec": "176.1670591086351"
+      "sessions": "1445",
+      "engagedSessions": "784",
+      "engagementRate": "0.542560553633218",
+      "avgSessionDurationSec": "175.66770536470588"
     },
     {
       "channel": "Direct",
-      "sessions": "651",
-      "engagedSessions": "116",
-      "engagementRate": "0.1781874039938556",
-      "avgSessionDurationSec": "71.2793332642089"
+      "sessions": "697",
+      "engagedSessions": "120",
+      "engagementRate": "0.17216642754662842",
+      "avgSessionDurationSec": "88.1119834533716"
     },
     {
       "channel": "Organic Social",
-      "sessions": "206",
-      "engagedSessions": "73",
-      "engagementRate": "0.35436893203883496",
-      "avgSessionDurationSec": "61.779509475728162"
+      "sessions": "209",
+      "engagedSessions": "76",
+      "engagementRate": "0.36363636363636365",
+      "avgSessionDurationSec": "61.405634339712925"
     },
     {
       "channel": "AI Assistant",
-      "sessions": "61",
-      "engagedSessions": "31",
-      "engagementRate": "0.50819672131147542",
-      "avgSessionDurationSec": "254.47895118032787"
+      "sessions": "64",
+      "engagedSessions": "32",
+      "engagementRate": "0.5",
+      "avgSessionDurationSec": "245.54456825"
     },
     {
       "channel": "Referral",
-      "sessions": "40",
+      "sessions": "41",
       "engagedSessions": "25",
-      "engagementRate": "0.625",
-      "avgSessionDurationSec": "387.329219275"
+      "engagementRate": "0.6097560975609756",
+      "avgSessionDurationSec": "377.88216514634149"
     },
     {
       "channel": "Organic Video",
@@ -48,7 +48,7 @@
       "sessions": "13",
       "engagedSessions": "1",
       "engagementRate": "0.076923076923076927",
-      "avgSessionDurationSec": "969.67872915384623"
+      "avgSessionDurationSec": "205.04802215384615"
     }
   ]
 }
