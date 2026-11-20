@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-19T14:59:13.452Z",
+  "generatedAt": "2026-11-20T00:20:48.006Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "150",
-      "activeUsers": "142",
-      "avgSessionDurationSec": "46.097377246666667",
-      "engagementRate": "0.093333333333333338",
-      "pageViews": "168"
+      "sessions": "152",
+      "activeUsers": "143",
+      "avgSessionDurationSec": "61.500996197368416",
+      "engagementRate": "0.098684210526315791",
+      "pageViews": "181"
     },
     {
       "landingPage": "/blog/eu5-naval-warfare",
@@ -34,6 +34,14 @@
       "pageViews": "26"
     },
     {
+      "landingPage": "/blog/ck3-dlc-guide",
+      "sessions": "15",
+      "activeUsers": "15",
+      "avgSessionDurationSec": "31.037424466666664",
+      "engagementRate": "0.2",
+      "pageViews": "17"
+    },
+    {
       "landingPage": "(not set)",
       "sessions": "14",
       "activeUsers": "11",
@@ -42,20 +50,12 @@
       "pageViews": "0"
     },
     {
-      "landingPage": "/blog/ck3-dlc-guide",
+      "landingPage": "/blog/ck3-best-starting-character",
       "sessions": "14",
       "activeUsers": "14",
-      "avgSessionDurationSec": "32.963680785714281",
-      "engagementRate": "0.21428571428571427",
-      "pageViews": "16"
-    },
-    {
-      "landingPage": "/blog/ck3-best-starting-character",
-      "sessions": "13",
-      "activeUsers": "13",
-      "avgSessionDurationSec": "74.202156769230768",
-      "engagementRate": "0.30769230769230771",
-      "pageViews": "17"
+      "avgSessionDurationSec": "68.902002714285715",
+      "engagementRate": "0.2857142857142857",
+      "pageViews": "18"
     },
     {
       "landingPage": "/blog/eu5-estate-private-armies",
@@ -110,6 +110,14 @@
       "sessions": "10",
       "activeUsers": "10",
       "avgSessionDurationSec": "2.4772378",
+      "engagementRate": "0.1",
+      "pageViews": "10"
+    },
+    {
+      "landingPage": "/blog/ck3-silk-and-silver-merchants",
+      "sessions": "10",
+      "activeUsers": "10",
+      "avgSessionDurationSec": "3.8078812999999996",
       "engagementRate": "0.1",
       "pageViews": "10"
     },
@@ -190,14 +198,6 @@
       "sessions": "7",
       "activeUsers": "7",
       "avgSessionDurationSec": "1.581879",
-      "engagementRate": "0.14285714285714285",
-      "pageViews": "7"
-    },
-    {
-      "landingPage": "/blog/ck3-silk-and-silver-merchants",
-      "sessions": "7",
-      "activeUsers": "7",
-      "avgSessionDurationSec": "4.4166897142857149",
       "engagementRate": "0.14285714285714285",
       "pageViews": "7"
     },

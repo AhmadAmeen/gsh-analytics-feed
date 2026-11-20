@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-19T14:59:56.840Z",
-  "checked": 97,
+  "generatedAt": "2026-11-20T00:21:31.660Z",
+  "checked": 99,
   "indexed": 0,
   "crawledNotIndexed": 0,
   "discoveredNotIndexed": 0,
   "unknownToGoogle": 0,
   "other": 0,
-  "errors": 97,
+  "errors": 99,
   "rows": [
     {
       "url": "https://grand-strategy-hub.com/",
@@ -435,6 +435,16 @@
     },
     {
       "url": "https://grand-strategy-hub.com/history-videos/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
+    },
+    {
+      "url": "https://grand-strategy-hub.com/history/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
+    },
+    {
+      "url": "https://grand-strategy-hub.com/history/silk-road/",
       "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
       "category": "error"
     },
