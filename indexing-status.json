@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-21T13:58:36.473Z",
-  "checked": 100,
+  "generatedAt": "2026-11-21T22:50:44.787Z",
+  "checked": 101,
   "indexed": 0,
   "crawledNotIndexed": 0,
   "discoveredNotIndexed": 0,
   "unknownToGoogle": 0,
   "other": 0,
-  "errors": 100,
+  "errors": 101,
   "rows": [
     {
       "url": "https://grand-strategy-hub.com/",
@@ -95,6 +95,11 @@
     },
     {
       "url": "https://grand-strategy-hub.com/blog/ck3-keep-track-of-your-dynasty/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
+    },
+    {
+      "url": "https://grand-strategy-hub.com/blog/ck3-merchant-make-gold-guide/",
       "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
       "category": "error"
     },
