@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-11-22T13:51:12.108Z",
+  "generatedAt": "2026-11-22T23:17:46.998Z",
   "rows": [
     {
       "channel": "Organic Search",
-      "sessions": "1440",
-      "engagedSessions": "783",
-      "engagementRate": "0.54375",
-      "avgSessionDurationSec": "172.14741911111111"
+      "sessions": "1450",
+      "engagedSessions": "791",
+      "engagementRate": "0.54551724137931035",
+      "avgSessionDurationSec": "172.08668221862069"
     },
     {
       "channel": "Direct",
-      "sessions": "823",
-      "engagedSessions": "126",
-      "engagementRate": "0.15309842041312272",
-      "avgSessionDurationSec": "80.640737393681647"
+      "sessions": "876",
+      "engagedSessions": "128",
+      "engagementRate": "0.14611872146118721",
+      "avgSessionDurationSec": "75.918894237442927"
     },
     {
       "channel": "Organic Social",
-      "sessions": "193",
-      "engagedSessions": "69",
-      "engagementRate": "0.35751295336787564",
-      "avgSessionDurationSec": "62.577532943005188"
+      "sessions": "194",
+      "engagedSessions": "70",
+      "engagementRate": "0.36082474226804123",
+      "avgSessionDurationSec": "62.357198587628865"
     },
     {
       "channel": "AI Assistant",
@@ -31,17 +31,10 @@
     },
     {
       "channel": "Referral",
-      "sessions": "41",
-      "engagedSessions": "20",
-      "engagementRate": "0.48780487804878048",
-      "avgSessionDurationSec": "329.79985697560977"
-    },
-    {
-      "channel": "Unassigned",
-      "sessions": "13",
-      "engagedSessions": "1",
-      "engagementRate": "0.076923076923076927",
-      "avgSessionDurationSec": "51.899872230769226"
+      "sessions": "42",
+      "engagedSessions": "22",
+      "engagementRate": "0.52380952380952384",
+      "avgSessionDurationSec": "362.11780459523811"
     },
     {
       "channel": "Organic Video",
@@ -49,6 +42,13 @@
       "engagedSessions": "4",
       "engagementRate": "0.4",
       "avgSessionDurationSec": "137.6883474"
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": "10",
+      "engagedSessions": "1",
+      "engagementRate": "0.1",
+      "avgSessionDurationSec": "62.646265299999996"
     }
   ]
 }
