@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-22T23:18:32.533Z",
-  "checked": 100,
+  "generatedAt": "2026-11-23T16:59:15.243Z",
+  "checked": 102,
   "indexed": 0,
   "crawledNotIndexed": 0,
   "discoveredNotIndexed": 0,
   "unknownToGoogle": 0,
   "other": 0,
-  "errors": 100,
+  "errors": 102,
   "rows": [
     {
       "url": "https://grand-strategy-hub.com/",
@@ -244,6 +244,11 @@
       "category": "error"
     },
     {
+      "url": "https://grand-strategy-hub.com/blog/eu5-black-death-survival-guide/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
+    },
+    {
       "url": "https://grand-strategy-hub.com/blog/eu5-cabinet-courtiers-explained/",
       "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
       "category": "error"
@@ -295,6 +300,11 @@
     },
     {
       "url": "https://grand-strategy-hub.com/blog/eu5-government-types-explained/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
+    },
+    {
+      "url": "https://grand-strategy-hub.com/blog/eu5-holy-roman-empire-guide/",
       "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
       "category": "error"
     },

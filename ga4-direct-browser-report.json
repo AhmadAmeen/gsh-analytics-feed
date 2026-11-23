@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-22T23:17:47.929Z",
+  "generatedAt": "2026-11-23T16:58:29.006Z",
   "rows": [
     {
       "browser": "Chrome",
-      "sessions": "705",
-      "activeUsers": "634",
-      "avgSessionDurationSec": "63.0335347035461",
-      "engagedSessions": "84",
-      "engagementRate": "0.11914893617021277"
+      "sessions": "774",
+      "activeUsers": "703",
+      "avgSessionDurationSec": "57.683194383720931",
+      "engagedSessions": "87",
+      "engagementRate": "0.1124031007751938"
     },
     {
       "browser": "Safari",
-      "sessions": "72",
-      "activeUsers": "64",
-      "avgSessionDurationSec": "85.586565194444432",
-      "engagedSessions": "16",
-      "engagementRate": "0.22222222222222221"
+      "sessions": "69",
+      "activeUsers": "61",
+      "avgSessionDurationSec": "87.849505652173917",
+      "engagedSessions": "15",
+      "engagementRate": "0.21739130434782608"
     },
     {
       "browser": "Edge",
@@ -28,8 +28,8 @@
     {
       "browser": "Firefox",
       "sessions": "19",
-      "activeUsers": "17",
-      "avgSessionDurationSec": "75.755189842105253",
+      "activeUsers": "16",
+      "avgSessionDurationSec": "103.48834584210528",
       "engagedSessions": "5",
       "engagementRate": "0.26315789473684209"
     },
@@ -40,14 +40,6 @@
       "avgSessionDurationSec": "0",
       "engagedSessions": "0",
       "engagementRate": "0"
-    },
-    {
-      "browser": "Samsung Internet",
-      "sessions": "7",
-      "activeUsers": "5",
-      "avgSessionDurationSec": "34.493163285714289",
-      "engagedSessions": "2",
-      "engagementRate": "0.2857142857142857"
     },
     {
       "browser": "Android Webview",
@@ -72,6 +64,14 @@
       "avgSessionDurationSec": "0",
       "engagedSessions": "0",
       "engagementRate": "0"
+    },
+    {
+      "browser": "Samsung Internet",
+      "sessions": "4",
+      "activeUsers": "3",
+      "avgSessionDurationSec": "34.86901775",
+      "engagedSessions": "1",
+      "engagementRate": "0.25"
     },
     {
       "browser": "YaBrowser",
