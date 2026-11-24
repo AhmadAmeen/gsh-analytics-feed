@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-24T03:52:38.977Z",
-  "checked": 102,
+  "generatedAt": "2026-11-24T16:48:19.414Z",
+  "checked": 104,
   "indexed": 0,
   "crawledNotIndexed": 0,
   "discoveredNotIndexed": 0,
   "unknownToGoogle": 0,
   "other": 0,
-  "errors": 102,
+  "errors": 104,
   "rows": [
     {
       "url": "https://grand-strategy-hub.com/",
@@ -299,6 +299,11 @@
       "category": "error"
     },
     {
+      "url": "https://grand-strategy-hub.com/blog/eu5-formable-nations-list/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
+    },
+    {
       "url": "https://grand-strategy-hub.com/blog/eu5-government-types-explained/",
       "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
       "category": "error"
@@ -415,6 +420,11 @@
     },
     {
       "url": "https://grand-strategy-hub.com/blog/paradox-games-prestige-explained/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
+    },
+    {
+      "url": "https://grand-strategy-hub.com/blog/stellaris-for-eu5-ck3-players/",
       "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
       "category": "error"
     },
