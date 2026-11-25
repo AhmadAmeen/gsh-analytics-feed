@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-24T16:47:38.236Z",
+  "generatedAt": "2026-11-25T01:57:15.439Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "168",
-      "activeUsers": "158",
-      "avgSessionDurationSec": "56.222377976190479",
-      "engagementRate": "0.10714285714285714",
-      "pageViews": "198"
+      "sessions": "170",
+      "activeUsers": "159",
+      "avgSessionDurationSec": "77.303236235294122",
+      "engagementRate": "0.11764705882352941",
+      "pageViews": "219"
     },
     {
       "landingPage": "/blog/eu5-naval-warfare",
-      "sessions": "45",
+      "sessions": "47",
       "activeUsers": "22",
-      "avgSessionDurationSec": "152.1395842",
-      "engagementRate": "0.13333333333333333",
-      "pageViews": "61"
+      "avgSessionDurationSec": "145.66555934042552",
+      "engagementRate": "0.1276595744680851",
+      "pageViews": "63"
     },
     {
       "landingPage": "/blog/ck3-silk-and-silver-merchants",
@@ -27,19 +27,19 @@
     },
     {
       "landingPage": "(not set)",
-      "sessions": "23",
-      "activeUsers": "12",
-      "avgSessionDurationSec": "167.91981947826088",
-      "engagementRate": "0.13043478260869565",
+      "sessions": "25",
+      "activeUsers": "13",
+      "avgSessionDurationSec": "154.52066739999998",
+      "engagementRate": "0.12",
       "pageViews": "0"
     },
     {
       "landingPage": "/blog/ck3-silk-and-silver-republics",
-      "sessions": "22",
-      "activeUsers": "22",
-      "avgSessionDurationSec": "1.5317055454545454",
-      "engagementRate": "0.045454545454545456",
-      "pageViews": "23"
+      "sessions": "24",
+      "activeUsers": "24",
+      "avgSessionDurationSec": "1.5495265833333332",
+      "engagementRate": "0.041666666666666664",
+      "pageViews": "25"
     },
     {
       "landingPage": "/blog/eu5-1-4-trade-tariffs-economy",
@@ -109,7 +109,7 @@
       "landingPage": "/blog/eu5-1-4-cardinals-crusades-religious-orders",
       "sessions": "14",
       "activeUsers": "14",
-      "avgSessionDurationSec": "1.108177357142857",
+      "avgSessionDurationSec": "1.1081773571428573",
       "engagementRate": "0",
       "pageViews": "14"
     },
@@ -131,19 +131,19 @@
     },
     {
       "landingPage": "/tools/eu4-trade-map",
-      "sessions": "13",
+      "sessions": "14",
       "activeUsers": "8",
-      "avgSessionDurationSec": "67.773779461538453",
-      "engagementRate": "0.30769230769230771",
-      "pageViews": "14"
+      "avgSessionDurationSec": "71.348875214285712",
+      "engagementRate": "0.35714285714285715",
+      "pageViews": "16"
     },
     {
       "landingPage": "/blog/ck3-china-guide-mandate-of-heaven",
-      "sessions": "12",
-      "activeUsers": "11",
-      "avgSessionDurationSec": "2.0366790833333335",
+      "sessions": "13",
+      "activeUsers": "12",
+      "avgSessionDurationSec": "1.8800114615384618",
       "engagementRate": "0",
-      "pageViews": "12"
+      "pageViews": "13"
     },
     {
       "landingPage": "/blog/ck3-intrigue-guide",
@@ -218,6 +218,14 @@
       "pageViews": "16"
     },
     {
+      "landingPage": "/tools",
+      "sessions": "11",
+      "activeUsers": "11",
+      "avgSessionDurationSec": "1.3856893636363636",
+      "engagementRate": "0",
+      "pageViews": "11"
+    },
+    {
       "landingPage": "/blog/best-nations-eu5-1-4",
       "sessions": "10",
       "activeUsers": "9",
@@ -226,20 +234,12 @@
       "pageViews": "14"
     },
     {
-      "landingPage": "/blog/ck3-how-to-play-merchant-silk-and-silver",
+      "landingPage": "/blog/ck3-best-religion",
       "sessions": "10",
       "activeUsers": "10",
-      "avgSessionDurationSec": "2.5079172",
+      "avgSessionDurationSec": "3.7588738",
       "engagementRate": "0.1",
       "pageViews": "10"
-    },
-    {
-      "landingPage": "/blog/eu5-political-influence",
-      "sessions": "10",
-      "activeUsers": "10",
-      "avgSessionDurationSec": "278.1795851",
-      "engagementRate": "0.4",
-      "pageViews": "16"
     }
   ]
 }
