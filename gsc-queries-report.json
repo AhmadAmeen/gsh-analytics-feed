@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-25T01:57:19.293Z",
+  "generatedAt": "2026-11-25T16:34:53.901Z",
   "totals": {
     "clicks": 182,
-    "impressions": 10303,
-    "ctr": 0.01766475783752305,
-    "position": 7.938076288459672
+    "impressions": 10311,
+    "ctr": 0.017651052274270197,
+    "position": 7.9383183008437594
   },
-  "rowCount": 1362,
+  "rowCount": 1363,
   "rows": [
     {
       "query": "eu5 army composition",
@@ -3820,9 +3820,9 @@
       "query": "crusader kings iii grand strategy official website",
       "page": "https://grand-strategy-hub.pages.dev/about/",
       "clicks": 0,
-      "impressions": 7,
+      "impressions": 8,
       "ctr": 0,
-      "position": 9.142857142857142
+      "position": 8.375
     },
     {
       "query": "crusader kings iii grand strategy official website",

@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-25T01:57:15.869Z",
+  "generatedAt": "2026-11-25T16:34:50.388Z",
   "rows": [
     {
       "browser": "Chrome",
-      "sessions": "866",
-      "activeUsers": "781",
-      "avgSessionDurationSec": "64.00620726789839",
-      "engagedSessions": "95",
-      "engagementRate": "0.10969976905311778"
+      "sessions": "901",
+      "activeUsers": "813",
+      "avgSessionDurationSec": "59.829110004439521",
+      "engagedSessions": "94",
+      "engagementRate": "0.10432852386237514"
     },
     {
       "browser": "Safari",
-      "sessions": "71",
-      "activeUsers": "62",
-      "avgSessionDurationSec": "83.488491295774637",
-      "engagedSessions": "17",
-      "engagementRate": "0.23943661971830985"
+      "sessions": "67",
+      "activeUsers": "60",
+      "avgSessionDurationSec": "66.918789626865674",
+      "engagedSessions": "13",
+      "engagementRate": "0.19402985074626866"
     },
     {
       "browser": "Edge",
@@ -43,19 +43,19 @@
     },
     {
       "browser": "Android Webview",
-      "sessions": "6",
-      "activeUsers": "5",
-      "avgSessionDurationSec": "112.099373",
+      "sessions": "5",
+      "activeUsers": "4",
+      "avgSessionDurationSec": "134.5192476",
       "engagedSessions": "2",
-      "engagementRate": "0.33333333333333331"
+      "engagementRate": "0.4"
     },
     {
       "browser": "Opera",
-      "sessions": "6",
-      "activeUsers": "5",
-      "avgSessionDurationSec": "70.340107333333336",
+      "sessions": "5",
+      "activeUsers": "4",
+      "avgSessionDurationSec": "84.4081288",
       "engagedSessions": "2",
-      "engagementRate": "0.33333333333333331"
+      "engagementRate": "0.4"
     },
     {
       "browser": "Safari (in-app)",
@@ -67,11 +67,11 @@
     },
     {
       "browser": "Samsung Internet",
-      "sessions": "4",
+      "sessions": "3",
       "activeUsers": "3",
-      "avgSessionDurationSec": "34.86901775",
+      "avgSessionDurationSec": "46.492023666666661",
       "engagedSessions": "1",
-      "engagementRate": "0.25"
+      "engagementRate": "0.33333333333333331"
     },
     {
       "browser": "YaBrowser",

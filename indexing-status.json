@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-25T01:57:59.853Z",
-  "checked": 104,
+  "generatedAt": "2026-11-25T16:35:31.778Z",
+  "checked": 105,
   "indexed": 0,
   "crawledNotIndexed": 0,
   "discoveredNotIndexed": 0,
   "unknownToGoogle": 0,
   "other": 0,
-  "errors": 104,
+  "errors": 105,
   "rows": [
     {
       "url": "https://grand-strategy-hub.com/",
@@ -520,6 +520,11 @@
     },
     {
       "url": "https://grand-strategy-hub.com/tools/eu5-siege-simulator/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
+    },
+    {
+      "url": "https://grand-strategy-hub.com/tools/ottoman-family-tree/",
       "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
       "category": "error"
     },
