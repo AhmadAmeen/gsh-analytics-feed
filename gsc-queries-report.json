@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T01:38:12.767Z",
+  "generatedAt": "2026-11-26T16:07:28.451Z",
   "totals": {
     "clicks": 171,
-    "impressions": 9816,
-    "ctr": 0.017420537897310514,
-    "position": 7.9211491442542785
+    "impressions": 9818,
+    "ctr": 0.01741698920350377,
+    "position": 7.921368914239153
   },
   "rowCount": 1311,
   "rows": [
@@ -468,9 +468,9 @@
       "query": "eu5 1.4 guide",
       "page": "https://grand-strategy-hub.pages.dev/blog",
       "clicks": 1,
-      "impressions": 14,
-      "ctr": 0.07142857142857142,
-      "position": 8.714285714285715
+      "impressions": 16,
+      "ctr": 0.0625,
+      "position": 8.75
     },
     {
       "query": "eu5 1.4 patch notes",

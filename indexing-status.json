@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-26T01:38:52.931Z",
-  "checked": 105,
+  "generatedAt": "2026-11-26T16:08:12.152Z",
+  "checked": 107,
   "indexed": 0,
   "crawledNotIndexed": 0,
   "discoveredNotIndexed": 0,
   "unknownToGoogle": 0,
   "other": 0,
-  "errors": 105,
+  "errors": 107,
   "rows": [
     {
       "url": "https://grand-strategy-hub.com/",
@@ -465,6 +465,16 @@
     },
     {
       "url": "https://grand-strategy-hub.com/history/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
+    },
+    {
+      "url": "https://grand-strategy-hub.com/history/1066/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
+    },
+    {
+      "url": "https://grand-strategy-hub.com/history/1444/",
       "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
       "category": "error"
     },
