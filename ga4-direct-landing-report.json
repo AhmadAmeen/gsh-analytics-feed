@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-25T16:34:49.925Z",
+  "generatedAt": "2026-11-26T01:38:08.751Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "170",
-      "activeUsers": "159",
-      "avgSessionDurationSec": "77.303236235294122",
-      "engagementRate": "0.11764705882352941",
-      "pageViews": "219"
+      "sessions": "171",
+      "activeUsers": "160",
+      "avgSessionDurationSec": "76.851170526315784",
+      "engagementRate": "0.11695906432748537",
+      "pageViews": "220"
     },
     {
       "landingPage": "/blog/eu5-naval-warfare",
@@ -27,19 +27,27 @@
     },
     {
       "landingPage": "(not set)",
-      "sessions": "25",
-      "activeUsers": "13",
-      "avgSessionDurationSec": "154.52066739999998",
-      "engagementRate": "0.12",
+      "sessions": "28",
+      "activeUsers": "14",
+      "avgSessionDurationSec": "170.53158499999998",
+      "engagementRate": "0.17857142857142858",
       "pageViews": "0"
     },
     {
       "landingPage": "/blog/ck3-silk-and-silver-republics",
-      "sessions": "24",
-      "activeUsers": "24",
-      "avgSessionDurationSec": "1.5495265833333332",
-      "engagementRate": "0.041666666666666664",
-      "pageViews": "25"
+      "sessions": "25",
+      "activeUsers": "25",
+      "avgSessionDurationSec": "1.71047632",
+      "engagementRate": "0.04",
+      "pageViews": "26"
+    },
+    {
+      "landingPage": "/blog/ck3-dlc-guide",
+      "sessions": "22",
+      "activeUsers": "22",
+      "avgSessionDurationSec": "22.701039181818182",
+      "engagementRate": "0.18181818181818182",
+      "pageViews": "24"
     },
     {
       "landingPage": "/blog/eu5-1-4-trade-tariffs-economy",
@@ -50,20 +58,12 @@
       "pageViews": "32"
     },
     {
-      "landingPage": "/blog/ck3-dlc-guide",
-      "sessions": "21",
-      "activeUsers": "21",
-      "avgSessionDurationSec": "23.78204104761905",
-      "engagementRate": "0.19047619047619047",
-      "pageViews": "23"
-    },
-    {
       "landingPage": "/blog/eu5-patch-1-4-rio-salado-patch-notes",
-      "sessions": "21",
-      "activeUsers": "21",
-      "avgSessionDurationSec": "3.3208896666666665",
-      "engagementRate": "0.047619047619047616",
-      "pageViews": "22"
+      "sessions": "22",
+      "activeUsers": "22",
+      "avgSessionDurationSec": "3.4467728181818185",
+      "engagementRate": "0.045454545454545456",
+      "pageViews": "23"
     },
     {
       "landingPage": "/blog/eu4-government-reforms",
@@ -90,20 +90,20 @@
       "pageViews": "21"
     },
     {
+      "landingPage": "/blog/ck3-best-starting-character",
+      "sessions": "17",
+      "activeUsers": "17",
+      "avgSessionDurationSec": "10.452068529411765",
+      "engagementRate": "0.11764705882352941",
+      "pageViews": "22"
+    },
+    {
       "landingPage": "/blog/eu5-trade-guide",
       "sessions": "17",
       "activeUsers": "17",
       "avgSessionDurationSec": "2.6045606470588232",
       "engagementRate": "0.058823529411764705",
       "pageViews": "17"
-    },
-    {
-      "landingPage": "/blog/ck3-best-starting-character",
-      "sessions": "16",
-      "activeUsers": "16",
-      "avgSessionDurationSec": "10.7049976875",
-      "engagementRate": "0.125",
-      "pageViews": "21"
     },
     {
       "landingPage": "/tools/eu4-trade-map",
@@ -154,6 +154,14 @@
       "pageViews": "13"
     },
     {
+      "landingPage": "/blog/eu5-new-players-path",
+      "sessions": "13",
+      "activeUsers": "13",
+      "avgSessionDurationSec": "63.812467230769236",
+      "engagementRate": "0.30769230769230771",
+      "pageViews": "21"
+    },
+    {
       "landingPage": "/blog/ck3-republic-doge-guide",
       "sessions": "12",
       "activeUsers": "12",
@@ -168,14 +176,6 @@
       "avgSessionDurationSec": "115.40971175",
       "engagementRate": "0.25",
       "pageViews": "13"
-    },
-    {
-      "landingPage": "/blog/eu5-new-players-path",
-      "sessions": "12",
-      "activeUsers": "12",
-      "avgSessionDurationSec": "68.334457916666665",
-      "engagementRate": "0.33333333333333331",
-      "pageViews": "20"
     },
     {
       "landingPage": "/blog/eu5-pop-system",
@@ -210,6 +210,14 @@
       "pageViews": "15"
     },
     {
+      "landingPage": "/blog/ck3-best-religion",
+      "sessions": "11",
+      "activeUsers": "11",
+      "avgSessionDurationSec": "3.417158",
+      "engagementRate": "0.090909090909090912",
+      "pageViews": "11"
+    },
+    {
       "landingPage": "/blog/ck3-culture-faith-mechanics",
       "sessions": "11",
       "activeUsers": "11",
@@ -232,14 +240,6 @@
       "avgSessionDurationSec": "2.1866444545454544",
       "engagementRate": "0",
       "pageViews": "11"
-    },
-    {
-      "landingPage": "/category/eu5",
-      "sessions": "11",
-      "activeUsers": "11",
-      "avgSessionDurationSec": "58.330341727272732",
-      "engagementRate": "0.27272727272727271",
-      "pageViews": "16"
     }
   ]
 }
