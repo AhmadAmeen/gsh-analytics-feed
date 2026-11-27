@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-27T01:31:56.713Z",
+  "generatedAt": "2026-11-27T15:54:32.811Z",
   "rows": [
     {
       "browser": "Chrome",
-      "sessions": "951",
-      "activeUsers": "861",
-      "avgSessionDurationSec": "60.576197313354356",
-      "engagedSessions": "101",
-      "engagementRate": "0.10620399579390116"
+      "sessions": "970",
+      "activeUsers": "879",
+      "avgSessionDurationSec": "59.376989996907213",
+      "engagedSessions": "102",
+      "engagementRate": "0.10515463917525773"
     },
     {
       "browser": "Safari",
-      "sessions": "67",
-      "activeUsers": "60",
-      "avgSessionDurationSec": "66.918789626865674",
+      "sessions": "65",
+      "activeUsers": "58",
+      "avgSessionDurationSec": "68.9778293076923",
       "engagedSessions": "13",
-      "engagementRate": "0.19402985074626866"
+      "engagementRate": "0.2"
     },
     {
       "browser": "Edge",
-      "sessions": "44",
-      "activeUsers": "31",
-      "avgSessionDurationSec": "384.17167931818182",
+      "sessions": "43",
+      "activeUsers": "30",
+      "avgSessionDurationSec": "393.10590441860461",
       "engagedSessions": "19",
-      "engagementRate": "0.43181818181818182"
+      "engagementRate": "0.44186046511627908"
     },
     {
       "browser": "Firefox",
-      "sessions": "19",
-      "activeUsers": "16",
-      "avgSessionDurationSec": "103.36789394736842",
+      "sessions": "18",
+      "activeUsers": "15",
+      "avgSessionDurationSec": "108.88814077777778",
       "engagedSessions": "5",
-      "engagementRate": "0.26315789473684209"
+      "engagementRate": "0.27777777777777779"
     },
     {
       "browser": "(not set)",
@@ -43,11 +43,11 @@
     },
     {
       "browser": "Android Webview",
-      "sessions": "5",
-      "activeUsers": "4",
-      "avgSessionDurationSec": "134.5192476",
+      "sessions": "6",
+      "activeUsers": "5",
+      "avgSessionDurationSec": "112.099373",
       "engagedSessions": "2",
-      "engagementRate": "0.4"
+      "engagementRate": "0.33333333333333331"
     },
     {
       "browser": "Opera",

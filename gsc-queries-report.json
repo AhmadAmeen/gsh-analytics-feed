@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-27T01:31:59.993Z",
+  "generatedAt": "2026-11-27T15:54:37.366Z",
   "totals": {
     "clicks": 158,
-    "impressions": 9208,
-    "ctr": 0.017158992180712426,
-    "position": 7.940269331016507
+    "impressions": 9212,
+    "ctr": 0.01715154146765089,
+    "position": 7.939752496743378
   },
   "rowCount": 1264,
   "rows": [
@@ -2180,9 +2180,9 @@
       "query": "ck3 grand strategy game official website",
       "page": "https://grand-strategy-hub.pages.dev/about/",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 3,
       "ctr": 0,
-      "position": 9.5
+      "position": 7.666666666666667
     },
     {
       "query": "ck3 harmonious succession",

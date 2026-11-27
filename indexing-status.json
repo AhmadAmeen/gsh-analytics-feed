@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-27T01:32:37.815Z",
-  "checked": 107,
+  "generatedAt": "2026-11-27T15:55:38.967Z",
+  "checked": 108,
   "indexed": 0,
   "crawledNotIndexed": 0,
   "discoveredNotIndexed": 0,
   "unknownToGoogle": 0,
   "other": 0,
-  "errors": 107,
+  "errors": 108,
   "rows": [
     {
       "url": "https://grand-strategy-hub.com/",
@@ -345,6 +345,11 @@
     },
     {
       "url": "https://grand-strategy-hub.com/blog/eu5-patch-1-4-rio-salado-patch-notes/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
+    },
+    {
+      "url": "https://grand-strategy-hub.com/blog/eu5-performance-late-game-speed/",
       "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
       "category": "error"
     },
