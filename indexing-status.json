@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-28T01:12:17.944Z",
-  "checked": 108,
+  "generatedAt": "2026-11-28T14:50:46.426Z",
+  "checked": 110,
   "indexed": 0,
   "crawledNotIndexed": 0,
   "discoveredNotIndexed": 0,
   "unknownToGoogle": 0,
   "other": 0,
-  "errors": 108,
+  "errors": 110,
   "rows": [
     {
       "url": "https://grand-strategy-hub.com/",
@@ -244,6 +244,11 @@
       "category": "error"
     },
     {
+      "url": "https://grand-strategy-hub.com/blog/eu5-best-trade-goods/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
+    },
+    {
       "url": "https://grand-strategy-hub.com/blog/eu5-black-death-survival-guide/",
       "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
       "category": "error"
@@ -260,6 +265,11 @@
     },
     {
       "url": "https://grand-strategy-hub.com/blog/eu5-combat-explained/",
+      "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
+      "category": "error"
+    },
+    {
+      "url": "https://grand-strategy-hub.com/blog/eu5-console-commands-guide/",
       "status": "ERROR: You do not own this site, or the inspected URL is not part of this property.",
       "category": "error"
     },
