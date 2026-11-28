@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-27T15:54:32.314Z",
+  "generatedAt": "2026-11-28T01:11:35.194Z",
   "rows": [
     {
       "landingPage": "/",
-      "sessions": "169",
+      "sessions": "170",
       "activeUsers": "158",
-      "avgSessionDurationSec": "77.998169106508882",
-      "engagementRate": "0.1242603550295858",
-      "pageViews": "220"
+      "avgSessionDurationSec": "79.227335370588236",
+      "engagementRate": "0.12941176470588237",
+      "pageViews": "222"
     },
     {
       "landingPage": "/blog/eu5-naval-warfare",
-      "sessions": "50",
-      "activeUsers": "21",
-      "avgSessionDurationSec": "183.8446079",
-      "engagementRate": "0.14",
-      "pageViews": "66"
+      "sessions": "52",
+      "activeUsers": "23",
+      "avgSessionDurationSec": "176.81841342307692",
+      "engagementRate": "0.13461538461538461",
+      "pageViews": "68"
     },
     {
       "landingPage": "/blog/ck3-silk-and-silver-merchants",
@@ -45,7 +45,7 @@
       "landingPage": "/blog/eu4-government-reforms",
       "sessions": "24",
       "activeUsers": "22",
-      "avgSessionDurationSec": "3.4230512083333338",
+      "avgSessionDurationSec": "3.4230512083333333",
       "engagementRate": "0.125",
       "pageViews": "25"
     },
@@ -67,11 +67,11 @@
     },
     {
       "landingPage": "/blog/eu5-patch-1-4-rio-salado-patch-notes",
-      "sessions": "22",
-      "activeUsers": "22",
-      "avgSessionDurationSec": "3.3450970454545454",
-      "engagementRate": "0.045454545454545456",
-      "pageViews": "23"
+      "sessions": "23",
+      "activeUsers": "23",
+      "avgSessionDurationSec": "3.447761",
+      "engagementRate": "0.043478260869565216",
+      "pageViews": "24"
     },
     {
       "landingPage": "/blog/eu5-army-composition",
@@ -91,11 +91,11 @@
     },
     {
       "landingPage": "/blog/ck3-best-starting-character",
-      "sessions": "16",
-      "activeUsers": "16",
-      "avgSessionDurationSec": "3.9475245625",
-      "engagementRate": "0.0625",
-      "pageViews": "17"
+      "sessions": "17",
+      "activeUsers": "17",
+      "avgSessionDurationSec": "3.7153172352941177",
+      "engagementRate": "0.058823529411764705",
+      "pageViews": "18"
     },
     {
       "landingPage": "/blog/ck3-china-guide-mandate-of-heaven",
@@ -114,11 +114,27 @@
       "pageViews": "17"
     },
     {
+      "landingPage": "/blog/ck3-how-to-play-merchant-silk-and-silver",
+      "sessions": "14",
+      "activeUsers": "14",
+      "avgSessionDurationSec": "2.8226753571428569",
+      "engagementRate": "0.14285714285714285",
+      "pageViews": "14"
+    },
+    {
       "landingPage": "/blog/ck3-intrigue-guide",
       "sessions": "14",
       "activeUsers": "14",
       "avgSessionDurationSec": "2.289569",
       "engagementRate": "0.071428571428571425",
+      "pageViews": "14"
+    },
+    {
+      "landingPage": "/blog/ck3-succession-laws",
+      "sessions": "14",
+      "activeUsers": "14",
+      "avgSessionDurationSec": "2.6606197857142857",
+      "engagementRate": "0",
       "pageViews": "14"
     },
     {
@@ -130,11 +146,19 @@
       "pageViews": "22"
     },
     {
-      "landingPage": "/blog/ck3-how-to-play-merchant-silk-and-silver",
+      "landingPage": "/blog/eu5-subjects-guide",
+      "sessions": "14",
+      "activeUsers": "13",
+      "avgSessionDurationSec": "10.057943857142858",
+      "engagementRate": "0.21428571428571427",
+      "pageViews": "15"
+    },
+    {
+      "landingPage": "/blog/ck3-republic-doge-guide",
       "sessions": "13",
       "activeUsers": "13",
-      "avgSessionDurationSec": "2.7692554615384615",
-      "engagementRate": "0.15384615384615385",
+      "avgSessionDurationSec": "2.5155925384615383",
+      "engagementRate": "0",
       "pageViews": "13"
     },
     {
@@ -146,27 +170,11 @@
       "pageViews": "14"
     },
     {
-      "landingPage": "/blog/ck3-succession-laws",
-      "sessions": "13",
-      "activeUsers": "13",
-      "avgSessionDurationSec": "2.4063146923076926",
-      "engagementRate": "0",
-      "pageViews": "13"
-    },
-    {
       "landingPage": "/blog/eu5-estate-private-armies",
       "sessions": "13",
       "activeUsers": "13",
       "avgSessionDurationSec": "107.05843515384616",
       "engagementRate": "0.23076923076923078",
-      "pageViews": "14"
-    },
-    {
-      "landingPage": "/blog/eu5-subjects-guide",
-      "sessions": "13",
-      "activeUsers": "12",
-      "avgSessionDurationSec": "8.0951373076923083",
-      "engagementRate": "0.15384615384615385",
       "pageViews": "14"
     },
     {
@@ -186,18 +194,18 @@
       "pageViews": "14"
     },
     {
+      "landingPage": "/blog/ck3-best-religion",
+      "sessions": "12",
+      "activeUsers": "12",
+      "avgSessionDurationSec": "3.6740629166666667",
+      "engagementRate": "0.083333333333333329",
+      "pageViews": "12"
+    },
+    {
       "landingPage": "/blog/ck3-culture-faith-mechanics",
       "sessions": "12",
       "activeUsers": "12",
       "avgSessionDurationSec": "2.1585514166666666",
-      "engagementRate": "0",
-      "pageViews": "12"
-    },
-    {
-      "landingPage": "/blog/ck3-republic-doge-guide",
-      "sessions": "12",
-      "activeUsers": "12",
-      "avgSessionDurationSec": "2.72522525",
       "engagementRate": "0",
       "pageViews": "12"
     },
@@ -232,14 +240,6 @@
       "avgSessionDurationSec": "128.80468872727272",
       "engagementRate": "0.27272727272727271",
       "pageViews": "15"
-    },
-    {
-      "landingPage": "/blog/ck3-best-religion",
-      "sessions": "11",
-      "activeUsers": "11",
-      "avgSessionDurationSec": "3.417158",
-      "engagementRate": "0.090909090909090912",
-      "pageViews": "11"
     }
   ]
 }
